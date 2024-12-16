@@ -1,0 +1,358 @@
+baseURL = "https://readymixkita.com/"
+languageCode = "id"
+title = "Readymix Kita | Supplier Beton Cor Readymix Kebanggaan Kita"
+theme = "saeseen-hugo"
+summaryLength = 25
+paginate = 6
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+  category = "/:slug/"
+
+[params]
+  # Site-wide settings
+  meta_description = "Supplier Cor Beton Readymix & Layanan Sewa Concrete Pump di Jabodetabek & Sekitarnya dengan Standar Mutu Terbaik"
+  viewport = "width=device-width, initial-scale=1.0"
+  fontawesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+  logo = "/images/logo/rk-logo-200x200.png"
+  logo_amp = "/images/logo/rk-logo-200x200.png"
+  footer_logo = "/images/logo/logo-readymix-kita-240x36.png"
+  favicon = "/images/logo/rk-logo-200x200.png"
+  featured_image = "/images/admin/featured-image.jpg"
+  author = "Harry Rusli"
+  telepon = "//+6281219909475"
+  whatsapp = "//api.whatsapp.com/send?phone=6281219909475&text=*Halo readymixkita.com*%20%3A"
+  enableWhatApps = true
+  enableTelepon = true
+  tocMinWordCount = 300
+  tableOfContent = "Daftar Isi:"
+  geo_latitude = -6.595038
+  geo_longitude = 106.817787
+  opening_hours = "Mo-Sa 08:00-17:00"
+
+# Schema settings
+  base_price = 750000
+  price_range = 2000000
+
+  categories = [
+    "Beton Ready Mix",
+    "Beton Curah Siap Pakai",
+    "Concrete Mix Berkualitas"
+]
+
+  payment_methods = [
+    "COD (Bayar di Tempat)",
+    "Transfer Bank", 
+    "DP 50%",
+    "Bayar Saat Tiba",
+    "Bayar Bertahap",
+    "Transfer Setelah Selesai"
+]
+
+  area_served = [
+    "Jakarta",
+    "Bogor", 
+    "Depok",
+    "Tangerang",
+    "Bekasi",
+    "Cikarang",
+    "Karawang",
+    "Bandung",
+    "Serang",
+    "Purwakarta",
+    "Cilegon",
+    "Rangkasbitung"
+]
+
+  keywords = [
+    "jual beton ready mix",
+    "beton truk molen",
+    "penyedia beton cor",
+    "beton mutu terbaik", 
+    "beton harga ekonomis",
+    "beton curah siap pakai"
+]
+
+free_shipping = true
+
+# Product 
+  materials = [
+    "Beton Ready Mix B0",
+    "Beton Ready Mix K225",
+    "Beton Ready Mix K250",
+    "Beton Ready Mix K300",
+    "Beton Ready Mix K350"
+]
+
+  return_policies = [
+    "Pengembalian dalam 1 hari jika produk tidak sesuai.",
+    "Tolak barang jika kualitas tidak sesuai spesifikasi.",
+    "Gratis biaya pengembalian untuk produk yang salah kirim."
+]
+
+# Service
+  service_types = [
+    "Sewa Concrete Pump Harian",
+    "Sewa Concrete Pump Mingguan", 
+    "Sewa Concrete Pump Long Boom",
+    "Sewa Pompa Beton Mini",
+    "Sewa Pompa Beton Master Long Boom"
+]
+
+cancellation_policies = [
+    "Pembatalan dapat dilakukan jika layanan tidak sesuai perjanjian.",
+    "Pengembalian dana jika hasil tidak memuaskan.",
+    "Revisi tanpa biaya tambahan jika kualitas layanan kurang optimal."
+]
+
+  service_output = "Pengecoran yang lebih cepat dan presisi dengan pompa beton handal untuk proyek konstruksi Anda."
+
+  # Profile Owner
+  profilePhoto = "/images/admin/harry.jpg"
+  ownerName = "Harry Rusli"
+  ownerProfession = "Spesialis Pemasaran Beton Ready Mix"
+  ownerHobbies = "Mempelajari inovasi di bidang konstruksi, menjelajahi batching plant, dan berinteraksi dengan pelaku konstruksi"
+  ownerMotto = "Membangun fondasi kuat untuk masa depan konstruksi yang lebih baik"
+
+  # Informasi Perusahaan
+  companyName = "ReadymixKita.com"
+  aboutUs = "Kami adalah perusahaan yang telah beroperasi selama lebih dari 5 tahun, menyediakan layanan beton cor readymix dan jasa pengecoran berkualitas tinggi di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk memberikan produk dan layanan terbaik yang memenuhi kebutuhan dan harapan pelanggan."
+  companyWeb = "readymixkita.com"
+
+  # Informasi Kontak
+  phone = "0812-1990-9475"
+  email = "csreadymixkita@gmail.com"
+  address = "Jl. Raya ciapus No. 09, Bogor - Jawa Barat 16600"
+  whatsappNumber = "6281219909475"
+
+ # Hero Section
+  hero_image = "/images/admin/header-bg.jpg"
+  hero_title = "Supplier Beton Ready Mix dan Jasa Pengecoran Terpercaya"
+  hero_description = "Solusi beton cor readymix berkualitas tinggi dengan pelayanan profesional untuk proyek konstruksi Anda. Didukung tim berpengalaman dan standar mutu terbaik untuk hasil pengecoran yang presisi dan tahan lama."
+  hero_cta_text = "Produk & Layanan"
+  services_cta_text = "Lihat Produk Beton Kami"
+
+# Footer Section
+  footer_about_title = "Kenapa Memilih Layanan Kami?"
+  footer_about_description = "Karena kami adalah pilihan jasa berpengalaman sebagai supplier beton cor readymix dan jasa pengecoran terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
+
+  footer_services_title = "Tentang Kami"
+  footer_contact_title = "Hubungi Kami"
+  footer_bottom_text = "@2024 Readymixkita. Hak Cipta Dilindungi."
+
+# Testimonials Section
+  testimonials_title = "Pendapat Klien Kami"
+  listhome_title = "Produk & Layanan Kami"
+
+# About Us
+  aboutUsTitle = "Tentang Kami"
+  aboutUsDescription = "Readymixkita.com adalah website resmi yang pemasaran beton curah siap pakai atau ready mix concrete langsung dari pabrik olahan beton (batching plant). Readymix Concrete merupakan jenis beton yang telah dicampur dengan proporsi yang tepat di pabrik dan dikirim ke lokasi konstruksi dalam keadaan siap digunakan."
+
+  partnersTitle = "Mitra Kami"
+  partnersDescription = "Berikut adalah mitra supplier beton kami"
+  partner1 = "Holcim Beton"
+  partner1Image = "/images/page/5.jpg"
+  partner2 = "Fresh Beton"
+  partner2Image = "/images/page/6.jpg"
+  partner3 = "Adhimix Beton"
+  partner3Image = "/images/page/7.jpg"
+  partner4 = "Pioneer Beton"
+  partner4Image = "/images/page/1.jpg"
+  partner5 = "Semen Indonesia"
+  partner5Image = "/images/page/2.jpg"
+  partner6 = "Merah Putih Beton"
+  partner6Image = "/images/page/3.jpg"
+
+  trucksTitle = "Armada Truk Mixer"
+  trucksDescription = "Armada Truk Lengkap Sesuai Dengan Kebutuhan"
+  truckMini = "Truk Mixer Mini"
+  truckMiniImage = "/images/page/trukmolenmini.jpg"
+  truckLarge = "Truk Mixer Besar"
+  truckLargeImage = "/images/page/trukmixerbesar.jpg"
+
+  toolsTitle = "Alat Bantu Cor"
+  toolsDescription = "Pompa Beton Untuk Mempercepat Proses Penuangan Beton"
+  toolStandardTitle = "Pompa Beton Standar"
+  toolStandardDescription = "Mesin pompa cor jangkauan 1 - 3 lantai"
+  toolStandardImage = "/images/page/pompastandar.jpg"
+  toolLongBoomTitle = "Pompa Long Boom"
+  toolLongBoomDescription = "Mesin pompa cor jangkauan 4 - 7 lantai"
+  toolLongBoomImage = "/images/page/longboom.jpg"
+  toolSuperLongBoomTitle = "Pompa Super Long Boom"
+  toolSuperLongBoomDescription = "Mesin pompa cor jangkauan 8 - 11 lantai"
+  toolSuperLongBoomImage = "/images/page/superlongboom.jpg"
+  toolFrogPumpTitle = "Pompa Kodok"
+  toolFrogPumpDescription = "Mesin pompa cor portable/fleksibel"
+  toolFrogPumpImage = "/images/page/superlongboom.jpg"
+
+  servicesTitle = "Layanan"
+  service1 = "Pengecoran Jalan"
+  service2 = "Pengecoran Dak Rumah"
+  service3 = "Pengecoran Parkiran"
+
+  [[params.footer_services]]
+  text = "Readymixkita.com adalah website resmi yang pemasaran beton curah siap pakai atau ready mix concrete langsung dari pabrik olahan beton (batching plant). Readymix Concrete merupakan jenis beton yang telah dicampur dengan proporsi yang tepat di pabrik dan dikirim ke lokasi konstruksi dalam keadaan siap digunakan."
+
+  [[params.footer_contact]]
+    icon = "fas fa-map-marker-alt"
+    text = "Jl. Raya ciapus No. 09, Bogor - Jawa Barat 16600"
+  [[params.footer_contact]]
+    icon = "fas fa-phone-alt"
+    text = "0812-1990-9475"
+  [[params.footer_contact]]
+    icon = "fas fa-envelope"
+    text = "csreadymixkita@gmail.com"
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar1.png"
+name = "{Budi|Joko|Andi|Eko|Rudi|Fajar|Hendra|Samsul|Agus|Dedi|Surya|Irwan|Gunawan|Dani|Rahman}"
+message = "Saya {sangat puas|terkesan|kagum} dengan {layanan|service|jasa} readymix beton dari readymixkita.com untuk {proyek|pembangunan|konstruksi|pengerjaan|renovasi} {rumah|gedung|bangunan} saya. {Hasilnya|Kualitasnya|Pengerjaannya} {sangat memuaskan|luar biasa|menakjubkan|sempurna|excellent} dan {proses pengerjaannya|pelaksanaannya|penanganannya} {sangat rapi|profesional|terstruktur|sistematis|terorganisir}. {Tim teknisnya|Para pekerjanya|Stafnya} {sangat berpengalaman|ahli|kompeten|handal|terampil} dan beton yang {disediakan|dikirim|dipasok|digunakan} {berkualitas tinggi|bermutu premium|kualitas terbaik|standar tinggi}."
+response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi} atas {kepercayaan|dukungan|pilihan|keyakinan|penilaian} Anda! Kami {akan terus|selalu|senantiasa|berkomitmen} {memberikan|menghadirkan|menyajikan} {layanan|service|pengerjaan} {terbaik|optimal|maksimal|berkualitas} untuk setiap {proyek|pekerjaan|konstruksi} {pelanggan|client|customer} kami."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar2.png"
+name = "{Siti|Dewi|Rina|Maya|Lina|Sari|Fitri|Nur|Diah|Ayu|Sarah|Putri|Ratna|Nina|Lisa}"
+message = "readymixkita.com {sangat membantu|mempermudah|menyelesaikan|memfasilitasi|mendukung} dalam {memenuhi|menyediakan|mengakomodasi|merealisasikan} kebutuhan beton untuk {proyek|pembangunan|konstruksi|pengerjaan} kami di {Jabodetabek|Jakarta dan sekitarnya|area Jakarta|wilayah Jabodetabek}. {Produk|Material|Beton} yang {kami terima|dikirimkan|disuplai|dipasok} {selalu|senantiasa|konsisten} {berkualitas|bermutu tinggi|terjamin mutunya|sesuai standar} dan {pengirimannya|deliverynya|distribusinya} {tepat waktu|on time|sesuai jadwal|tidak terlambat}. {Pelayanannya|Servicenya|Handling proyeknya} juga {sangat memuaskan|professional|excellent|luar biasa}."
+response = "{Terima kasih|Kami apresiasi|Penghargaan tinggi} atas {ulasan|review|testimoni|feedback} {positifnya|baiknya|membangunnya}! {Kepuasan|Kepercayaan|Kenyamanan} {pelanggan|client|customer} adalah {prioritas|fokus|komitmen} utama kami dalam {memberikan|menyediakan|menghadirkan} layanan beton readymix."
+rating = 4
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar3.png"
+name = "{Joko|Bambang|Hadi|Tono|Gilang|Bayu|Faisal|Rizal|Ali|Ahmad|Rudi|Danu|Fadli|Yusuf|Rama}"
+message = "{Pengalaman|Profesionalitas|Keahlian} {5 tahun|bertahun-tahun|yang panjang} mereka {benar-benar|sangat|sungguh} {terlihat|terbukti|tercermin|tergambar} dari {kualitas|mutu|hasil} pengerjaan dan {layanan|service|penanganan proyek} yang {profesional|berkualitas|excellent|memuaskan|terpercaya}. {Sangat puas|Senang sekali|Puas sekali|Bangga|Terkesan} dengan {hasil|kualitas|mutu} {pengecoran|konstruksi|pembangunan} dari readymixkita.com. {Tim lapangan|Pekerja|Staf teknis}nya {sangat kooperatif|ramah|responsif|cepat tanggap|profesional}."
+response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih} atas {kepercayaannya|dukungannya|penilaiannya}! Kami {akan terus|selalu|senantiasa} {berupaya|berusaha|berkomitmen} memberikan {layanan|service|pengerjaan} {terbaik|optimal|maksimal} dengan {standar|kualitas|mutu} tinggi untuk setiap {proyek|pekerjaan|konstruksi}."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar4.png"
+name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi|Wisnu|Dharma|Adit|Putra|Ramli}"
+message = "Tim readymixkita.com {sangat memahami|mengerti dengan baik|memahami betul|sangat mengerti|paham sekali} {kebutuhan|keperluan|permintaan|spesifikasi|requirement} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} kami. {Hasil pengecoran|Kualitas beton|Mutu material|Hasil akhir|Pengerjaannya} dan {ketepatan waktu|timeline|jadwal|timing|kecepatan} {pengiriman|delivery|distribusi|supply|penyaluran} {sangat memuaskan|luar biasa|excellent|sempurna|top notch}. {Tidak ada kendala|Semua lancar|Proses mulus|Tanpa hambatan|Sangat lancar} dari {awal|mulai|start} hingga {selesai|finish|akhir|pembangunan rampung|proyek berakhir}."
+response = "Kami {senang|gembira|bahagia|bersyukur} bisa {membantu|mendukung|berkontribusi|berpartisipasi|terlibat}! {Kepuasan|Kepercayaan|Kenyamanan|Kebahagiaan|Feedback} pelanggan adalah {motivasi|dorongan|semangat|inspirasi} kami untuk terus {meningkatkan|mengembangkan|memperbaiki|memaksimalkan|mengoptimalkan} {kualitas|mutu|standar|level} layanan."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar5.png"
+name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah|Anita|Vina|Rini|Susan|Clara}"
+message = "Pelayanan readymixkita.com {sangat membantu|memudahkan|mempercepat|melancarkan|mengoptimalkan} {proyek|pembangunan|konstruksi|pengerjaan|pekerjaan} {konstruksi|pembangunan|pengembangan|renovasi} kami. {Proses pengerjaan|Pelaksanaan|Implementasi|Eksekusi|Penanganan} {rapi|teratur|terstruktur|sistematis|profesional} dan {hasilnya|outcomenya|kualitasnya|mutunya|produknya} {memuaskan|berkualitas|excellent|sempurna|optimal}. {Komunikasi|Koordinasi|Interaksi|Hubungan kerja|Kolaborasi} dengan tim teknis juga {sangat baik|lancar|profesional|responsif|cepat tanggap}. {Harga|Biaya|Tarif|Price|Rate}nya juga {sangat kompetitif|bersaing|reasonable|terjangkau|ekonomis}."
+response = "{Terima kasih|Kami berterima kasih|Apresiasi tinggi|Penghargaan|Syukron} atas {kepercayaan|dukungan|keyakinan|penilaian|testimoni} Anda! Kami {berkomitmen|bertekad|berdedikasi|berusaha|berupaya} untuk selalu {memberikan|menghadirkan|menyajikan|mempersembahkan|menyediakan} {hasil|outcome|kualitas|produk} {terbaik|optimal|maksimal|superior|excellent} untuk setiap {proyek|pekerjaan|konstruksi|pembangunan}."
+rating = 5
+
+[[params.testimonials]]
+avatar = "/images/admin/avatar6.png"
+name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan|Indra|Arief|Hafiz|Ridwan|Lukman}"
+message = "{Kualitas|Mutu|Standar} beton dan {layanan|service|pelayanan|pengerjaan|penanganan} dari readymixkita.com {selalu konsisten|sangat terjaga|terjamin|reliable|dapat diandalkan}. {Tim teknisnya|Para pekerjanya|Stafnya|Personilnya|Timnya} {sangat kooperatif|profesional|berpengalaman|terampil|ahli} dan {cepat tanggap|responsif|sigap|proaktif|solutif} dalam {menangani|mengerjakan|menyelesaikan|mengeksekusi|mengatasi} setiap {situasi|kondisi|keadaan|masalah|tantangan}. {Sangat merekomendasikan|Pasti merekomendasikan|Merekomendasikan sekali|Tidak ragu merekomendasikan|Siap merekomendasikan} untuk {proyek|pekerjaan|konstruksi|pembangunan} {skala besar|skala kecil|segala ukuran|berbagai skala|semua jenis proyek}."
+response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih|Penghargaan|Syukron} atas {rekomendasinya|referensinya|testimoninya|dukungannya|kepercayaannya}! Kami akan {terus|selalu|senantiasa|konsisten} {menjaga|mempertahankan|meningkatkan|mengembangkan|mengoptimalkan} {kualitas|mutu|standar} dan {layanan|service|pengerjaan} kami untuk {kepuasan|kenyamanan|kebahagiaan} {pelanggan|client|customer|konsumen|mitra}."
+rating = 5
+
+[[params.tabelItems]]
+  name = "Readymix Kelas B0"
+  price = "870.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K225"
+  price = "640.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K250"
+  price = "860.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K300"
+  price = "900.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Kelas K350"
+  price = "940.000 /m3"
+
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Mini"
+  price = "3.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Super Long"
+  price = "25.000.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Master Long"
+  price = "35.000.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Standar"
+  price = "3.800.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Long Boom"
+  price = "7.500.000 /hari"
+
+[params.appliList]
+  "Readymix Kelas B0" = "cocok untuk pondasi dasar dan lapisan pertama"
+  "Readymix Kelas K225" = "ideal untuk dinding dan kolom struktural"
+  "Readymix Kelas K250" = "pilihan tepat untuk lantai dan jalan kecil"
+  "Readymix Kelas K300" = "untuk jalan utama dan konstruksi yang lebih berat"
+  "Readymix Kelas K350" = "dirancang untuk jembatan dan bangunan tinggi"
+  "Sewa Concrete Pump Mini" = "untuk pengecoran di lokasi terbatas atau sulit dijangkau"
+  "Sewa Concrete Pump Super Long" = "proyek besar dengan jarak pengecoran yang jauh"
+  "Sewa Concrete Pump Master Long" = "volume pengecoran besar dengan jarak panjang"
+  "Sewa Concrete Pump Standar" = "proyek skala kecil hingga menengah"
+  "Sewa Concrete Pump Long Boom" = "untuk bangunan tinggi atau area yang sulit dijangkau"
+
+[params.kegunaanList]
+  "Readymix Kelas B0" = "digunakan untuk pekerjaan dasar pondasi"
+  "Readymix Kelas K225" = "cocok untuk kolom dan dinding struktural"
+  "Readymix Kelas K250" = "digunakan untuk lantai dan jalan ringan"
+  "Readymix Kelas K300" = "untuk jalan raya dan konstruksi yang kokoh"
+  "Readymix Kelas K350" = "tepat untuk jembatan dan struktur bertingkat"
+  "Sewa Concrete Pump Mini" = "ideal untuk area sempit atau akses terbatas"
+  "Sewa Concrete Pump Super Long" = "cocok untuk proyek dengan jarak pengecoran yang jauh"
+  "Sewa Concrete Pump Master Long" = "untuk proyek dengan volume besar dan jarak panjang"
+  "Sewa Concrete Pump Standar" = "solusi untuk proyek skala kecil hingga menengah"
+  "Sewa Concrete Pump Long Boom" = "dipakai untuk bangunan tinggi dan lokasi sulit dijangkau"
+
+  # Menu Section
+  [[params.menu_items]]
+    title = "Beranda"
+    url = "/"
+  [[params.menu_items]]
+    title = "Kontak"
+    url = "/contact/"
+
+  [[params.menu_items]]
+    title = "Concret Pump"
+    url = "/pompa/"
+
+  [[params.menu_items]]
+    title = "Readymix"
+    url = "/readymix/"
+
+  [[params.menu_items]]
+    title = "Harga & Biaya"
+    url = "/post/"
+
+  [[params.menu_items]]
+    title = "Profile"
+    url = "/about-us/"
+
+[params.header]
+   title = "Jasa Pengecoran Readymix Cor & Sewa Concrete Pump Terbaik | "
+   highlight = "ReadymixKita"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML", "AMP"]
+
+[outputFormats]
+  [outputFormats.AMP]
+    mediaType = "text/html"
+    baseName = "amp/index"
+    path = ""
+    isPlainText = false
+    permalinkable = true
+    rel = "amphtml"
