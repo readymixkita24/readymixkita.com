@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap. Oleh karena itu
 
 ## Daftar Harga Sewa Belalai Cor di Tanjung Duren Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Tanjung Duren Jakarta!
 

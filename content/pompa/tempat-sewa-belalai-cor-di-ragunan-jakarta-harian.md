@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Ragunan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Ragunan Jakarta!
 

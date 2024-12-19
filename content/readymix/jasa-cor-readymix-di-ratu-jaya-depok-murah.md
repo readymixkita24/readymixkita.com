@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan utama dalam proyek 
 
 ## Daftar Harga Jasa Cor Readymix di Ratu Jaya Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Ratu Jaya Depok!
 

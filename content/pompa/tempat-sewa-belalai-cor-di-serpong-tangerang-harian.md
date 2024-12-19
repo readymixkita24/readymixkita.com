@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Oleh karena itu, kami mena
 
 ## Daftar Harga Sewa Belalai Cor di Serpong Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Serpong Tangerang!
 

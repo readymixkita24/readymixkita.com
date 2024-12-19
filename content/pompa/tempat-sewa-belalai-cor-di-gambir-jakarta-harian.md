@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Oleh ka
 
 ## Daftar Harga Sewa Belalai Cor di Gambir Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Gambir Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami menawa
 
 ## Daftar Harga Sewa Belalai Cor di Semanan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Semanan Jakarta!
 

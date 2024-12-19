@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap proyek. Oleh karena itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Kapuk Muara Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Kapuk Muara Jakarta!
 

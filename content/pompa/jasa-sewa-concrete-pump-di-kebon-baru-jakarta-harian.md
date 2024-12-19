@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap proyek. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Concrete Pump di Kebon Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Kebon Baru Jakarta!
 

@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan penting dalam proye
 
 ## Daftar Harga Jasa Beton Readymix di Kalibaru Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Kalibaru Depok!
 

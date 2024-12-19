@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap proyek. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Belalai Cor di Melawai Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Melawai Jakarta!
 

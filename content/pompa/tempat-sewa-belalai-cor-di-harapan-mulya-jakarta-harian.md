@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap. Karena itu, kami menyedi
 
 ## Daftar Harga Sewa Belalai Cor di Harapan Mulya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Harapan Mulya Jakarta!
 

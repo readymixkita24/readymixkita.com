@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan penting dalam setiap. 
 
 ## Daftar Harga Sewa Belalai Cor di Sukapura Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Sukapura Jakarta!
 

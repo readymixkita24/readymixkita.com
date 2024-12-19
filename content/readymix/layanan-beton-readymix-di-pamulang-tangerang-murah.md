@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan penting dalam proyek ko
 
 ## Daftar Harga Jasa Beton Readymix di Pamulang Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pamulang Tangerang!
 

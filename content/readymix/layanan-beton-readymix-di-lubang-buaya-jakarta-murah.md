@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap jenis proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Lubang Buaya Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Lubang Buaya Jakarta!
 

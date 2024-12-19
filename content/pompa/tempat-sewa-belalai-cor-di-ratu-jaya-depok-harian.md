@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Ratu Jaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Ratu Jaya Depok!
 

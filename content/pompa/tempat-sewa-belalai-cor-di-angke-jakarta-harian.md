@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap. Untuk itu, kami menawar
 
 ## Daftar Harga Sewa Belalai Cor di Angke Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Angke Jakarta!
 

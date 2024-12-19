@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor utama dalam proyek konstr
 
 ## Daftar Harga Jasa Beton Readymix di Krukut Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Krukut Jakarta!
 

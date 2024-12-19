@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan utama dalam proyek k
 
 ## Daftar Harga Jasa Cor Readymix di Pamoyanan Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pamoyanan Bogor!
 

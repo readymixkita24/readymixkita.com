@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor utama dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Babakan Pasar Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Babakan Pasar Bogor!
 

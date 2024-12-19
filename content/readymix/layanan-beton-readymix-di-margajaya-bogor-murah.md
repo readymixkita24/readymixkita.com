@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan utama dalam proyek k
 
 ## Daftar Harga Jasa Beton Readymix di Margajaya Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Margajaya Bogor!
 

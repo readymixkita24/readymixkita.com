@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap. Karena itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Malaka Sari Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Malaka Sari Jakarta!
 

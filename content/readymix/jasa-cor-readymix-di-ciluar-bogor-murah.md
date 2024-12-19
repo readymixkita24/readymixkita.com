@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor utama dalam proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Ciluar Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Ciluar Bogor!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Cipinang Melayu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Cipinang Melayu Jakarta!
 

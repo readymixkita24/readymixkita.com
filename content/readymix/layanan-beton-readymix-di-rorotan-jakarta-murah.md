@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor penting dalam proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Rorotan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang kurang memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Rorotan Jakarta!
 

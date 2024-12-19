@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap. Karena itu, kami meny
 
 ## Daftar Harga Sewa Belalai Cor di Klender Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Klender Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Kar
 
 ## Daftar Harga Sewa Concrete Pump di Karawaci Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Karawaci Tangerang!
 

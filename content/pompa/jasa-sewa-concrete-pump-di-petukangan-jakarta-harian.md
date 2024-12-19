@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Karena itu, kami menyediak
 
 ## Daftar Harga Sewa Concrete Pump di Petukangan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Petukangan Jakarta!
 

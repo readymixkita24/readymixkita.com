@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Cakung Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Cakung Jakarta!
 

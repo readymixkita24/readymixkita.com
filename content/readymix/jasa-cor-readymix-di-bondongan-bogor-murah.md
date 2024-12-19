@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor penting dalam proyek k
 
 ## Daftar Harga Jasa Cor Readymix di Bondongan Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Bondongan Bogor!
 

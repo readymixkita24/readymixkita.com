@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap proyek. Karena itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Baranangsiang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Baranangsiang Bogor!
 

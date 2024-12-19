@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor penting dalam proyek k
 
 ## Daftar Harga Jasa Cor Readymix di Leuwinanggung Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Leuwinanggung Depok!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Oleh k
 
 ## Daftar Harga Sewa Concrete Pump di Rawa Terate Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Rawa Terate Jakarta!
 

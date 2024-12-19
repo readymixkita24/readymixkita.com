@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap proyek. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Belalai Cor di Jati Padang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Jati Padang Jakarta!
 

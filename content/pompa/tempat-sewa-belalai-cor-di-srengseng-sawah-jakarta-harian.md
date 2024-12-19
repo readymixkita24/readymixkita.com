@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Untuk itu
 
 ## Daftar Harga Sewa Belalai Cor di Srengseng Sawah Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Srengseng Sawah Jakarta!
 

@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan utama dalam proyek k
 
 ## Daftar Harga Jasa Beton Readymix di Duri Kepa Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Duri Kepa Jakarta!
 

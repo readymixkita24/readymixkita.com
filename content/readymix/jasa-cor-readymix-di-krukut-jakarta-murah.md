@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Cor Readymix di Krukut Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Krukut Jakarta!
 

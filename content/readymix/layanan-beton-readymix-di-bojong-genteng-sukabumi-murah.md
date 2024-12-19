@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu pertimbangan penting dalam proyek 
 
 ## Daftar Harga Jasa Beton Readymix di Bojong Genteng Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Bojong Genteng Sukabumi!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap. Oleh karena itu
 
 ## Daftar Harga Sewa Belalai Cor di Pengadegan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Pengadegan Jakarta!
 

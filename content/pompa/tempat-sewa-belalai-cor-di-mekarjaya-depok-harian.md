@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap proyek. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Mekarjaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Mekarjaya Depok!
 

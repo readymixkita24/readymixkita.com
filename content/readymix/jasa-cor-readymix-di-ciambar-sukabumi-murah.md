@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap jenis proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Ciambar Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Ciambar Sukabumi!
 

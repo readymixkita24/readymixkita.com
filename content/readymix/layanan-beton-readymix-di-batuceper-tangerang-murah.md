@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu pertimbangan penting dalam proyek 
 
 ## Daftar Harga Jasa Beton Readymix di Batuceper Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Batuceper Tangerang!
 

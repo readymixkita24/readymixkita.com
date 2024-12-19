@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu utama dalam setiap. Karena itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Slipi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Slipi Jakarta!
 

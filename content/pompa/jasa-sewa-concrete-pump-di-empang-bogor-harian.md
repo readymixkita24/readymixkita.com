@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Empang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Empang Bogor!
 

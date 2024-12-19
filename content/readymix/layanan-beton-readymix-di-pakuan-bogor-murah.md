@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor penting dalam proyek kons
 
 ## Daftar Harga Jasa Beton Readymix di Pakuan Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Pakuan Bogor!
 

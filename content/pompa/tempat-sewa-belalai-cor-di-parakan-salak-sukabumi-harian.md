@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Karen
 
 ## Daftar Harga Sewa Belalai Cor di Parakan Salak Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Parakan Salak Sukabumi!
 

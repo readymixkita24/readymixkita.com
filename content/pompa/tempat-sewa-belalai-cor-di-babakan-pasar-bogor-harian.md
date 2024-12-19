@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Untuk itu, kami menawarkan
 
 ## Daftar Harga Sewa Belalai Cor di Babakan Pasar Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Babakan Pasar Bogor!
 

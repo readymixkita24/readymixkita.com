@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Cilangkap Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Cilangkap Depok!
 

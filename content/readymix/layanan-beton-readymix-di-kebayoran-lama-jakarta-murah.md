@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan penting dalam proyek konstru
 
 ## Daftar Harga Jasa Beton Readymix di Kebayoran Lama Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kebayoran Lama Jakarta!
 

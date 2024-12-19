@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Jampang Tengah Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Jampang Tengah Sukabumi!
 

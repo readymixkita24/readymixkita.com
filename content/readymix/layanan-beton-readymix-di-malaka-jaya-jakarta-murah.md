@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor utama dalam proyek konstruk
 
 ## Daftar Harga Jasa Beton Readymix di Malaka Jaya Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Malaka Jaya Jakarta!
 

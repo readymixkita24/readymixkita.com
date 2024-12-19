@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap. Oleh karena
 
 ## Daftar Harga Sewa Belalai Cor di Cinere Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Cinere Depok!
 

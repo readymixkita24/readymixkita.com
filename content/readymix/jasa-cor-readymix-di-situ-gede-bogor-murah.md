@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan utama dalam proyek 
 
 ## Daftar Harga Jasa Cor Readymix di Situ Gede Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Situ Gede Bogor!
 

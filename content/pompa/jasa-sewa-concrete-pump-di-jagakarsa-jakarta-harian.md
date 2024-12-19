@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap. Karena itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Jagakarsa Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Jagakarsa Jakarta!
 

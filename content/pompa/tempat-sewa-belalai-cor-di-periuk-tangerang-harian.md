@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan utama dalam setiap. Oleh karena it
 
 ## Daftar Harga Sewa Belalai Cor di Periuk Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Periuk Tangerang!
 

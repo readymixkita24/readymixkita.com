@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan penting dalam setiap proyek. Karena it
 
 ## Daftar Harga Sewa Belalai Cor di Kalimulya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Kalimulya Depok!
 

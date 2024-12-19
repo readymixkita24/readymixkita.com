@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap proyek. Oleh karena itu,
 
 ## Daftar Harga Sewa Concrete Pump di Kelapa Gading Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Kelapa Gading Jakarta!
 

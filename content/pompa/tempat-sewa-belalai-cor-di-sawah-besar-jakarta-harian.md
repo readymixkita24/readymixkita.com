@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap proyek. Oleh karena itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Sawah Besar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Sawah Besar Jakarta!
 

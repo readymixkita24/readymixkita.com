@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu utama dalam setiap proyek. Karena itu
 
 ## Daftar Harga Sewa Concrete Pump di Bale Kambang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Bale Kambang Jakarta!
 

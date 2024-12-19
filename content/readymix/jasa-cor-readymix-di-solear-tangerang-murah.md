@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu pertimbangan utama dalam proy
 
 ## Daftar Harga Jasa Cor Readymix di Solear Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Solear Tangerang!
 

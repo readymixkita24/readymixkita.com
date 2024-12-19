@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap. Karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Sindangrasa Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Sindangrasa Bogor!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap. Karena itu, kami menyedi
 
 ## Daftar Harga Sewa Concrete Pump di Cikini Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Cikini Jakarta!
 

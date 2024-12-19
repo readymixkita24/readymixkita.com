@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Untuk 
 
 ## Daftar Harga Sewa Belalai Cor di Pondok Cina Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Pondok Cina Depok!
 

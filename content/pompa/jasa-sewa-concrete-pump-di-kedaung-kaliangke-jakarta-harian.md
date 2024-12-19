@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu penting dalam setiap proyek. Unt
 
 ## Daftar Harga Sewa Concrete Pump di Kedaung Kaliangke Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Kedaung Kaliangke Jakarta!
 

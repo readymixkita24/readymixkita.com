@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Concrete Pump di Kapuk Muara Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Kapuk Muara Jakarta!
 

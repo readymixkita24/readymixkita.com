@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Papanggo Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Papanggo Jakarta!
 

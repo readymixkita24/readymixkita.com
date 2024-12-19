@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu utama dalam setiap. Untuk itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Tegal Alur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Tegal Alur Jakarta!
 

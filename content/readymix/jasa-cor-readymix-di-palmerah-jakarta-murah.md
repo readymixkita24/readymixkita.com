@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan penting dalam proye
 
 ## Daftar Harga Jasa Cor Readymix di Palmerah Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Palmerah Jakarta!
 

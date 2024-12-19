@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap jenis proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Caringin Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Caringin Sukabumi!
 

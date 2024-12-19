@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Rawajati Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Rawajati Jakarta!
 

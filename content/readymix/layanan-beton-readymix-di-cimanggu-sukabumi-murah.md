@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek konstruksi. Ole
 
 ## Daftar Harga Jasa Beton Readymix di Cimanggu Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Cimanggu Sukabumi!
 

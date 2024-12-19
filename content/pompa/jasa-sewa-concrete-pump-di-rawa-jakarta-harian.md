@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Kare
 
 ## Daftar Harga Sewa Concrete Pump di Rawa Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Rawa Jakarta!
 

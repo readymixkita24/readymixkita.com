@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Oleh kar
 
 ## Daftar Harga Sewa Belalai Cor di Pangkalan Jati Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Pangkalan Jati Depok!
 

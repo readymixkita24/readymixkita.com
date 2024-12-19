@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Cipaku Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Cipaku Bogor!
 

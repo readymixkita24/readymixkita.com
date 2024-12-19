@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor penting dalam proyek k
 
 ## Daftar Harga Jasa Cor Readymix di Kedung Badak Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Kedung Badak Bogor!
 

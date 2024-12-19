@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu utama dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Tegal Alur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Tegal Alur Jakarta!
 

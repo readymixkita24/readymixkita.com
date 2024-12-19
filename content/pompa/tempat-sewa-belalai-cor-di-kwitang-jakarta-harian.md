@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu utama dalam setiap proyek. Oleh karen
 
 ## Daftar Harga Sewa Belalai Cor di Kwitang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Kwitang Jakarta!
 

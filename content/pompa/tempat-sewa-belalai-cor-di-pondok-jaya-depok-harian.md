@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap proyek. Karena itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Pondok Jaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Pondok Jaya Depok!
 

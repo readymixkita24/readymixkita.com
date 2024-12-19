@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor utama dalam setiap proyek. O
 
 ## Daftar Harga Sewa Concrete Pump di Duri Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Duri Jakarta!
 

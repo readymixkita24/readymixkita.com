@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Beton Readymix di Sindangrasa Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Sindangrasa Bogor!
 

@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan utama dalam proyek 
 
 ## Daftar Harga Jasa Cor Readymix di Jatijajar Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Jatijajar Depok!
 

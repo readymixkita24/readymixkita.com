@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap. Untuk itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Genteng Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Genteng Bogor!
 

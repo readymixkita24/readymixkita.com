@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Un
 
 ## Daftar Harga Sewa Belalai Cor di Cisaat Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Cisaat Sukabumi!
 

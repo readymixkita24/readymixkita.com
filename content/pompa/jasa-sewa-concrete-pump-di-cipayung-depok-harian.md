@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan utama dalam setiap pro
 
 ## Daftar Harga Sewa Concrete Pump di Cipayung Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Cipayung Depok!
 

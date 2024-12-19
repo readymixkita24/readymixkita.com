@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Semanan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Semanan Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Untuk itu, kami men
 
 ## Daftar Harga Sewa Belalai Cor di Sukadiri Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Sukadiri Tangerang!
 

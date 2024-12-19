@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan penting dalam setiap proye
 
 ## Daftar Harga Sewa Belalai Cor di Kamal Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Kamal Jakarta!
 

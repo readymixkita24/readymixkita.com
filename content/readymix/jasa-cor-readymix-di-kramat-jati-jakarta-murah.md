@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Kramat Jati Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Kramat Jati Jakarta!
 

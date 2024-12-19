@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Sempur Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Sempur Bogor!
 

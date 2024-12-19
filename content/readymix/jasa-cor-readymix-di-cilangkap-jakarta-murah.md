@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan penting dalam proyek ko
 
 ## Daftar Harga Jasa Cor Readymix di Cilangkap Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Cilangkap Jakarta!
 

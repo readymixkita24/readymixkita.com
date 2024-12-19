@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Belalai Cor di Cibubur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Cibubur Jakarta!
 

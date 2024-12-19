@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap proyek. Karena itu, kami menyed
 
 ## Daftar Harga Sewa Belalai Cor di Larangan Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Larangan Tangerang!
 

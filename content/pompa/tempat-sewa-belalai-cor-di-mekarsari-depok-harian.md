@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Mekarsari Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Mekarsari Depok!
 

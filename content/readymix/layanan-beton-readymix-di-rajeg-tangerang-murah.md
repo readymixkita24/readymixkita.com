@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap jenis proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Rajeg Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Rajeg Tangerang!
 

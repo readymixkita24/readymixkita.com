@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Pasir Kuda Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Pasir Kuda Bogor!
 

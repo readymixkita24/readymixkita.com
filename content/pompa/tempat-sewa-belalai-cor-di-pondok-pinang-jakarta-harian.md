@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu utama dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Pondok Pinang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Pondok Pinang Jakarta!
 

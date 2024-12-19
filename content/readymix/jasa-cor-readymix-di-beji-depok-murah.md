@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Beji Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Beji Depok!
 

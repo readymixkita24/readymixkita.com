@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Bojong Genteng Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Bojong Genteng Sukabumi!
 

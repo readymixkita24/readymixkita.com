@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Beton Readymix di Sukamulya Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Sukamulya Tangerang!
 

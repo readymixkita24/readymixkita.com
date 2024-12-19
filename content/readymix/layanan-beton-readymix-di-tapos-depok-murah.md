@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu pertimbangan penting dalam proye
 
 ## Daftar Harga Jasa Beton Readymix di Tapos Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Tapos Depok!
 

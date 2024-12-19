@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap proyek. Karena itu, kami 
 
 ## Daftar Harga Sewa Concrete Pump di Kampung Bali Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Kampung Bali Jakarta!
 

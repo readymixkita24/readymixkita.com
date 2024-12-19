@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap. Karena itu, kami menyedia
 
 ## Daftar Harga Sewa Concrete Pump di Benda Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Benda Tangerang!
 

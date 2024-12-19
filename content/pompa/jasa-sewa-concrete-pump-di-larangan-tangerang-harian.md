@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor penting dalam setiap. Oleh kare
 
 ## Daftar Harga Sewa Concrete Pump di Larangan Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Larangan Tangerang!
 

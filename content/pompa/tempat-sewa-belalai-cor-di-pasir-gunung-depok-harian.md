@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Ol
 
 ## Daftar Harga Sewa Belalai Cor di Pasir Gunung Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Pasir Gunung Depok!
 

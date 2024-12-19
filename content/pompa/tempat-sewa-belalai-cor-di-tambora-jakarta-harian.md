@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap. Oleh karen
 
 ## Daftar Harga Sewa Belalai Cor di Tambora Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Tambora Jakarta!
 

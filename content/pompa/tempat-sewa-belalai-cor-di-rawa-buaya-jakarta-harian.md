@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan penting dalam setiap p
 
 ## Daftar Harga Sewa Belalai Cor di Rawa Buaya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Rawa Buaya Jakarta!
 

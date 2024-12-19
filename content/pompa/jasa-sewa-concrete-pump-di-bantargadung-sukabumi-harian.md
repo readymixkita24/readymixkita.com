@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Bantargadung Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Bantargadung Sukabumi!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap jenis proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Tegal Gundil Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Tegal Gundil Bogor!
 

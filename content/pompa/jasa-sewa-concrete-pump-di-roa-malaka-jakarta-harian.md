@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Roa Malaka Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Roa Malaka Jakarta!
 

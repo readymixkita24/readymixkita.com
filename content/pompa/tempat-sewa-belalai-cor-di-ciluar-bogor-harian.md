@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu, kam
 
 ## Daftar Harga Sewa Belalai Cor di Ciluar Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Ciluar Bogor!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor penting dalam setiap proyek. Kar
 
 ## Daftar Harga Sewa Belalai Cor di Wijaya Kusuma Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Wijaya Kusuma Jakarta!
 

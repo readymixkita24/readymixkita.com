@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan penting dalam setiap. 
 
 ## Daftar Harga Sewa Belalai Cor di Panaragan Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Panaragan Bogor!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan utama dalam setiap. Oleh karena it
 
 ## Daftar Harga Sewa Concrete Pump di Sindang Barang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Sindang Barang Bogor!
 

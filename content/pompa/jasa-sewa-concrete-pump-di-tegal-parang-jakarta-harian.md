@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap. Karena itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Tegal Parang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Tegal Parang Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh ka
 
 ## Daftar Harga Sewa Concrete Pump di Kedung Halang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Kedung Halang Bogor!
 

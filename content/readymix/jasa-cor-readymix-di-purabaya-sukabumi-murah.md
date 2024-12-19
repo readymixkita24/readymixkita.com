@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap jenis proyek kon
 
 ## Daftar Harga Jasa Cor Readymix di Purabaya Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Purabaya Sukabumi!
 

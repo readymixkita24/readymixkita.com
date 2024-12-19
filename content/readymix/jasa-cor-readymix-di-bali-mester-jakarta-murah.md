@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan penting dalam proyek ko
 
 ## Daftar Harga Jasa Cor Readymix di Bali Mester Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Bali Mester Jakarta!
 

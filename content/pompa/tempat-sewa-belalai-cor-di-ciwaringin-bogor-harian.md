@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap. Oleh karena itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Ciwaringin Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Ciwaringin Bogor!
 

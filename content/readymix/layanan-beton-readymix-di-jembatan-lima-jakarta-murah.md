@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor utama dalam proyek konstruk
 
 ## Daftar Harga Jasa Beton Readymix di Jembatan Lima Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Jembatan Lima Jakarta!
 

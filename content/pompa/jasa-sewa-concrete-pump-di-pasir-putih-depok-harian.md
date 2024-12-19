@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap. Karena itu, kami menyed
 
 ## Daftar Harga Sewa Concrete Pump di Pasir Putih Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Pasir Putih Depok!
 

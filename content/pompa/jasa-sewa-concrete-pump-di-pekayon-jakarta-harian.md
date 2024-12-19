@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor penting dalam setiap proyek. Oleh k
 
 ## Daftar Harga Sewa Concrete Pump di Pekayon Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Pekayon Jakarta!
 

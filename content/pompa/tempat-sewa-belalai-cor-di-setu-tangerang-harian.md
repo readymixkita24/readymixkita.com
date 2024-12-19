@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Untuk itu, kami menawarkan
 
 ## Daftar Harga Sewa Belalai Cor di Setu Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Setu Tangerang!
 

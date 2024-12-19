@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek konstruksi. Ole
 
 ## Daftar Harga Jasa Beton Readymix di Cikaret Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Cikaret Bogor!
 

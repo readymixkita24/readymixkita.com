@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Ka
 
 ## Daftar Harga Sewa Belalai Cor di Kampung Rawa Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Kampung Rawa Jakarta!
 

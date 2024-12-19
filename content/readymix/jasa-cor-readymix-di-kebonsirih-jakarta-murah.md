@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Kebonsirih Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kebonsirih Jakarta!
 

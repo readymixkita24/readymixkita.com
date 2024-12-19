@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Belalai Cor di Pondok Aren Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Pondok Aren Tangerang!
 

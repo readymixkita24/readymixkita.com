@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap. Karena itu, kami meny
 
 ## Daftar Harga Sewa Belalai Cor di Pluit Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pluit Jakarta!
 

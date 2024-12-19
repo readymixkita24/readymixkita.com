@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Concrete Pump di Sindang Jaya Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Sindang Jaya Tangerang!
 

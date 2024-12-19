@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Beton Readymix di Cempaka Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Cempaka Jakarta!
 

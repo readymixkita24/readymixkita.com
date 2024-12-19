@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Concrete Pump di Ciparigi Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Ciparigi Bogor!
 

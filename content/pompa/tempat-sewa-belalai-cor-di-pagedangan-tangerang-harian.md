@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Pagedangan Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pagedangan Tangerang!
 

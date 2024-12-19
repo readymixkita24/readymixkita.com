@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Gondangdia Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Gondangdia Jakarta!
 

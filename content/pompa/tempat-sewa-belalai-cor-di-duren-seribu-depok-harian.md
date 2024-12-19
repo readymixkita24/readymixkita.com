@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Karena 
 
 ## Daftar Harga Sewa Belalai Cor di Duren Seribu Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Duren Seribu Depok!
 

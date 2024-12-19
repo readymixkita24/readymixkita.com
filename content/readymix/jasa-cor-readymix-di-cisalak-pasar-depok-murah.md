@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan penting dalam proyek ko
 
 ## Daftar Harga Jasa Cor Readymix di Cisalak Pasar Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Cisalak Pasar Depok!
 

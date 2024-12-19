@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap. Karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Jatijajar Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Jatijajar Depok!
 

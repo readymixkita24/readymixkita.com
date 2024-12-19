@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Gambir Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Gambir Jakarta!
 

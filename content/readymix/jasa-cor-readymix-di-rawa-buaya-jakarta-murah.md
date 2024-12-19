@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan penting dalam proyek konstru
 
 ## Daftar Harga Jasa Cor Readymix di Rawa Buaya Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Rawa Buaya Jakarta!
 

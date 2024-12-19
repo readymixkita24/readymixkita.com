@@ -123,7 +123,7 @@ cancellation_policies = [
   # Informasi Kontak
   phone = "0812-1990-9475"
   email = "csreadymixkita@gmail.com"
-  address = "Jl. Raya ciapus No. 09, Bogor - Jawa Barat 16600"
+  address = "Jl. Raya Citeureup Cibinong No. 09, Bogor - Jawa Barat 16811"
   whatsappNumber = "6281219909475"
 
  # Hero Section
@@ -184,7 +184,7 @@ cancellation_policies = [
   toolSuperLongBoomImage = "/images/page/superlongboom.jpg"
   toolFrogPumpTitle = "Pompa Kodok"
   toolFrogPumpDescription = "Mesin pompa cor portable/fleksibel"
-  toolFrogPumpImage = "/images/page/superlongboom.jpg"
+  toolFrogPumpImage = "/images/page/pompakodok.jpg"
 
   servicesTitle = "Layanan"
   service1 = "Pengecoran Jalan"
@@ -196,7 +196,7 @@ cancellation_policies = [
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
-    text = "Jl. Raya ciapus No. 09, Bogor - Jawa Barat 16600"
+    text = "Jl. Raya Citeureup Cibinong No. 09, Bogor - Jawa Barat 16811"
   [[params.footer_contact]]
     icon = "fas fa-phone-alt"
     text = "0812-1990-9475"
@@ -247,60 +247,58 @@ response = "{Terima kasih|Apresiasi tinggi|Kami berterima kasih|Penghargaan|Syuk
 rating = 5
 
 [[params.tabelItems]]
-  name = "Readymix Kelas B0"
+  name = "Readymix Mutu B0"
+  price = "785.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Mutu K225"
   price = "870.000 /m3"
 [[params.tabelItems]]
-  name = "Readymix Kelas K225"
-  price = "640.000 /m3"
+  name = "Readymix Mutu K250"
+  price = "890.000 /m3"
 [[params.tabelItems]]
-  name = "Readymix Kelas K250"
-  price = "860.000 /m3"
+  name = "Readymix Mutu K300"
+  price = "930.000 /m3"
 [[params.tabelItems]]
-  name = "Readymix Kelas K300"
-  price = "900.000 /m3"
+  name = "Readymix Mutu K350"
+  price = "970.000 /m3"
 [[params.tabelItems]]
-  name = "Readymix Kelas K350"
-  price = "940.000 /m3"
+  name = "Readymix Mutu K400"
+  price = "1.010.000 /m3"
+[[params.tabelItems]]
+  name = "Readymix Mutu K500"
+  price = "1.090.000 /m3"
 
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Mini"
   price = "3.500.000 /hari"
-[[params.tabelItems]]
-  name = "Sewa Concrete Pump Super Long"
-  price = "25.000.000 /hari"
-[[params.tabelItems]]
-  name = "Sewa Concrete Pump Master Long"
-  price = "35.000.000 /hari"
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Standar"
   price = "3.800.000 /hari"
 [[params.tabelItems]]
   name = "Sewa Concrete Pump Long Boom"
   price = "7.500.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Super Long"
+  price = "25.000.000 /hari"
+[[params.tabelItems]]
+  name = "Sewa Concrete Pump Portable"
+  price = "8.000.000 /hari"
 
 [params.appliList]
-  "Readymix Kelas B0" = "cocok untuk pondasi dasar dan lapisan pertama"
-  "Readymix Kelas K225" = "ideal untuk dinding dan kolom struktural"
-  "Readymix Kelas K250" = "pilihan tepat untuk lantai dan jalan kecil"
-  "Readymix Kelas K300" = "untuk jalan utama dan konstruksi yang lebih berat"
-  "Readymix Kelas K350" = "dirancang untuk jembatan dan bangunan tinggi"
-  "Sewa Concrete Pump Mini" = "untuk pengecoran di lokasi terbatas atau sulit dijangkau"
-  "Sewa Concrete Pump Super Long" = "proyek besar dengan jarak pengecoran yang jauh"
-  "Sewa Concrete Pump Master Long" = "volume pengecoran besar dengan jarak panjang"
-  "Sewa Concrete Pump Standar" = "proyek skala kecil hingga menengah"
-  "Sewa Concrete Pump Long Boom" = "untuk bangunan tinggi atau area yang sulit dijangkau"
+"Readymix Mutu B0" = "cocok untuk pondasi dasar dan lapisan pertama"
+"Readymix Mutu K225" = "ideal untuk dinding dan kolom struktural"
+"Readymix Mutu K250" = "pilihan tepat untuk lantai dan jalan kecil"
+"Readymix Mutu K300" = "untuk jalan utama dan konstruksi yang lebih berat"
+"Readymix Mutu K350" = "dirancang untuk jembatan dan bangunan tinggi"
+"Readymix Mutu K400" = "dirancang untuk konstruksi dengan beban yang tinggi"
+"Readymix Mutu K500" = "dirancang untuk konstruksi dengan beban yang tinggi"
 
 [params.kegunaanList]
-  "Readymix Kelas B0" = "digunakan untuk pekerjaan dasar pondasi"
-  "Readymix Kelas K225" = "cocok untuk kolom dan dinding struktural"
-  "Readymix Kelas K250" = "digunakan untuk lantai dan jalan ringan"
-  "Readymix Kelas K300" = "untuk jalan raya dan konstruksi yang kokoh"
-  "Readymix Kelas K350" = "tepat untuk jembatan dan struktur bertingkat"
-  "Sewa Concrete Pump Mini" = "ideal untuk area sempit atau akses terbatas"
-  "Sewa Concrete Pump Super Long" = "cocok untuk proyek dengan jarak pengecoran yang jauh"
-  "Sewa Concrete Pump Master Long" = "untuk proyek dengan volume besar dan jarak panjang"
-  "Sewa Concrete Pump Standar" = "solusi untuk proyek skala kecil hingga menengah"
-  "Sewa Concrete Pump Long Boom" = "dipakai untuk bangunan tinggi dan lokasi sulit dijangkau"
+"Sewa Concrete Pump Mini" = "ideal untuk area sempit atau akses terbatas"
+"Sewa Concrete Pump Standar" = "solusi untuk proyek skala kecil hingga menengah"
+"Sewa Concrete Pump Long Boom" = "dipakai untuk bangunan tinggi dan lokasi sulit dijangkau"
+"Sewa Concrete Pump Super Long" = "cocok untuk proyek dengan jarak pengecoran yang jauh"
+"Sewa Concrete Pump Portable" = "untuk proyek dengan lokasi cor yang sulit dijangkau"
 
   # Menu Section
   [[params.menu_items]]

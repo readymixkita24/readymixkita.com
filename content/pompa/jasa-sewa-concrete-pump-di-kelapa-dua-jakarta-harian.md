@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Karena itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Kelapa Dua Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Kelapa Dua Jakarta!
 

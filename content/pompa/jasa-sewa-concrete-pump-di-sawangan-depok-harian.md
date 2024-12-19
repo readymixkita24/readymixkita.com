@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap. Untuk itu, kami menawark
 
 ## Daftar Harga Sewa Concrete Pump di Sawangan Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Sawangan Depok!
 

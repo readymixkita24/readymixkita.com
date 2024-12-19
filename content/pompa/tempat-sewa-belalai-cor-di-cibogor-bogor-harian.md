@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap. Oleh karena itu, kam
 
 ## Daftar Harga Sewa Belalai Cor di Cibogor Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Cibogor Bogor!
 

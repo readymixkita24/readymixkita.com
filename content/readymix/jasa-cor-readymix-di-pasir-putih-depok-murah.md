@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor penting dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Pasir Putih Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Pasir Putih Depok!
 

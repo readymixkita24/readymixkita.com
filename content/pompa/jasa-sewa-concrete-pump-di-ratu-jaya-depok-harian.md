@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap proyek. Karena it
 
 ## Daftar Harga Sewa Concrete Pump di Ratu Jaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Ratu Jaya Depok!
 

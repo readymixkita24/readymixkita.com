@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor penting dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Mekarbaru Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Mekarbaru Tangerang!
 

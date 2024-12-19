@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Karena it
 
 ## Daftar Harga Sewa Belalai Cor di Ulujami Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Ulujami Jakarta!
 

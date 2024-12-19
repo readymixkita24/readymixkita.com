@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek konstruksi. Unt
 
 ## Daftar Harga Jasa Beton Readymix di Bale Kambang Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Bale Kambang Jakarta!
 

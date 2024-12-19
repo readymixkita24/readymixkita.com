@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan utama dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Rawajati Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Rawajati Jakarta!
 

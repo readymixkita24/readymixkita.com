@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor penting dalam setiap. Oleh k
 
 ## Daftar Harga Sewa Belalai Cor di Krukut Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Krukut Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Karena
 
 ## Daftar Harga Sewa Concrete Pump di Kresek Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Kresek Tangerang!
 

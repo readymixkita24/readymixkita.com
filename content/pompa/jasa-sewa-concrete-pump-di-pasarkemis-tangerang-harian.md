@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Karena 
 
 ## Daftar Harga Sewa Concrete Pump di Pasarkemis Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Pasarkemis Tangerang!
 

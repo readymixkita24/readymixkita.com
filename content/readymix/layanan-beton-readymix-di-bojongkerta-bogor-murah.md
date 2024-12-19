@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor utama dalam proyek konstr
 
 ## Daftar Harga Jasa Beton Readymix di Bojongkerta Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Bojongkerta Bogor!
 

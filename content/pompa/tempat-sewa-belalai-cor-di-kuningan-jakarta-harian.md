@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan penting dalam setiap. Kare
 
 ## Daftar Harga Sewa Belalai Cor di Kuningan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Kuningan Jakarta!
 

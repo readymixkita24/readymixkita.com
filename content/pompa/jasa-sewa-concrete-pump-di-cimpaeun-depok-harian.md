@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Cimpaeun Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Cimpaeun Depok!
 

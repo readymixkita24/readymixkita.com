@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor utama dalam setiap proyek. Karena itu
 
 ## Daftar Harga Sewa Belalai Cor di Warakas Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Warakas Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu utama dalam setiap proyek. Oleh karen
 
 ## Daftar Harga Sewa Belalai Cor di Pasir Putih Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pasir Putih Depok!
 

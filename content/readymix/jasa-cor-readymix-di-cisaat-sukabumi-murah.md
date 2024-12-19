@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan utama dalam proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Cisaat Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Cisaat Sukabumi!
 

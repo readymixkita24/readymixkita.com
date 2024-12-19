@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap proyek. Oleh kar
 
 ## Daftar Harga Sewa Concrete Pump di Lengkong Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Lengkong Sukabumi!
 

@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan penting dalam proyek ko
 
 ## Daftar Harga Jasa Cor Readymix di Koja Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Koja Jakarta!
 

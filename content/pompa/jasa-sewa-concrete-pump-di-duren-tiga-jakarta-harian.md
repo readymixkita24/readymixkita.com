@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Duren Tiga Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Duren Tiga Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Concrete Pump di Bubulak Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Bubulak Bogor!
 

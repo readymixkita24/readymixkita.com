@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Ole
 
 ## Daftar Harga Sewa Concrete Pump di Ciwaringin Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Ciwaringin Bogor!
 

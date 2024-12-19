@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Gandul Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Gandul Depok!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor penting dalam proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Marunda Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Marunda Jakarta!
 

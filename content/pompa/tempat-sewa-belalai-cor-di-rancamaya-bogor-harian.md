@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap proyek. Untuk itu, ka
 
 ## Daftar Harga Sewa Belalai Cor di Rancamaya Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Rancamaya Bogor!
 

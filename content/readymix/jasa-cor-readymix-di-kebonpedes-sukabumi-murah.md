@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor utama dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Kebonpedes Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kebonpedes Sukabumi!
 

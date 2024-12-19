@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap proyek. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Pondok Kopi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Pondok Kopi Jakarta!
 

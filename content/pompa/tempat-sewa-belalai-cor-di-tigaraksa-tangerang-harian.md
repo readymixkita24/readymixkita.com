@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap. Karena itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Tigaraksa Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Tigaraksa Tangerang!
 

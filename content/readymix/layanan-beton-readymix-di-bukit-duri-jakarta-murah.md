@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Bukit Duri Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Bukit Duri Jakarta!
 

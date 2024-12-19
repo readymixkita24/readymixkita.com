@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Untuk 
 
 ## Daftar Harga Sewa Concrete Pump di Sukamulya Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Sukamulya Tangerang!
 

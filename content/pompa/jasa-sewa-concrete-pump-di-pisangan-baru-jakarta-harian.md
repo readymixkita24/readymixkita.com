@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Pisangan Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Pisangan Baru Jakarta!
 

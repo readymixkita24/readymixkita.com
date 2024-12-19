@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor penting dalam setiap. Oleh k
 
 ## Daftar Harga Sewa Belalai Cor di Ciganjur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Ciganjur Jakarta!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan penting dalam setiap proyek. Karen
 
 ## Daftar Harga Sewa Concrete Pump di Sepatan Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Sepatan Tangerang!
 

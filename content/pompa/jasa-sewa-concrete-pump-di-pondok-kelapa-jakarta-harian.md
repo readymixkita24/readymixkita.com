@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Karena it
 
 ## Daftar Harga Sewa Concrete Pump di Pondok Kelapa Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Pondok Kelapa Jakarta!
 

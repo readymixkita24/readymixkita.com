@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap proyek. Karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Cilangkap Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Cilangkap Depok!
 

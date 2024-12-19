@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami menawa
 
 ## Daftar Harga Sewa Belalai Cor di Cibadak Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Cibadak Bogor!
 

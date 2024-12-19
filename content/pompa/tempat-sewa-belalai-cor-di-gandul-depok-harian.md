@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap proyek. Untu
 
 ## Daftar Harga Sewa Belalai Cor di Gandul Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Gandul Depok!
 

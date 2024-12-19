@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Tanjung Duren Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Tanjung Duren Jakarta!
 

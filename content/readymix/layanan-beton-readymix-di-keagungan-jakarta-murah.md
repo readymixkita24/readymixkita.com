@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Keagungan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Keagungan Jakarta!
 

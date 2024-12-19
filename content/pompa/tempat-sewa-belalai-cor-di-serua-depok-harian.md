@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Belalai Cor di Serua Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Serua Depok!
 

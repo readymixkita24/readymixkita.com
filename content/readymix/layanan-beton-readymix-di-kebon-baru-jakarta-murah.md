@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Kebon Baru Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Kebon Baru Jakarta!
 

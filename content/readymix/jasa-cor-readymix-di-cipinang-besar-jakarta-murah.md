@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan penting dalam proyek
 
 ## Daftar Harga Jasa Cor Readymix di Cipinang Besar Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Cipinang Besar Jakarta!
 

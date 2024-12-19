@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap. Untuk itu, kami menawarka
 
 ## Daftar Harga Sewa Concrete Pump di Grogol Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Grogol Depok!
 

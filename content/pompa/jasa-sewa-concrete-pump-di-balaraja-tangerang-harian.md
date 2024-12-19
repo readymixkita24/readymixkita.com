@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor utama dalam setiap proyek. K
 
 ## Daftar Harga Sewa Concrete Pump di Balaraja Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Balaraja Tangerang!
 

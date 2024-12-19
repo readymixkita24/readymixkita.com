@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor penting dalam setiap proyek. Ka
 
 ## Daftar Harga Sewa Concrete Pump di Meruya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Meruya Jakarta!
 

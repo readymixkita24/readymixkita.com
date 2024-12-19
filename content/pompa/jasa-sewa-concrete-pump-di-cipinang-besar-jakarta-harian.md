@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Concrete Pump di Cipinang Besar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Cipinang Besar Jakarta!
 

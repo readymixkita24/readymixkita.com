@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap proyek. Karena itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Bale Kambang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Bale Kambang Jakarta!
 

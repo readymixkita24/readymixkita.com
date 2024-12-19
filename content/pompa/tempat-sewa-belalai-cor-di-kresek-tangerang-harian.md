@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap proyek. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Kresek Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Kresek Tangerang!
 

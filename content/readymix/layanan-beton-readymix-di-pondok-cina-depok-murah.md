@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan utama dalam proyek k
 
 ## Daftar Harga Jasa Beton Readymix di Pondok Cina Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Pondok Cina Depok!
 

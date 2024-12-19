@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor penting dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Karet Semanggi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Karet Semanggi Jakarta!
 

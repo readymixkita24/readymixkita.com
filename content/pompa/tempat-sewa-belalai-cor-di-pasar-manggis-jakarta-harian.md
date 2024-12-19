@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap proyek. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Pasar Manggis Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Pasar Manggis Jakarta!
 

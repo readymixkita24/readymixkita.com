@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Pangkalan Jati Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Pangkalan Jati Depok!
 

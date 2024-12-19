@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap. Karena itu, kami menyedi
 
 ## Daftar Harga Sewa Belalai Cor di Palmerah Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Palmerah Jakarta!
 

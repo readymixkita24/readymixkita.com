@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor utama dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Rawa Badak Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Rawa Badak Jakarta!
 

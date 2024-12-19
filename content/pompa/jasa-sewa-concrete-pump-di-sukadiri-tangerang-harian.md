@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Sukadiri Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Sukadiri Tangerang!
 

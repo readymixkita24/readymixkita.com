@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Untuk itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Kebun Kelapa Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Kebun Kelapa Bogor!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Cimpaeun Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Cimpaeun Depok!
 

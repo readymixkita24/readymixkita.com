@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor utama dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Bojongsari Baru Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Bojongsari Baru Depok!
 

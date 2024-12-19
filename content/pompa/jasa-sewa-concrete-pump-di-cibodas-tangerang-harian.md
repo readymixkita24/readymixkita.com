@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Concrete Pump di Cibodas Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Cibodas Tangerang!
 

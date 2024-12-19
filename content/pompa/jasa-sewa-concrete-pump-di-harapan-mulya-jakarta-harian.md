@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap proyek. Oleh karena i
 
 ## Daftar Harga Sewa Concrete Pump di Harapan Mulya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Harapan Mulya Jakarta!
 

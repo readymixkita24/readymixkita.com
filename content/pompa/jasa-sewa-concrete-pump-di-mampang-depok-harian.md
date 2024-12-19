@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap. Oleh karena itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Mampang Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Mampang Depok!
 

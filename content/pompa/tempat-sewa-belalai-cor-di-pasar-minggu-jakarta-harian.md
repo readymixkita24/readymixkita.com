@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan penting dalam setiap. Karena it
 
 ## Daftar Harga Sewa Belalai Cor di Pasar Minggu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Pasar Minggu Jakarta!
 

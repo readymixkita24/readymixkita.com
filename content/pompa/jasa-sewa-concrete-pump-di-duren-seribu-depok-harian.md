@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Concrete Pump di Duren Seribu Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Duren Seribu Depok!
 

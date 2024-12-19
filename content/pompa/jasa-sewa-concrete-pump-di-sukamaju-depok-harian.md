@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap. Karena itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Sukamaju Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Sukamaju Depok!
 

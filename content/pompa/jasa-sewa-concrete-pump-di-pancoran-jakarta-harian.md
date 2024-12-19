@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Karena itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Pancoran Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Pancoran Jakarta!
 

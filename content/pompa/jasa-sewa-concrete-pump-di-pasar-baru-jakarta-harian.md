@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan penting dalam setiap proyek. 
 
 ## Daftar Harga Sewa Concrete Pump di Pasar Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Pasar Baru Jakarta!
 

@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan utama dalam proyek kons
 
 ## Daftar Harga Jasa Beton Readymix di Cidadap Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Cidadap Sukabumi!
 

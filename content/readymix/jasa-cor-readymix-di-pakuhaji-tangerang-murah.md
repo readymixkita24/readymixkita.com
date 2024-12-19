@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan utama dalam proyek k
 
 ## Daftar Harga Jasa Cor Readymix di Pakuhaji Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Pakuhaji Tangerang!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan utama dalam proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Duren Sawit Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Duren Sawit Jakarta!
 

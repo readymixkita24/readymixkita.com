@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan utama dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Panaragan Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Panaragan Bogor!
 

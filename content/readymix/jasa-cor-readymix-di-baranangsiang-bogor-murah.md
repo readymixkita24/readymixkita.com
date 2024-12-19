@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Cor Readymix di Baranangsiang Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Baranangsiang Bogor!
 

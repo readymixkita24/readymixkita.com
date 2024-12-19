@@ -5,13 +5,11 @@
   </div>
 </header>
 <section class="archive">
-<section>
+  <div class="archive-container">
   <div class="one-column">
     <h2>{{ .Site.Params.aboutUsTitle }}</h2>
     <p>{{ .Site.Params.aboutUsDescription }}</p>
   </div>
-</section>
-<section>
   <div class="one-column">
     <h2>{{ .Site.Params.partnersTitle }}</h2>
     <p>{{ .Site.Params.partnersDescription }}</p>
@@ -44,8 +42,20 @@
       <p>{{ .Site.Params.partner6 }}</p>
     </div>
   </div>
-</section>
-<section>
+  <div class="three-columns">
+    <div class="column">
+      <p>{{ .Site.Params.service1 }}</p>
+      <div class="progress-bar" data-progress="65"></div>
+    </div>
+    <div class="column">
+      <p>{{ .Site.Params.service2 }}</p>
+      <div class="progress-bar" data-progress="82"></div>
+    </div>
+    <div class="column">
+      <p>{{ .Site.Params.service3 }}</p>
+      <div class="progress-bar" data-progress="74"></div>
+    </div>
+  </div>
   <div class="one-column">
     <h2>{{ .Site.Params.trucksTitle }}</h2>
     <p>{{ .Site.Params.trucksDescription }}</p>
@@ -60,8 +70,6 @@
       <p>{{ .Site.Params.truckLarge }}</p>
     </div>
   </div>
-</section>
-<section>
   <div class="one-column">
     <h2>{{ .Site.Params.toolsTitle }}</h2>
     <p>{{ .Site.Params.toolsDescription }}</p>
@@ -90,26 +98,10 @@
       <p>{{ .Site.Params.toolFrogPumpDescription }}</p>
     </div>
   </div>
-</section>
-<section>
   <div class="one-column">
     <h2>{{ .Site.Params.servicesTitle }}</h2>
   </div>
-  <div class="three-columns">
-    <div class="column">
-      <p>{{ .Site.Params.service1 }}</p>
-      <div class="progress-bar" data-progress="65"></div>
-    </div>
-    <div class="column">
-      <p>{{ .Site.Params.service2 }}</p>
-      <div class="progress-bar" data-progress="82"></div>
-    </div>
-    <div class="column">
-      <p>{{ .Site.Params.service3 }}</p>
-      <div class="progress-bar" data-progress="74"></div>
-    </div>
   </div>
-</section>
 </section>
 <script>
   document.addEventListener("DOMContentLoaded", function() {

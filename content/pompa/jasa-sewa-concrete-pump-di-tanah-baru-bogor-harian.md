@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap. Untuk itu, kami men
 
 ## Daftar Harga Sewa Concrete Pump di Tanah Baru Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Tanah Baru Bogor!
 

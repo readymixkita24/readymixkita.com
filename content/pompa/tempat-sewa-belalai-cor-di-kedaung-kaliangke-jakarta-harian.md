@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Oleh ka
 
 ## Daftar Harga Sewa Belalai Cor di Kedaung Kaliangke Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Kedaung Kaliangke Jakarta!
 

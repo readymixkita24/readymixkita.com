@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Ka
 
 ## Daftar Harga Sewa Concrete Pump di Rawa Bunga Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Rawa Bunga Jakarta!
 

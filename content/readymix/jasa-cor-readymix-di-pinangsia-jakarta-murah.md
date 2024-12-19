@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu pertimbangan penting dalam pr
 
 ## Daftar Harga Jasa Cor Readymix di Pinangsia Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Pinangsia Jakarta!
 

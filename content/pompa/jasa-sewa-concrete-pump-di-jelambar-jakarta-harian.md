@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap proyek. Oleh karena itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Jelambar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Jelambar Jakarta!
 

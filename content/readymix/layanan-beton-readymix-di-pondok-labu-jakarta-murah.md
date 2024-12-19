@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu pertimbangan utama dalam proy
 
 ## Daftar Harga Jasa Beton Readymix di Pondok Labu Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pondok Labu Jakarta!
 

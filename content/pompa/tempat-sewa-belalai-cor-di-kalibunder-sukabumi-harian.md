@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor penting dalam setiap. Oleh karena i
 
 ## Daftar Harga Sewa Belalai Cor di Kalibunder Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Kalibunder Sukabumi!
 

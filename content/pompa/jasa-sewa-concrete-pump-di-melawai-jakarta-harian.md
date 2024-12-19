@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap. Untuk itu, kami menawark
 
 ## Daftar Harga Sewa Concrete Pump di Melawai Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Melawai Jakarta!
 

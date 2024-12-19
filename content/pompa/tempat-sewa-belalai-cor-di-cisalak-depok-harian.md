@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor penting dalam setiap. Karena
 
 ## Daftar Harga Sewa Belalai Cor di Cisalak Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Cisalak Depok!
 

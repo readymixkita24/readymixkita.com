@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Karen
 
 ## Daftar Harga Sewa Belalai Cor di Neglasari Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Neglasari Tangerang!
 

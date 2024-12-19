@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Selong Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Selong Jakarta!
 

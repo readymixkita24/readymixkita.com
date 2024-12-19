@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Belalai Cor di Kramatpela Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Kramatpela Jakarta!
 

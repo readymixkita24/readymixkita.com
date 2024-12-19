@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Kemiri Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Kemiri Tangerang!
 

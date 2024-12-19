@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor penting dalam proyek k
 
 ## Daftar Harga Jasa Beton Readymix di Kalibaru Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kalibaru Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap proyek. Karena itu, kami 
 
 ## Daftar Harga Sewa Concrete Pump di Ciganjur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Ciganjur Jakarta!
 

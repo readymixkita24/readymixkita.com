@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor penting dalam setiap. Oleh kare
 
 ## Daftar Harga Sewa Belalai Cor di Roa Malaka Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Roa Malaka Jakarta!
 

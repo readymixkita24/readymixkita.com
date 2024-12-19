@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap proyek. Kare
 
 ## Daftar Harga Sewa Belalai Cor di Cipulir Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Cipulir Jakarta!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu pertimbangan utama dalam proyek ko
 
 ## Daftar Harga Jasa Beton Readymix di Kemanggisan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Kemanggisan Jakarta!
 

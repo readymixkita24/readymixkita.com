@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap. Oleh karena itu
 
 ## Daftar Harga Sewa Belalai Cor di Cicantayan Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Cicantayan Sukabumi!
 

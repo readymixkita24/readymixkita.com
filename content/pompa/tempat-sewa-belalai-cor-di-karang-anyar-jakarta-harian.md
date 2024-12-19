@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan utama dalam setiap. Oleh karena itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Karang Anyar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Karang Anyar Jakarta!
 

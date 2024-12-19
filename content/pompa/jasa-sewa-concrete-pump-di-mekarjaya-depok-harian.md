@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek. Oleh karena it
 
 ## Daftar Harga Sewa Concrete Pump di Mekarjaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Mekarjaya Depok!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor penting dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Tebet Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Tebet Jakarta!
 

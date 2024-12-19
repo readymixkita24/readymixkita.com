@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu pertimbangan penting dalam pr
 
 ## Daftar Harga Jasa Cor Readymix di Pondok Rangon Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pondok Rangon Jakarta!
 

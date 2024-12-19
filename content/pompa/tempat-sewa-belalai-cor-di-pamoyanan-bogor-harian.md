@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap. Oleh karena itu, kami menawark
 
 ## Daftar Harga Sewa Belalai Cor di Pamoyanan Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pamoyanan Bogor!
 

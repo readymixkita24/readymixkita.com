@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor penting dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Kronjo Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Kronjo Tangerang!
 

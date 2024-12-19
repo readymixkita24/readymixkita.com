@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Un
 
 ## Daftar Harga Sewa Belalai Cor di Papanggo Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Papanggo Jakarta!
 

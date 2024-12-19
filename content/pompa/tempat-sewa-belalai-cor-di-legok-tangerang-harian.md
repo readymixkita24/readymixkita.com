@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap proyek. Karena itu, kami meny
 
 ## Daftar Harga Sewa Belalai Cor di Legok Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Legok Tangerang!
 

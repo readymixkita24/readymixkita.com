@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Untuk itu, kami menawarkan
 
 ## Daftar Harga Sewa Belalai Cor di Sukabumi Barat
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Sukabumi Barat!
 

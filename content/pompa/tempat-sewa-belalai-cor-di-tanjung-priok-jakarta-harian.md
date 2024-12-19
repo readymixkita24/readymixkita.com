@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Tanjung Priok Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Tanjung Priok Jakarta!
 

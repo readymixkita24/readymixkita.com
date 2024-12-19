@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor penting dalam setiap. Oleh karena it
 
 ## Daftar Harga Sewa Concrete Pump di Sagaranten Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Sagaranten Sukabumi!
 

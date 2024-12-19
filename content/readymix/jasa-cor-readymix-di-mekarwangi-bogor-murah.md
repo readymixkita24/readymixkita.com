@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor utama dalam proyek konstruk
 
 ## Daftar Harga Jasa Cor Readymix di Mekarwangi Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Mekarwangi Bogor!
 

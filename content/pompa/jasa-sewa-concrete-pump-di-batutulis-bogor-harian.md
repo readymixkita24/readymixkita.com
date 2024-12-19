@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap. Untuk itu, kami 
 
 ## Daftar Harga Sewa Concrete Pump di Batutulis Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Batutulis Bogor!
 

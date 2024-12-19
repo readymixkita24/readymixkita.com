@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor utama dalam setiap. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Baktijaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Baktijaya Depok!
 

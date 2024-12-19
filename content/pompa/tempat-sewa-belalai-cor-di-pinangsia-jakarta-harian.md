@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap proyek. Untuk itu, kami menawar
 
 ## Daftar Harga Sewa Belalai Cor di Pinangsia Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Pinangsia Jakarta!
 

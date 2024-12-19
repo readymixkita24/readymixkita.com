@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor penting dalam proyek konstr
 
 ## Daftar Harga Jasa Cor Readymix di Setu Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Setu Tangerang!
 

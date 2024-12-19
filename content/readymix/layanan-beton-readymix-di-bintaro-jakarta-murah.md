@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap jenis proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Bintaro Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Bintaro Jakarta!
 

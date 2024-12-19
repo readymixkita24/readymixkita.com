@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu pertimbangan utama dalam proyek ko
 
 ## Daftar Harga Jasa Cor Readymix di Bale Kambang Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang kurang memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Bale Kambang Jakarta!
 

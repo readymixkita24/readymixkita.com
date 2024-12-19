@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap proyek. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Kebon Jeruk Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Kebon Jeruk Jakarta!
 

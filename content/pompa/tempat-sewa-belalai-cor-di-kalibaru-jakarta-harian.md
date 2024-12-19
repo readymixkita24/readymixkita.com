@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor penting dalam setiap. Karena itu
 
 ## Daftar Harga Sewa Belalai Cor di Kalibaru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Kalibaru Jakarta!
 

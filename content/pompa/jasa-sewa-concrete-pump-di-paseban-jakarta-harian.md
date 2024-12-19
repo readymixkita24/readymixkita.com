@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Oleh karena itu, kami mena
 
 ## Daftar Harga Sewa Concrete Pump di Paseban Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Paseban Jakarta!
 

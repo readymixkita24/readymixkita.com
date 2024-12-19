@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor penting dalam setiap proyek.
 
 ## Daftar Harga Sewa Belalai Cor di Glodok Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Glodok Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap proyek. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Belalai Cor di Pisangan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Pisangan Jakarta!
 

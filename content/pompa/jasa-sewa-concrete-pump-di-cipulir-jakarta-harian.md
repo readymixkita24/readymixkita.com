@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Concrete Pump di Cipulir Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Cipulir Jakarta!
 

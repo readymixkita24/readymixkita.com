@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap. Oleh karena itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Sungai Bambu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Sungai Bambu Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek. Karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Cimanggu Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Cimanggu Sukabumi!
 

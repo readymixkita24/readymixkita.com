@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Un
 
 ## Daftar Harga Sewa Belalai Cor di Situ Gede Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Situ Gede Bogor!
 

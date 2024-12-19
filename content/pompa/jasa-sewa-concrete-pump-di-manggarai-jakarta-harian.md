@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap. Untuk itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Manggarai Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Manggarai Jakarta!
 

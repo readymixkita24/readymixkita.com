@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan utama dalam proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Gunung Sahari Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Gunung Sahari Jakarta!
 

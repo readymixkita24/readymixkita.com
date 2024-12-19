@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Untuk
 
 ## Daftar Harga Sewa Belalai Cor di Rawasari Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Rawasari Jakarta!
 

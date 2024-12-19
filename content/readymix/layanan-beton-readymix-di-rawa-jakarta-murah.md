@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan penting dalam proyek
 
 ## Daftar Harga Jasa Beton Readymix di Rawa Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Rawa Jakarta!
 

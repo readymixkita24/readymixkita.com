@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Jembatan Lima Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Jembatan Lima Jakarta!
 

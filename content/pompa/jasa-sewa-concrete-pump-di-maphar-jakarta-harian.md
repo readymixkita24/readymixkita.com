@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap proyek. Oleh karena
 
 ## Daftar Harga Sewa Concrete Pump di Maphar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Maphar Jakarta!
 

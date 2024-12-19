@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap. Untuk itu, kami menaw
 
 ## Daftar Harga Sewa Concrete Pump di Kalibata Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Kalibata Jakarta!
 

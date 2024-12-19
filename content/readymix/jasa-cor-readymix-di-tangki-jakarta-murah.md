@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor penting dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Tangki Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Tangki Jakarta!
 

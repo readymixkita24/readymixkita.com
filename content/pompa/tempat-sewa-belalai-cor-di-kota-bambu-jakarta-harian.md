@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Kare
 
 ## Daftar Harga Sewa Belalai Cor di Kota Bambu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Kota Bambu Jakarta!
 

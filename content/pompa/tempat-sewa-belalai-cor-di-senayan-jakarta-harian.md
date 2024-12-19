@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu, 
 
 ## Daftar Harga Sewa Belalai Cor di Senayan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Senayan Jakarta!
 

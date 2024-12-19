@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor utama dalam proyek konstruk
 
 ## Daftar Harga Jasa Beton Readymix di Karet Kuningan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Karet Kuningan Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Oleh k
 
 ## Daftar Harga Sewa Concrete Pump di Curug Mekar Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Curug Mekar Bogor!
 

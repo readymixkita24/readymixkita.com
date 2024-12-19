@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap. Untuk itu, kami mena
 
 ## Daftar Harga Sewa Concrete Pump di Mampang Prapatan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Mampang Prapatan Jakarta!
 

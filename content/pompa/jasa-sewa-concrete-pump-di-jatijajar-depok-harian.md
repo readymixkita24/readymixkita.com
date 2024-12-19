@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Karena itu, kami menyediak
 
 ## Daftar Harga Sewa Concrete Pump di Jatijajar Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Jatijajar Depok!
 

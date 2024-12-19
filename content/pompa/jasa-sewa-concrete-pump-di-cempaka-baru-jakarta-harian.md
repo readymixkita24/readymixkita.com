@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap proyek. Karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Cempaka Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Cempaka Baru Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Gandaria Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Gandaria Jakarta!
 

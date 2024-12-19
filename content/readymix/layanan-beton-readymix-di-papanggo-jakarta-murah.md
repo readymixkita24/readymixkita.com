@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Beton Readymix di Papanggo Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Papanggo Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu,
 
 ## Daftar Harga Sewa Concrete Pump di Bambu Apus Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Bambu Apus Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu utama dalam setiap proyek. Untuk
 
 ## Daftar Harga Sewa Belalai Cor di Cililitan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Cililitan Jakarta!
 

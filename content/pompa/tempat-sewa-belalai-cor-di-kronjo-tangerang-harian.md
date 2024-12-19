@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Karen
 
 ## Daftar Harga Sewa Belalai Cor di Kronjo Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Kronjo Tangerang!
 

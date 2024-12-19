@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor penting dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Belalai Cor di Sukalarang Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Sukalarang Sukabumi!
 

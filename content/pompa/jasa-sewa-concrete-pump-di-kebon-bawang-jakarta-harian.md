@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan utama dalam setiap. Untuk itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Kebon Bawang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Kebon Bawang Jakarta!
 

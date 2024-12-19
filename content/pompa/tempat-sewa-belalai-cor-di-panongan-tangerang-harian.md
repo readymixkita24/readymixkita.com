@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Belalai Cor di Panongan Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Panongan Tangerang!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor penting dalam setiap proyek. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Jelambar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Jelambar Jakarta!
 

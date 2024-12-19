@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan penting dalam proyek konstru
 
 ## Daftar Harga Jasa Beton Readymix di Pancoran Mas Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Pancoran Mas Depok!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran merupakan salah satu faktor utama dalam proyek konstruk
 
 ## Daftar Harga Jasa Beton Readymix di Kamal Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kamal Jakarta!
 

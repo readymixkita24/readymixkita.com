@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap. Karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Pekojan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Pekojan Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor utama dalam setiap proyek. Untuk itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Gondangdia Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Gondangdia Jakarta!
 

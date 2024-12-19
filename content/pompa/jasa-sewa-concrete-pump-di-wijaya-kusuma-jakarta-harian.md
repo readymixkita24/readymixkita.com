@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap. Oleh karena itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Wijaya Kusuma Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Wijaya Kusuma Jakarta!
 

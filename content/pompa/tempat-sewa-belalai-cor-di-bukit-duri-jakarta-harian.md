@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap proyek. Oleh kar
 
 ## Daftar Harga Sewa Belalai Cor di Bukit Duri Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Bukit Duri Jakarta!
 

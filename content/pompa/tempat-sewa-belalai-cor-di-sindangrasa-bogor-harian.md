@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap proyek. Untuk itu, kami me
 
 ## Daftar Harga Sewa Belalai Cor di Sindangrasa Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Sindangrasa Bogor!
 

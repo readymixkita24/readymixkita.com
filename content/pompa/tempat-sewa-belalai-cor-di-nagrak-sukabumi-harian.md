@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami menawa
 
 ## Daftar Harga Sewa Belalai Cor di Nagrak Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Nagrak Sukabumi!
 

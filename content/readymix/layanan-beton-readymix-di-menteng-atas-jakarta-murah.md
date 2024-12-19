@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor pertimbangan utama dalam proyek konstruks
 
 ## Daftar Harga Jasa Beton Readymix di Menteng Atas Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Menteng Atas Jakarta!
 

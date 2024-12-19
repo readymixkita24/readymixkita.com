@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan utama dalam setiap pro
 
 ## Daftar Harga Sewa Belalai Cor di Lawang Gintung Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Lawang Gintung Bogor!
 

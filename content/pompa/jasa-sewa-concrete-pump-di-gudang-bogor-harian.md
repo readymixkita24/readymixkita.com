@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami menawa
 
 ## Daftar Harga Sewa Concrete Pump di Gudang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Gudang Bogor!
 

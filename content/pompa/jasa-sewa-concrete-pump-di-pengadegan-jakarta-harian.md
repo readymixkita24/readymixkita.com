@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan utama dalam setiap. Oleh karena
 
 ## Daftar Harga Sewa Concrete Pump di Pengadegan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Pengadegan Jakarta!
 

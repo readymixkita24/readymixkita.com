@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap. Oleh karena
 
 ## Daftar Harga Sewa Belalai Cor di Sindang Barang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Sindang Barang Bogor!
 

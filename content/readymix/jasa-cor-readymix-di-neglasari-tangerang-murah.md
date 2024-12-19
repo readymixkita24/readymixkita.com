@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan utama dalam proyek kons
 
 ## Daftar Harga Jasa Cor Readymix di Neglasari Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Neglasari Tangerang!
 

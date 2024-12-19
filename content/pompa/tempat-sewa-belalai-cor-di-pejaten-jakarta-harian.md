@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap. Untuk itu, kami menawark
 
 ## Daftar Harga Sewa Belalai Cor di Pejaten Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pejaten Jakarta!
 

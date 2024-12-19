@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap proyek. Oleh karena i
 
 ## Daftar Harga Sewa Concrete Pump di Pabuaran Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Pabuaran Sukabumi!
 

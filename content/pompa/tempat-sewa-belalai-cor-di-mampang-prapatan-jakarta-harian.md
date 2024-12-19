@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Untuk
 
 ## Daftar Harga Sewa Belalai Cor di Mampang Prapatan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Mampang Prapatan Jakarta!
 

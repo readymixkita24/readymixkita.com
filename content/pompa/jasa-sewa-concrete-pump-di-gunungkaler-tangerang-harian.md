@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap. Untuk itu, kami men
 
 ## Daftar Harga Sewa Concrete Pump di Gunungkaler Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Gunungkaler Tangerang!
 

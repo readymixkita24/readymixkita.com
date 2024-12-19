@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Kalideres Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Kalideres Jakarta!
 

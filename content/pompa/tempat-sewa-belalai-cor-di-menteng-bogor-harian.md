@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap proyek. Untuk itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Menteng Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Menteng Bogor!
 

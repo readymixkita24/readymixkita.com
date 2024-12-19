@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap proyek. Oleh kare
 
 ## Daftar Harga Sewa Belalai Cor di Sukaresmi Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Sukaresmi Bogor!
 

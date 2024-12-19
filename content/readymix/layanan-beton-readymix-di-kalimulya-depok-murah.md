@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu pertimbangan penting dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Kalimulya Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Kalimulya Depok!
 

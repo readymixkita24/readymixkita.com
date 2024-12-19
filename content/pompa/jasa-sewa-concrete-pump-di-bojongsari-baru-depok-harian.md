@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap proyek. Oleh karena it
 
 ## Daftar Harga Sewa Concrete Pump di Bojongsari Baru Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Bojongsari Baru Depok!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Oleh ka
 
 ## Daftar Harga Sewa Concrete Pump di Ciluar Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Ciluar Bogor!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Karena itu, kami menyediakan
 
 ## Daftar Harga Sewa Belalai Cor di Kelapa Dua Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Kelapa Dua Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap proyek. Untuk itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Munjul Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Munjul Jakarta!
 

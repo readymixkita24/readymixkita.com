@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Untu
 
 ## Daftar Harga Sewa Concrete Pump di Abadijaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Abadijaya Depok!
 

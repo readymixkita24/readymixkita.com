@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan penting dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Concrete Pump di Tanjung Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Tanjung Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap. Karena itu, kami me
 
 ## Daftar Harga Sewa Belalai Cor di Jayanti Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Jayanti Tangerang!
 

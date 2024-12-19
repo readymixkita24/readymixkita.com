@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Cibodas Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Cibodas Tangerang!
 

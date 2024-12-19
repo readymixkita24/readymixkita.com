@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap proyek. Oleh karena itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Penjaringan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Penjaringan Jakarta!
 

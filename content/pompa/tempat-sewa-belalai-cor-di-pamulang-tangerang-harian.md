@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap. Karena itu, kami me
 
 ## Daftar Harga Sewa Belalai Cor di Pamulang Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Pamulang Tangerang!
 

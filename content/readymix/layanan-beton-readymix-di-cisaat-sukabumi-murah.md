@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor utama dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Cisaat Sukabumi
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena kualitas material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Cisaat Sukabumi!
 

@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah faktor pertimbangan utama dalam proyek kons
 
 ## Daftar Harga Jasa Beton Readymix di Duren Tiga Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Duren Tiga Jakarta!
 

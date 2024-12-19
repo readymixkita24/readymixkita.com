@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap. Karena itu, kami menye
 
 ## Daftar Harga Sewa Concrete Pump di Curug Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Curug Bogor!
 

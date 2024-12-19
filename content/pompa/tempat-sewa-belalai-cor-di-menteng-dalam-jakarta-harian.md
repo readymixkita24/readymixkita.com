@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Menteng Dalam Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Menteng Dalam Jakarta!
 

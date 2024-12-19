@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu pertimbangan utama dalam proy
 
 ## Daftar Harga Jasa Beton Readymix di Kemayoran Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Kemayoran Jakarta!
 

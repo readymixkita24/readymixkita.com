@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Karen
 
 ## Daftar Harga Sewa Concrete Pump di Marunda Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Marunda Jakarta!
 

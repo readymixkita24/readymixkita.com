@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor penting dalam setiap proyek. Karena 
 
 ## Daftar Harga Sewa Concrete Pump di Baktijaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Baktijaya Depok!
 

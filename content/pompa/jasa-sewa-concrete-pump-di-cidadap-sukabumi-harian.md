@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh ka
 
 ## Daftar Harga Sewa Concrete Pump di Cidadap Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Cidadap Sukabumi!
 

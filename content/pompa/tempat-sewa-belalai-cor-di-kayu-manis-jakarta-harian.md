@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Untuk 
 
 ## Daftar Harga Sewa Belalai Cor di Kayu Manis Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Kayu Manis Jakarta!
 

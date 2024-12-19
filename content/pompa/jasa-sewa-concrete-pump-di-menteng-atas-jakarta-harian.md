@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap. Karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Menteng Atas Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Menteng Atas Jakarta!
 

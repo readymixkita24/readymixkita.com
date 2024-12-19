@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu utama dalam setiap. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Pengasinan Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pengasinan Depok!
 

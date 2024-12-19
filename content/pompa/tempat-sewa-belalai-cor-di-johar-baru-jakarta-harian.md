@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap proyek. Karena itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Johar Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Johar Baru Jakarta!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Kebon Kacang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Kebon Kacang Jakarta!
 

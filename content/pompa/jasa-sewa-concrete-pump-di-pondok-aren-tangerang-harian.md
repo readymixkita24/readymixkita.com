@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap. Untuk itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Pondok Aren Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Pondok Aren Tangerang!
 

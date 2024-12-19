@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Untuk itu, kami men
 
 ## Daftar Harga Sewa Concrete Pump di Harjamukti Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Harjamukti Depok!
 

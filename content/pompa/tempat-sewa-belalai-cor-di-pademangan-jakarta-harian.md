@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan utama dalam setiap pro
 
 ## Daftar Harga Sewa Belalai Cor di Pademangan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Pademangan Jakarta!
 

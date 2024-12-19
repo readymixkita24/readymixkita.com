@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor penting dalam setiap proyek. Ole
 
 ## Daftar Harga Sewa Concrete Pump di Kebon Melati Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Kebon Melati Jakarta!
 

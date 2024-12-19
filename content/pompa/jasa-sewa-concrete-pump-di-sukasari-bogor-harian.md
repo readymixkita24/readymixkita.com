@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu,
 
 ## Daftar Harga Sewa Concrete Pump di Sukasari Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Sukasari Bogor!
 

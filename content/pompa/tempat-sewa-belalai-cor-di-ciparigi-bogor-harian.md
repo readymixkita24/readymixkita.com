@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Belalai Cor di Ciparigi Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Ciparigi Bogor!
 

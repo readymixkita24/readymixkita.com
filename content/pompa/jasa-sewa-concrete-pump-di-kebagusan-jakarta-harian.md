@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Oleh
 
 ## Daftar Harga Sewa Concrete Pump di Kebagusan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Kebagusan Jakarta!
 

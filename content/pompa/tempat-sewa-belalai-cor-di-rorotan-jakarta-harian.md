@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan penting dalam setiap proy
 
 ## Daftar Harga Sewa Belalai Cor di Rorotan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Rorotan Jakarta!
 

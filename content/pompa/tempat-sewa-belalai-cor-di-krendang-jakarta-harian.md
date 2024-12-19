@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap. Karena itu, kami men
 
 ## Daftar Harga Sewa Belalai Cor di Krendang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Krendang Jakarta!
 

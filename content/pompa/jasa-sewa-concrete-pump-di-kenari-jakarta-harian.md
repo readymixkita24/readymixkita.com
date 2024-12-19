@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap. Untuk itu, kami 
 
 ## Daftar Harga Sewa Concrete Pump di Kenari Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Kenari Jakarta!
 

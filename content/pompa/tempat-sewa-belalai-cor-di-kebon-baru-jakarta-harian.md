@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor penting dalam setiap proyek.
 
 ## Daftar Harga Sewa Belalai Cor di Kebon Baru Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Kebon Baru Jakarta!
 

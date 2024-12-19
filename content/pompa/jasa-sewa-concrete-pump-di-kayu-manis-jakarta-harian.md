@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Ka
 
 ## Daftar Harga Sewa Concrete Pump di Kayu Manis Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Kayu Manis Jakarta!
 

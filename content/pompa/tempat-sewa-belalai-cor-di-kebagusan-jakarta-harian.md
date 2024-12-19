@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap. Untuk itu, ka
 
 ## Daftar Harga Sewa Belalai Cor di Kebagusan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Kebagusan Jakarta!
 

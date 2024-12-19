@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu, kami
 
 ## Daftar Harga Sewa Belalai Cor di Cipinang Cempedak Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Cipinang Cempedak Jakarta!
 

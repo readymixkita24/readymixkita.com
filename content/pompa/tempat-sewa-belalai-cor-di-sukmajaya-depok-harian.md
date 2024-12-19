@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor utama dalam setiap proyek. Karena i
 
 ## Daftar Harga Sewa Belalai Cor di Sukmajaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Sukmajaya Depok!
 

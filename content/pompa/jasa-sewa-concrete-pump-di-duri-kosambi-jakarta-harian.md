@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Karena itu, kami menyediak
 
 ## Daftar Harga Sewa Concrete Pump di Duri Kosambi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Duri Kosambi Jakarta!
 

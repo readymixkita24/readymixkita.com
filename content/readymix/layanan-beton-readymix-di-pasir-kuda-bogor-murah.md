@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran adalah salah satu faktor penting dalam proyek kons
 
 ## Daftar Harga Jasa Beton Readymix di Pasir Kuda Bogor
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pasir Kuda Bogor!
 

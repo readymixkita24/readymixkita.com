@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap proyek. Un
 
 ## Daftar Harga Sewa Concrete Pump di Rawa Buaya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Rawa Buaya Jakarta!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor utama dalam proyek konstruksi.
 
 ## Daftar Harga Jasa Beton Readymix di Pasar Baru Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena mutu material yang kurang memadai. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Pasar Baru Jakarta!
 

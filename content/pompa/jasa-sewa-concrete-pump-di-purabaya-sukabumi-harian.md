@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan penting dalam setiap proye
 
 ## Daftar Harga Sewa Concrete Pump di Purabaya Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Purabaya Sukabumi!
 

@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek konstruksi. Unt
 
 ## Daftar Harga Jasa Beton Readymix di Sumur Batu Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Sumur Batu Jakarta!
 

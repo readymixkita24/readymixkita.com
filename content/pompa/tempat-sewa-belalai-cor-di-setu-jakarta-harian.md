@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor utama dalam setiap proyek. K
 
 ## Daftar Harga Sewa Belalai Cor di Setu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Setu Jakarta!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap. Karena itu, kami men
 
 ## Daftar Harga Sewa Belalai Cor di Tanah Baru Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Tanah Baru Bogor!
 

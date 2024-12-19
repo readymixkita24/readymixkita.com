@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor penting dalam setiap proyek. Karena
 
 ## Daftar Harga Sewa Belalai Cor di Duri Kosambi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Duri Kosambi Jakarta!
 

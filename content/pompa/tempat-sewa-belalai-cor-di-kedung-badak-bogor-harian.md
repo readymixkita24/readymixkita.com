@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor utama dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Kedung Badak Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Kedung Badak Bogor!
 

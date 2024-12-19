@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor utama dalam setiap. Karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Pakuhaji Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Pakuhaji Tangerang!
 

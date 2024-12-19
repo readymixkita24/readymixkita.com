@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Karena itu, kami menyediak
 
 ## Daftar Harga Sewa Concrete Pump di Guntur Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Guntur Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap proyek. Untuk itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Grogol Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Grogol Jakarta!
 

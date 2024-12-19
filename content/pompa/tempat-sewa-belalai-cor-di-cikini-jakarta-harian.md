@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap proyek. Ol
 
 ## Daftar Harga Sewa Belalai Cor di Cikini Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Cikini Jakarta!
 

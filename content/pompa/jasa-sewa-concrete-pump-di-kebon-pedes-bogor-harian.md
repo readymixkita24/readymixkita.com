@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap. Oleh karena itu, kami men
 
 ## Daftar Harga Sewa Concrete Pump di Kebon Pedes Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Kebon Pedes Bogor!
 

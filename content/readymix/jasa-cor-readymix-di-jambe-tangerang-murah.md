@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Cor Readymix di Jambe Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terganggu karena mutu material yang kurang memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Jambe Tangerang!
 

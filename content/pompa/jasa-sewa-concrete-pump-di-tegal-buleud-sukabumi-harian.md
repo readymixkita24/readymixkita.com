@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap proyek. Oleh karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Tegal Buleud Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Tegal Buleud Sukabumi!
 

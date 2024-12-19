@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap. Karena itu, kami meny
 
 ## Daftar Harga Sewa Belalai Cor di Mulyaharja Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Mulyaharja Bogor!
 

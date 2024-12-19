@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah faktor utama dalam setiap. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Penjaringan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Penjaringan Jakarta!
 

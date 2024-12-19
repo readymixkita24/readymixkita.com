@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap. Karena itu, kami menye
 
 ## Daftar Harga Sewa Concrete Pump di Glodok Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Glodok Jakarta!
 

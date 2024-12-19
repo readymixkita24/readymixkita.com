@@ -84,7 +84,7 @@ Kami menyadari bahwa anggaran merupakan salah satu faktor utama dalam proyek kon
 
 ## Daftar Harga Jasa Beton Readymix di Cibodas Tangerang
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Cibodas Tangerang!
 

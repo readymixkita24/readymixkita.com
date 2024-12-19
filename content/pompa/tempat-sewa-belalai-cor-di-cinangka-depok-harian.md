@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Un
 
 ## Daftar Harga Sewa Belalai Cor di Cinangka Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Cinangka Depok!
 

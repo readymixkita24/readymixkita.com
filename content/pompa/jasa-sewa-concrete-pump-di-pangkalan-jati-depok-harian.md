@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor penting dalam setiap. Untuk itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Pangkalan Jati Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Pangkalan Jati Depok!
 

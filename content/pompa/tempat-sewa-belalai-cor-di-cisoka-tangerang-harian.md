@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor penting dalam setiap. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Belalai Cor di Cisoka Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Cisoka Tangerang!
 

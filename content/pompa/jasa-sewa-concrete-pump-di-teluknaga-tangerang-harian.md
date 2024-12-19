@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh karena
 
 ## Daftar Harga Sewa Concrete Pump di Teluknaga Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Teluknaga Tangerang!
 

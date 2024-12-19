@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu,
 
 ## Daftar Harga Sewa Concrete Pump di Cibitung Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Cibitung Sukabumi!
 

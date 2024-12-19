@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap proyek. Untuk itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Tambora Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Tambora Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan utama dalam setiap proyek.
 
 ## Daftar Harga Sewa Concrete Pump di Cicantayan Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Cicantayan Sukabumi!
 

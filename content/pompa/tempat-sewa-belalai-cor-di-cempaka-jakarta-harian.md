@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Kar
 
 ## Daftar Harga Sewa Belalai Cor di Cempaka Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Cempaka Jakarta!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Karena
 
 ## Daftar Harga Sewa Concrete Pump di Tanah Tinggi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Tanah Tinggi Jakarta!
 

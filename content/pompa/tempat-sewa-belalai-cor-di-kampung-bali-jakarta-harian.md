@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap proyek. Karena itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Kampung Bali Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Kampung Bali Jakarta!
 

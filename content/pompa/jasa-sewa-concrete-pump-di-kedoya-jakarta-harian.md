@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Karena
 
 ## Daftar Harga Sewa Concrete Pump di Kedoya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Kedoya Jakarta!
 

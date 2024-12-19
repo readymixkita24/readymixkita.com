@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami menawa
 
 ## Daftar Harga Sewa Belalai Cor di Sukaraja Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Sukaraja Sukabumi!
 

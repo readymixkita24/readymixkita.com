@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Untu
 
 ## Daftar Harga Sewa Belalai Cor di Petojoselatan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Petojoselatan Jakarta!
 

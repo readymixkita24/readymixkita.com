@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu utama dalam setiap proyek. Untuk
 
 ## Daftar Harga Sewa Concrete Pump di Rawasari Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Rawasari Jakarta!
 

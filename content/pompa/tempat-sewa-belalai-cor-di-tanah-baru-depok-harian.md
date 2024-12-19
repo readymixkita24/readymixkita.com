@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor penting dalam setiap. Untuk itu
 
 ## Daftar Harga Sewa Belalai Cor di Tanah Baru Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Tanah Baru Depok!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor penting dalam setiap proyek. Untuk itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Cakung Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Cakung Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap. Karena itu, kami menyed
 
 ## Daftar Harga Sewa Belalai Cor di Gunungkaler Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Gunungkaler Tangerang!
 

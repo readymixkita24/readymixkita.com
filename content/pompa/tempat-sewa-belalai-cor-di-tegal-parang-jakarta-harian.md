@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap. Untuk itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Tegal Parang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Tegal Parang Jakarta!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan penting dalam setiap p
 
 ## Daftar Harga Sewa Concrete Pump di Nagrak Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Nagrak Sukabumi!
 

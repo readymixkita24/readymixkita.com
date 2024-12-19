@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap. Untuk itu, kami menawarkan:
 
 ## Daftar Harga Sewa Belalai Cor di Lebak Bulus Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor unggulan di Lebak Bulus Jakarta!
 

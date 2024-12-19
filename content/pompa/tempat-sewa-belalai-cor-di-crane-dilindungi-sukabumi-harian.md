@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap. Karena itu, kami menyediak
 
 ## Daftar Harga Sewa Belalai Cor di Crane Dilindungi Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Crane Dilindungi Sukabumi!
 

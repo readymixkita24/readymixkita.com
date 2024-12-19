@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Bojongkerta Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Bojongkerta Bogor!
 

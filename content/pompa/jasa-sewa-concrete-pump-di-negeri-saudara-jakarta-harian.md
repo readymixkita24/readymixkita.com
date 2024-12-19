@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor penting dalam setiap proyek. Un
 
 ## Daftar Harga Sewa Concrete Pump di Negeri Saudara Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Negeri Saudara Jakarta!
 

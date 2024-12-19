@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor utama dalam setiap. Oleh karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Karet Tengsin Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Karet Tengsin Jakarta!
 

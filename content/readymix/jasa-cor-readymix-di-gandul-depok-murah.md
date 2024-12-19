@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah faktor pertimbangan utama dalam proyek konst
 
 ## Daftar Harga Jasa Cor Readymix di Gandul Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Gandul Depok!
 

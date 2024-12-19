@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap. Untuk itu, kami mena
 
 ## Daftar Harga Sewa Concrete Pump di Kebonpedes Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Kebonpedes Sukabumi!
 

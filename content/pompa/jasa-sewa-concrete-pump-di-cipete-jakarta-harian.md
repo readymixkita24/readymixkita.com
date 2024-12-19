@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek. Karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Cipete Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Cipete Jakarta!
 

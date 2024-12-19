@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan utama dalam setiap. Karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Cidolog Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Cidolog Sukabumi!
 

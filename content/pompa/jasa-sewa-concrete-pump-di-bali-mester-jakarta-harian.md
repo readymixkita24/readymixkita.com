@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan penting dalam setiap. Ole
 
 ## Daftar Harga Sewa Concrete Pump di Bali Mester Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Bali Mester Jakarta!
 

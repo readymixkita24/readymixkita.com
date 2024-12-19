@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami me
 
 ## Daftar Harga Sewa Belalai Cor di Tomang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Tomang Jakarta!
 

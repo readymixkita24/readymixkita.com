@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran anggaran adalah pertimbangan penting dalam setiap p
 
 ## Daftar Harga Sewa Concrete Pump di Mekarbaru Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Mekarbaru Tangerang!
 

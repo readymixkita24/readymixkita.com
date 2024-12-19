@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Untuk i
 
 ## Daftar Harga Sewa Concrete Pump di Cipinang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Cipinang Jakarta!
 

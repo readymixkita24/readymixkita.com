@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan utama dalam setiap proyek. Untuk i
 
 ## Daftar Harga Sewa Concrete Pump di Cikidang Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Cikidang Sukabumi!
 

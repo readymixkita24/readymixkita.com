@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor penting dalam proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Sawangan Depok
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari terhambatnya proyek Anda akibat mutu material yang tidak memadai. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Sawangan Depok!
 

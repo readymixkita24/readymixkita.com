@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap proyek. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Caringin Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Caringin Sukabumi!
 

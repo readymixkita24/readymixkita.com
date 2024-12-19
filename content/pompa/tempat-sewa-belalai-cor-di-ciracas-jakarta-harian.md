@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan penting dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Ciracas Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Ciracas Jakarta!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah faktor utama dalam setiap proyek. Kare
 
 ## Daftar Harga Sewa Belalai Cor di Cilandak Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Cilandak Jakarta!
 

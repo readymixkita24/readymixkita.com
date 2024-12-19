@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan penting dalam setiap proy
 
 ## Daftar Harga Sewa Belalai Cor di Balaraja Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Balaraja Tangerang!
 

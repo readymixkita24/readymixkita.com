@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor utama dalam setiap. Oleh karena itu, 
 
 ## Daftar Harga Sewa Belalai Cor di Kemanggisan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Kemanggisan Jakarta!
 

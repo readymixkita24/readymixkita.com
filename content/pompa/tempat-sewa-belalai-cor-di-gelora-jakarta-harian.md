@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Belalai Cor di Gelora Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Gelora Jakarta!
 

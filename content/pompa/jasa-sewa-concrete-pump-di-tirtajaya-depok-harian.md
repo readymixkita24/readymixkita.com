@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah pertimbangan utama dalam setiap. Oleh k
 
 ## Daftar Harga Sewa Concrete Pump di Tirtajaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Tirtajaya Depok!
 

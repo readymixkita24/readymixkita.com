@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan utama dalam setiap. Oleh karena it
 
 ## Daftar Harga Sewa Concrete Pump di Rangkapan Jaya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Rangkapan Jaya Depok!
 

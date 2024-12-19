@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Concrete Pump di Malaka Jaya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Malaka Jaya Jakarta!
 

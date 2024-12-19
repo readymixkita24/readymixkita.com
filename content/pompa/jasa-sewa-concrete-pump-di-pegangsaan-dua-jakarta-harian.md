@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan penting dalam setiap proy
 
 ## Daftar Harga Sewa Concrete Pump di Pegangsaan Dua Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Pegangsaan Dua Jakarta!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Oleh 
 
 ## Daftar Harga Sewa Belalai Cor di Cijantung Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Cijantung Jakarta!
 

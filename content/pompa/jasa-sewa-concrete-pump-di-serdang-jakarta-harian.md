@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Serdang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Serdang Jakarta!
 

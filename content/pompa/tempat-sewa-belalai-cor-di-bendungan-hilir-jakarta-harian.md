@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan penting dalam setiap proyek. Untuk
 
 ## Daftar Harga Sewa Belalai Cor di Bendungan Hilir Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Bendungan Hilir Jakarta!
 

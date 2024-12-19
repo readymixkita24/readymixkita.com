@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah faktor utama dalam setiap proyek. Oleh karen
 
 ## Daftar Harga Sewa Concrete Pump di Menteng Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Menteng Bogor!
 

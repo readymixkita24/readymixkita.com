@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran anggaran adalah faktor utama dalam setiap proyek. Untuk
 
 ## Daftar Harga Sewa Concrete Pump di Angke Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Angke Jakarta!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap. Karena itu, kam
 
 ## Daftar Harga Sewa Belalai Cor di Utan Panjang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor unggulan di Utan Panjang Jakarta!
 

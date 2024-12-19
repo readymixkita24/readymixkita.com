@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan penting dalam proyek
 
 ## Daftar Harga Jasa Beton Readymix di Baru Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Hindari gangguan pada proyek Anda akibat kualitas material yang kurang baik. Hubungi kami sekarang juga untuk mendapatkan solusi pengecoran terbaik di Baru Jakarta!
 

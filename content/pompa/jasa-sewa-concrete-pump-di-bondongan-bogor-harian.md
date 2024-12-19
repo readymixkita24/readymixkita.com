@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap. Karena itu, kami menyedia
 
 ## Daftar Harga Sewa Concrete Pump di Bondongan Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Bondongan Bogor!
 

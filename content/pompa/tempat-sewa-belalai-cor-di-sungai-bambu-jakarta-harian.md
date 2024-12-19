@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu penting dalam setiap. Untuk itu, kami men
 
 ## Daftar Harga Sewa Belalai Cor di Sungai Bambu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Sungai Bambu Jakarta!
 

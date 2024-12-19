@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap proyek. Karena itu, kami menyed
 
 ## Daftar Harga Sewa Concrete Pump di Cisoka Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Cisoka Tangerang!
 

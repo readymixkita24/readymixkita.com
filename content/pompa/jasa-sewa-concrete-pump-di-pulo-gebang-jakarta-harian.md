@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan penting dalam setiap. Oleh kare
 
 ## Daftar Harga Sewa Concrete Pump di Pulo Gebang Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Pulo Gebang Jakarta!
 

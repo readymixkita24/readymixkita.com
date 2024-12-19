@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu,
 
 ## Daftar Harga Sewa Concrete Pump di Cijantung Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Cijantung Jakarta!
 

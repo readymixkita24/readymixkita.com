@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor penting dalam proyek konstruks
 
 ## Daftar Harga Jasa Cor Readymix di Petogogan Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh kualitas material yang kurang baik. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Petogogan Jakarta!
 

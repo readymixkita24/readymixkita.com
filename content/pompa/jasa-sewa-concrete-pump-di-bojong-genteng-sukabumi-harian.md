@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap proyek. Oleh karena
 
 ## Daftar Harga Sewa Concrete Pump di Bojong Genteng Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Bojong Genteng Sukabumi!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan utama dalam setiap. Oleh karena itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Keagungan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Keagungan Jakarta!
 

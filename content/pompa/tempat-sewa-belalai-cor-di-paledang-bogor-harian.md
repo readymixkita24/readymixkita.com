@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah faktor penting dalam setiap. Untuk itu, ka
 
 ## Daftar Harga Sewa Belalai Cor di Paledang Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Paledang Bogor!
 

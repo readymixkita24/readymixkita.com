@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah salah satu penting dalam setiap proyek. Unt
 
 ## Daftar Harga Sewa Concrete Pump di Pondok Rangon Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Pondok Rangon Jakarta!
 

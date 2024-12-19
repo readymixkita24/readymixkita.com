@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor utama dalam setiap proyek. Oleh karena i
 
 ## Daftar Harga Sewa Concrete Pump di Tamansari Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Tamansari Jakarta!
 

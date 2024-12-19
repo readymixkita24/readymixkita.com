@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Mangga Besar Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump terbaik di Mangga Besar Jakarta!
 

@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan penting dalam setiap proyek. Oleh 
 
 ## Daftar Harga Sewa Concrete Pump di Joglo Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Joglo Jakarta!
 

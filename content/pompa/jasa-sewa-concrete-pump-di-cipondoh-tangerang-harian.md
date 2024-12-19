@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap proyek. Oleh karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Cipondoh Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Cipondoh Tangerang!
 

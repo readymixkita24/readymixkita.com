@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap proyek. Karena itu,
 
 ## Daftar Harga Sewa Belalai Cor di Gedong Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Gedong Jakarta!
 

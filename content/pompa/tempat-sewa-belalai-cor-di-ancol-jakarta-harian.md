@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor utama dalam setiap proyek. Oleh karena itu, kami m
 
 ## Daftar Harga Sewa Belalai Cor di Ancol Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Ancol Jakarta!
 

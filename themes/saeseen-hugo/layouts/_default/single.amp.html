@@ -224,8 +224,8 @@
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <style amp-custom>
 :root {
-  --primary-color: #810510;
-  --secondary-color: #01072E;
+  --primary-color: #075b87;
+  --secondary-color: #0f0f0f;
   --accent-color: #FFA500;
   --text-color: #333333;
   --bg-color: #F5F5F5;
@@ -240,7 +240,7 @@
   --text-blur: #a7a1a1;
 }
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat", "Arial", sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -272,7 +272,7 @@ header h1 {
   font-size: 2.5rem;
 }
 a {
-  color: var(--accent-color);
+  color: var(--error-color);
   text-decoration: none;
 }
 a: hover {
@@ -280,7 +280,7 @@ a: hover {
   text-decoration: none;
 }
 p a {
-  color: var(--accent-color);
+  color: var(--error-color);
   text-decoration: none;
   font-style: italic;
 }
@@ -295,32 +295,6 @@ h2 {
   margin-bottom: 2rem;
   position: relative;
   padding-bottom: 15px;
-}
-h2::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100px;
-  height: 4px;
-  background: linear-gradient(
-  to right,
-  var(--primary-color),
-  var(--accent-color)
-  );
-  border-radius: 2px;
-}
-h2::before {
-  content: "";
-  position: absolute;
-  bottom: -10px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 10px;
-  height: 10px;
-  background-color: var(--accent-color);
-  border-radius: 50%;
 }
 h3 {
   font-size: 1.6em;
@@ -578,7 +552,7 @@ footer {
 }
 .inline-related-post a {
   font-weight: 600;
-  color: var(--accent-color);
+  color: var(--primary-color);
 }
 .post-header h1 {
   margin: 20px;
@@ -611,7 +585,7 @@ footer {
   border-top: 1px solid var(--text-blur);
   padding-top: 20px;
   margin-top: 20px;
-  color: var(--accent-color);
+  color: var(--error-color);
   background: var(--bg-color);
 }
 @media (max-width: 768px) {
@@ -862,7 +836,7 @@ th, td {
   border: 1px solid #ccc;
 }
 th {
-  background-color: var(--accent-color);
+  background-color: var(--primary-color);
   color: #fff;
 }
 tr:nth-child(even) {

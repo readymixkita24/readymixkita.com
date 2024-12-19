@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan penting dalam setiap proyek. Ol
 
 ## Daftar Harga Sewa Concrete Pump di Jatimulya Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Jatimulya Depok!
 

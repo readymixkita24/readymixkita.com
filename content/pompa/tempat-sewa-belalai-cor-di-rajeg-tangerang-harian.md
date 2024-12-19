@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap. Untuk itu, kami
 
 ## Daftar Harga Sewa Belalai Cor di Rajeg Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Rajeg Tangerang!
 

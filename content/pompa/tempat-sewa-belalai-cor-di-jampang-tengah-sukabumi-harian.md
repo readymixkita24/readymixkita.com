@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan utama dalam setiap. Oleh karena it
 
 ## Daftar Harga Sewa Belalai Cor di Jampang Tengah Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Jampang Tengah Sukabumi!
 

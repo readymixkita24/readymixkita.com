@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu penting dalam setiap. Oleh karena itu, kami me
 
 ## Daftar Harga Sewa Concrete Pump di Cipedak Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Cipedak Jakarta!
 

@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap. Oleh karena itu, kami
 
 ## Daftar Harga Sewa Concrete Pump di Semplak Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Semplak Bogor!
 

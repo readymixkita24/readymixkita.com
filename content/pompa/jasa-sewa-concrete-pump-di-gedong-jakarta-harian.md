@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami menawa
 
 ## Daftar Harga Sewa Concrete Pump di Gedong Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Gedong Jakarta!
 

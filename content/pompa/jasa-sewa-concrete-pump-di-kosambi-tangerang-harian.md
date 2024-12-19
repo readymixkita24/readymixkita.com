@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan faktor penting dalam setiap. Karena itu, kam
 
 ## Daftar Harga Sewa Concrete Pump di Kosambi Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Kosambi Tangerang!
 

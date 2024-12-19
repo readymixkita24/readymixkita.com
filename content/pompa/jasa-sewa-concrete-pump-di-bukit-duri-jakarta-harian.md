@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap proyek. Karena itu, k
 
 ## Daftar Harga Sewa Concrete Pump di Bukit Duri Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Bukit Duri Jakarta!
 

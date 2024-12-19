@@ -84,7 +84,7 @@ Kami tahu bahwa anggaran adalah salah satu faktor utama dalam proyek konstruksi.
 
 ## Daftar Harga Jasa Beton Readymix di Serengseng Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat karena kualitas material yang kurang memadai. Segera hubungi kami untuk mendapatkan solusi pengecoran terbaik di Serengseng Jakarta!
 

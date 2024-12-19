@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan penting dalam setiap. Oleh karena itu,
 
 ## Daftar Harga Sewa Concrete Pump di Karet Kuningan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Concrete Pump unggulan di Karet Kuningan Jakarta!
 

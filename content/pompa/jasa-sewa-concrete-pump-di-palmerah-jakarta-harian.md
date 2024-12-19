@@ -89,7 +89,7 @@ Kami paham bahwa anggaran merupakan pertimbangan utama dalam setiap proyek. Untu
 
 ## Daftar Harga Sewa Concrete Pump di Palmerah Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump terbaik di Palmerah Jakarta!
 

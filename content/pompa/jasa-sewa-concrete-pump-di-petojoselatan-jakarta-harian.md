@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor penting dalam setiap. Untuk itu, kami menawar
 
 ## Daftar Harga Sewa Concrete Pump di Petojoselatan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump terbaik di Petojoselatan Jakarta!
 

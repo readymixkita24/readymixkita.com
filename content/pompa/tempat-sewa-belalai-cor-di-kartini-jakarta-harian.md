@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah pertimbangan utama dalam setiap proyek. Karena 
 
 ## Daftar Harga Sewa Belalai Cor di Kartini Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Kartini Jakarta!
 

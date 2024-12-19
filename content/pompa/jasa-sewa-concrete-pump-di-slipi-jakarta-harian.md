@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor utama dalam setiap proyek. Oleh karena i
 
 ## Daftar Harga Sewa Concrete Pump di Slipi Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump unggulan di Slipi Jakarta!
 

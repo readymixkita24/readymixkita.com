@@ -89,7 +89,7 @@ Kami menyadari bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu
 
 ## Daftar Harga Sewa Concrete Pump di Lebak Bulus Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Lebak Bulus Jakarta!
 

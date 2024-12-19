@@ -89,7 +89,7 @@ Kami tahu bahwa adalah salah satu utama dalam setiap proyek. Oleh karena itu, ka
 
 ## Daftar Harga Sewa Concrete Pump di Pamoyanan Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Concrete Pump unggulan di Pamoyanan Bogor!
 

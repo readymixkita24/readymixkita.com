@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah salah satu penting dalam setiap proyek. Untuk it
 
 ## Daftar Harga Sewa Belalai Cor di Jati Pulo Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Jati Pulo Jakarta!
 

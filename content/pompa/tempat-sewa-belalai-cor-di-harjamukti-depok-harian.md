@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah faktor penting dalam setiap. Untuk itu, kami me
 
 ## Daftar Harga Sewa Belalai Cor di Harjamukti Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghambat proyek Anda. Kontak kami segera untuk layanan penyewaan alat Belalai Cor terbaik di Harjamukti Depok!
 

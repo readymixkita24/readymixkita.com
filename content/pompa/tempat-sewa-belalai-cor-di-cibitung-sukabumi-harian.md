@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran biaya adalah pertimbangan utama dalam setiap. Karena it
 
 ## Daftar Harga Sewa Belalai Cor di Cibitung Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran mengganggu kemajuan proyek Anda. Hubungi kami segera untuk mendapatkan servis penyewaan alat Belalai Cor unggulan di Cibitung Sukabumi!
 

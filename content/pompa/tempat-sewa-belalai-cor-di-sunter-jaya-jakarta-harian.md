@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan penting dalam setiap. Untuk itu, kami 
 
 ## Daftar Harga Sewa Belalai Cor di Sunter Jaya Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor terbaik di Sunter Jaya Jakarta!
 

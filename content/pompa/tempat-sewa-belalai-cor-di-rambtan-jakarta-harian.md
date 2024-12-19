@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah salah satu utama dalam setiap proyek. Karena itu, ka
 
 ## Daftar Harga Sewa Belalai Cor di Rambtan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor terbaik di Rambtan Jakarta!
 

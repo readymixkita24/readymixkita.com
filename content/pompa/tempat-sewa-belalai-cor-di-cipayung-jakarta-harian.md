@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan penting dalam setiap. Oleh karen
 
 ## Daftar Harga Sewa Belalai Cor di Cipayung Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghambat proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Cipayung Jakarta!
 

@@ -89,7 +89,7 @@ Kami paham bahwa anggaran adalah faktor penting dalam setiap. Karena itu, kami m
 
 ## Daftar Harga Sewa Concrete Pump di Rambtan Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Rambtan Jakarta!
 

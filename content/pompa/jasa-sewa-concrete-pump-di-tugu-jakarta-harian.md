@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan faktor penting dalam setiap proyek. Karena it
 
 ## Daftar Harga Sewa Concrete Pump di Tugu Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Tugu Jakarta!
 

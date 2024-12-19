@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Oleh karena itu, kami menawa
 
 ## Daftar Harga Sewa Concrete Pump di Panaragan Bogor
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Concrete Pump unggulan di Panaragan Bogor!
 

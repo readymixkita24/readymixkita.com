@@ -84,7 +84,7 @@ Kami memahami bahwa anggaran adalah salah satu pertimbangan penting dalam proyek
 
 ## Daftar Harga Jasa Beton Readymix di Kapuk Jakarta
 
-{{< table-tables table="tableKomponen" >}}
+{{< table-tables table="tableReadymix" >}}
 
 Jangan biarkan proyek Anda terhambat oleh mutu material yang kurang baik. Hubungi kami sekarang untuk mendapatkan solusi pengecoran terbaik di Kapuk Jakarta!
 

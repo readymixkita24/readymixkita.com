@@ -89,7 +89,7 @@ Kami memahami bahwa anggaran adalah pertimbangan penting dalam setiap. Karena it
 
 ## Daftar Harga Sewa Concrete Pump di Tebet Jakarta
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran mengganggu proyek Anda. Segera hubungi kami segera untuk mendapatkan servis penyewaan alat Concrete Pump terbaik di Tebet Jakarta!
 

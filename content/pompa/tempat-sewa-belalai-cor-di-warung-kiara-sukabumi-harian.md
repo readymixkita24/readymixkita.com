@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah pertimbangan utama dalam setiap proyek. Oleh karena
 
 ## Daftar Harga Sewa Belalai Cor di Warung Kiara Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan servis penyewaan alat Belalai Cor terbaik di Warung Kiara Sukabumi!
 

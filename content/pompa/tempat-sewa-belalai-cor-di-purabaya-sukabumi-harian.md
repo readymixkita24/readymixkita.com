@@ -89,7 +89,7 @@ Kami menyadari bahwa adalah faktor utama dalam setiap. Oleh karena itu, kami men
 
 ## Daftar Harga Sewa Belalai Cor di Purabaya Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan masalah pengecoran menghalangi kemajuan proyek Anda. Segera hubungi kami untuk layanan penyewaan alat Belalai Cor unggulan di Purabaya Sukabumi!
 

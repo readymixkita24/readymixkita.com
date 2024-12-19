@@ -89,7 +89,7 @@ Kami tahu bahwa biaya adalah faktor utama dalam setiap proyek. Oleh karena itu, 
 
 ## Daftar Harga Sewa Concrete Pump di Tanah Baru Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran mengganggu proyek Anda. Kontak kami segera untuk layanan penyewaan alat Concrete Pump terbaik di Tanah Baru Depok!
 

@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran merupakan pertimbangan utama dalam setiap. Oleh karena 
 
 ## Daftar Harga Sewa Belalai Cor di Sukamulya Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghambat proyek Anda. Kontak kami sekarang untuk layanan penyewaan alat Belalai Cor unggulan di Sukamulya Tangerang!
 

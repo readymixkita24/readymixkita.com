@@ -89,7 +89,7 @@ Kami memahami bahwa biaya adalah pertimbangan penting dalam setiap. Untuk itu, k
 
 ## Daftar Harga Sewa Belalai Cor di Bojongsari Baru Depok
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Hindari membiarkan tantangan pengecoran menghalangi proyek Anda. Segera hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Bojongsari Baru Depok!
 

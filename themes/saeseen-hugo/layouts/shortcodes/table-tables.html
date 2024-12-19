@@ -1,5 +1,5 @@
 {{ with .Get "table" }}
-  {{ if eq . "tableKomponen" }}
+  {{ if eq . "tableReadymix" }}
     <table>
       <thead>
         <tr>
@@ -10,30 +10,34 @@
       </thead>
       <tbody>
         {{ range $.Site.Params.tabelItems }}
-        <tr>
-          <td>{{ .name }}</td>
-          <td>{{ .price }}</td>
-          <td>{{ index $.Site.Params.appliList .name }}</td>
-        </tr>
+          {{ if (in .name "Readymix") }}
+            <tr>
+              <td>{{ .name }}</td>
+              <td>{{ .price }}</td>
+              <td>{{ index $.Site.Params.appliList .name }}</td>
+            </tr>
+          {{ end }}
         {{ end }}
       </tbody>
     </table>
-  {{ else if eq . "tableSewa" }}
+  {{ else if eq . "tableConcretePump" }}
     <table>
       <thead>
         <tr>
-          <th>Jenis</th>
+          <th>Jasa</th>
           <th>Harga (Rp)</th>
           <th>Kegunaan Utama</th>
         </tr>
       </thead>
       <tbody>
         {{ range $.Site.Params.tabelItems }}
-        <tr>
-          <td>{{ .name }}</td>
-          <td>{{ .price }}</td>
-          <td>{{ index $.Site.Params.kegunaanList .name }}</td>
-        </tr>
+          {{ if (in .name "Sewa Concrete Pump") }}
+            <tr>
+              <td>{{ .name }}</td>
+              <td>{{ .price }}</td>
+              <td>{{ index $.Site.Params.kegunaanList .name }}</td>
+            </tr>
+          {{ end }}
         {{ end }}
       </tbody>
     </table>
@@ -43,5 +47,5 @@
 {{ end }}
 
 <p class="price-info">
-  Harga tertera sudah termasuk biaya pengiriman dan penurunan dengan minimal tertentu. Harga sewaktu-waktu bisa berubah, hubungi kami untuk informasi harga terbaru.
+  Harga tertera sudah termasuk biaya mobilisasi dengan minimal tertentu. Harga sewaktu-waktu bisa berubah, hubungi kami untuk informasi harga terbaru.
 </p>

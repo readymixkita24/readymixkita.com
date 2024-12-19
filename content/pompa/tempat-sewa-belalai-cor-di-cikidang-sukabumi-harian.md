@@ -89,7 +89,7 @@ Kami tahu bahwa anggaran adalah faktor utama dalam setiap proyek. Untuk itu, kam
 
 ## Daftar Harga Sewa Belalai Cor di Cikidang Sukabumi
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan masalah pengecoran menghalangi proyek Anda. Segera hubungi kami segera untuk mendapatkan layanan penyewaan alat Belalai Cor terbaik di Cikidang Sukabumi!
 

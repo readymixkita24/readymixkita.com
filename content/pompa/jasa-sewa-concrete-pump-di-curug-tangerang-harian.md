@@ -89,7 +89,7 @@ Kami tahu bahwa adalah faktor penting dalam setiap. Karena itu, kami menyediakan
 
 ## Daftar Harga Sewa Concrete Pump di Curug Tangerang
 
-{{< table-tables table="tableSewa" >}}
+{{< table-tables table="tableConcretePump" >}}
 
 Jangan biarkan tantangan pengecoran menghalangi kemajuan proyek Anda. Hubungi kami sekarang juga untuk mendapatkan layanan penyewaan alat Concrete Pump unggulan di Curug Tangerang!
 
