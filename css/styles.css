@@ -16,7 +16,7 @@
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat", "Arial", sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -257,6 +257,8 @@ h4 {
 }
 .hero-image {
   margin-bottom: 1rem;
+  position: relative;
+  display: inline-block;
 }
 .hero-image img {
   width: 100%;
@@ -264,6 +266,27 @@ h4 {
   border-radius: 10px;
   object-fit: cover;
   max-width: 600px;
+}
+.hero-image iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+.play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  color: #f03;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px 50px;
+  border-radius: 10%;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+.hero-video.playing .play-icon {
+  opacity: 0;
 }
 .cta-button {
   display: inline-block;
@@ -891,8 +914,8 @@ footer {
   text-align: center;
 }
 .profile-photo img {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   object-fit: cover;
 }
