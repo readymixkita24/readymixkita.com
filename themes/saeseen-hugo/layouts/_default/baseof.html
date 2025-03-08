@@ -15,5 +15,21 @@
     {{- block "scripts" . }}{{- end }}
     <button id="back-to-top" title="Back to Top">↑</button>
     <script src="{{ "js/back-to-top.js" | relURL }}" defer></script>
+    <script>
+        function playVideo(element) {
+          var img = element.querySelector("img");
+          var iframe = element.querySelector("iframe");
+          var playIcon = element.querySelector(".play-icon");
+          // Sembunyikan thumbnail dan ikon play
+          img.style.display = "none";
+          playIcon.style.opacity = "0";
+          // Tampilkan dan pastikan iframe memenuhi ukuran div
+          iframe.style.display = "block";
+          iframe.style.width = img.width + "px";
+          iframe.style.height = img.height + "px";
+          // Tambahkan class "playing" untuk menyembunyikan ikon play
+          element.classList.add("playing");
+        }
+        </script>                       
 </body>
 </html>

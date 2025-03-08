@@ -8,8 +8,10 @@
           <p>{{ .Site.Params.hero_description }}</p>
           <a href="#services" class="cta-button">{{ .Site.Params.hero_cta_text }}</a>
         </div>
-        <div class="hero-image">
-          <img src="{{ .Site.Params.hero_image }}" alt="{{ .Site.Params.hero_title }}" width="500" height="300" loading="lazy">
+        <div class="hero-image" onclick="playVideo(this)">
+          <img src="{{ .Site.Params.hero_thumbnail }}" alt="{{ .Site.Params.hero_title }}" width="500" height="300" loading="lazy" style="cursor: pointer;">
+          <iframe src="{{ .Site.Params.hero_image }}" title="{{ .Site.Params.hero_title }}" width="500" height="300" frameborder="0" allowfullscreen loading="lazy" style="display: none;"></iframe>
+          <div class="play-icon">▶</div>
         </div>
       </div>
       <section id="services">

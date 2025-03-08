@@ -21,7 +21,7 @@ paginate = 6
   favicon = "/images/logo/rk-logo-200x200.png"
   featured_image = "/images/admin/featured-image.jpg"
   author = "Harry Rusli"
-  telepon = "//+6281219909475"
+  telepon = "//+6281280505494"
   whatsapp = "//api.whatsapp.com/send?phone=6281219909475&text=*Halo readymixkita.com*%20%3A"
   enableWhatApps = true
   enableTelepon = true
@@ -109,11 +109,17 @@ cancellation_policies = [
   service_output = "Pengecoran yang lebih cepat dan presisi dengan pompa beton handal untuk proyek konstruksi Anda."
 
   # Profile Owner
-  profilePhoto = "/images/admin/harry.jpg"
+  profilePhoto = "/images/admin/harry.png"
   ownerName = "Harry Rusli"
   ownerProfession = "Spesialis Pemasaran Beton Ready Mix"
   ownerHobbies = "Mempelajari inovasi di bidang konstruksi, menjelajahi batching plant, dan berinteraksi dengan pelaku konstruksi"
   ownerMotto = "Membangun fondasi kuat untuk masa depan konstruksi yang lebih baik"
+
+  profilePhoto2 = "/images/admin/nanang.png"
+  ownerName2 = "Nanang S"
+  ownerProfession2 = "Spesialis Teknisi Beton Ready Mix"
+  ownerHobbies2 = "Mempelajari inovasi di bidang konstruksi, menjelajahi batching plant, dan berinteraksi dengan pelaku konstruksi"
+  ownerMotto2 = "Membangun fondasi kuat untuk masa depan konstruksi yang lebih baik"
 
   # Informasi Perusahaan
   companyName = "ReadymixKita.com"
@@ -121,13 +127,14 @@ cancellation_policies = [
   companyWeb = "readymixkita.com"
 
   # Informasi Kontak
-  phone = "0812-1990-9475"
+  phone = "0812-1990-9475 - 0812-8050-5494"
   email = "csreadymixkita@gmail.com"
   address = "Jl. Raya Citeureup Cibinong No. 09, Bogor - Jawa Barat 16811"
   whatsappNumber = "6281219909475"
 
  # Hero Section
-  hero_image = "/images/admin/header-bg.jpg"
+  hero_image = "https://www.youtube.com/embed/WJZbqTNJyoA?si=f5xFDqNsYQ8qPQqB"
+  hero_thumbnail = "https://img.youtube.com/vi/WJZbqTNJyoA/maxresdefault.jpg"
   hero_title = "Supplier Beton Ready Mix dan Jasa Pengecoran Terpercaya"
   hero_description = "Solusi beton cor readymix berkualitas tinggi dengan pelayanan profesional untuk proyek konstruksi Anda. Didukung tim berpengalaman dan standar mutu terbaik untuk hasil pengecoran yang presisi dan tahan lama."
   hero_cta_text = "Produk & Layanan"
@@ -148,6 +155,10 @@ cancellation_policies = [
 # About Us
   aboutUsTitle = "Tentang Kami"
   aboutUsDescription = "Readymixkita.com adalah website resmi yang pemasaran beton curah siap pakai atau ready mix concrete langsung dari pabrik olahan beton (batching plant). Readymix Concrete merupakan jenis beton yang telah dicampur dengan proporsi yang tepat di pabrik dan dikirim ke lokasi konstruksi dalam keadaan siap digunakan."
+  visiTitle = "Visi Kami"
+  visiDescription = "Visi kami adalah menjadi pilihan utama sebagai supplier beton cor readymix dan jasa pengecoran terpercaya di wilayah Jabodetabek, Jawa Barat, dan Banten. Kami berkomitmen untuk menyediakan produk berkualitas tinggi dan layanan yang memenuhi kebutuhan dan harapan pelanggan kami."
+  misiTitle = "Misi Kami"
+  misiDescription = "Menyediakan beton cor readymix dengan mutu terbaik. Memberikan pelayanan yang ramah, profesional, dan responsif. Melakukan pengecoran yang presisi dan berkualitas tinggi. Memenuhi standar keselamatan kerja dan lingkungan. Membangun hubungan jangka panjang dengan pelanggan dan mitra bisnis kami."
 
   partnersTitle = "Mitra Kami"
   partnersDescription = "Berikut adalah mitra supplier beton kami"
@@ -187,6 +198,7 @@ cancellation_policies = [
   toolFrogPumpImage = "/images/page/pompakodok.jpg"
 
   servicesTitle = "Layanan"
+  servicesDescription = "Kami melayani wilayah Jabodetabek, Jawa Barat, dan Banten. Tim kami siap untuk memberikan solusi beton cor readymix dan jasa pengecoran untuk proyek-proyek konstruksi di daerah tersebut."
   service1 = "Pengecoran Jalan"
   service2 = "Pengecoran Dak Rumah"
   service3 = "Pengecoran Parkiran"
