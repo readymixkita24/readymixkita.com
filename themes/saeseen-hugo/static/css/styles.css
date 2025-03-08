@@ -288,6 +288,29 @@ h4 {
 .hero-video.playing .play-icon {
   opacity: 0;
 }
+@media (max-width: 768px) {
+  .hero-image {
+    max-width: 100%;
+    width: 100vw;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .hero-image img, 
+  .hero-image iframe {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+  }
+  .play-icon {
+    font-size: 40px;
+    padding: 8px 16px;
+  }
+}
 .cta-button {
   display: inline-block;
   padding: 0.75rem 1.5rem;
@@ -918,6 +941,19 @@ footer {
   height: 250px;
   border-radius: 50%;
   object-fit: cover;
+}
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+    text-align: center;
+  }
+  .profile-photo {
+    margin-bottom: 15px;
+  }
+  .profile-bio {
+    padding-left: 0;
+    text-align: center;
+  }
 }
 .profile-bio {
   flex: 2;
