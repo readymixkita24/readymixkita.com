@@ -1,63 +1,62 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Irwan
+    name: Eko
     message: >-
-      Saya sangat puas dengan layanan readymix beton dari readymixkita.com untuk
-      proyek bangunan saya. Hasilnya sempurna dan proses pengerjaannya
-      profesional. Tim teknisnya terampil dan beton yang digunakan kualitas
-      terbaik.
+      Saya terkesan dengan service readymix beton dari readymixkita.com untuk
+      proyek rumah saya. Kualitasnya excellent dan proses pengerjaannya sangat
+      rapi. Stafnya kompeten dan beton yang digunakan standar tinggi.
     response: >-
-      Terima kasih atas kepercayaan Anda! Kami berkomitmen memberikan layanan
-      maksimal untuk setiap proyek client kami.
+      Apresiasi tinggi atas penilaian Anda! Kami senantiasa menyajikan layanan
+      berkualitas untuk setiap konstruksi client kami.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Sari
-    message: >-
-      readymixkita.com mempermudah dalam memenuhi kebutuhan beton untuk
-      pembangunan kami di area Jakarta. Beton yang dipasok konsisten terjamin
-      mutunya dan pengirimannya tidak terlambat. Handling proyeknya juga
-      excellent.
-    response: >-
-      Penghargaan tinggi atas ulasan positifnya! Kepuasan client adalah
-      prioritas utama kami dalam memberikan layanan beton readymix.
-    rating: 4
-  - avatar: /images/admin/avatar3.png
-    name: Fadli
-    message: >-
-      Pengalaman bertahun-tahun mereka benar-benar terlihat dari hasil
-      pengerjaan dan service yang excellent. Senang sekali dengan mutu
-      pengecoran dari readymixkita.com. Tim lapangannya sangat kooperatif.
-    response: >-
-      Terima kasih atas dukungannya! Kami selalu berkomitmen memberikan layanan
-      optimal dengan kualitas tinggi untuk setiap pekerjaan.
-    rating: 5
-  - avatar: /images/admin/avatar4.png
-    name: Ramli
-    message: >-
-      Tim readymixkita.com sangat memahami keperluan konstruksi kami. Hasil
-      akhir dan jadwal delivery top notch. Semua lancar dari mulai hingga proyek
-      berakhir.
-    response: >-
-      Kami senang bisa membantu! Kenyamanan pelanggan adalah semangat kami untuk
-      terus memaksimalkan level layanan.
-    rating: 5
-  - avatar: /images/admin/avatar5.png
     name: Fitri
     message: >-
-      Pelayanan readymixkita.com mengoptimalkan konstruksi pembangunan kami.
-      Eksekusi rapi dan kualitasnya memuaskan. Kolaborasi dengan tim teknis juga
-      lancar. Pricenya juga sangat kompetitif.
+      readymixkita.com mempermudah dalam memenuhi kebutuhan beton untuk
+      pembangunan kami di Jakarta dan sekitarnya. Material yang dikirimkan
+      konsisten berkualitas dan distribusinya tepat waktu. Handling proyeknya
+      juga excellent.
     response: >-
-      Penghargaan atas dukungan Anda! Kami berupaya untuk selalu mempersembahkan
-      kualitas excellent untuk setiap pekerjaan.
+      Penghargaan tinggi atas ulasan positifnya! Kepuasan pelanggan adalah
+      komitmen utama kami dalam menyediakan layanan beton readymix.
+    rating: 4
+  - avatar: /images/admin/avatar3.png
+    name: Yusuf
+    message: >-
+      Pengalaman bertahun-tahun mereka sungguh terlihat dari hasil pengerjaan
+      dan layanan yang profesional. Sangat puas dengan kualitas konstruksi dari
+      readymixkita.com. Pekerjanya sangat kooperatif.
+    response: >-
+      Terima kasih atas penilaiannya! Kami senantiasa berkomitmen memberikan
+      pengerjaan maksimal dengan standar tinggi untuk setiap pekerjaan.
+    rating: 5
+  - avatar: /images/admin/avatar4.png
+    name: Andi
+    message: >-
+      Tim readymixkita.com sangat mengerti keperluan proyek kami. Pengerjaannya
+      dan ketepatan waktu delivery sangat memuaskan. Tidak ada kendala dari awal
+      hingga proyek berakhir.
+    response: >-
+      Kami bersyukur bisa membantu! Kepercayaan pelanggan adalah semangat kami
+      untuk terus memaksimalkan kualitas layanan.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Susan
+    message: >-
+      Pelayanan readymixkita.com mengoptimalkan konstruksi pembangunan kami.
+      Proses pengerjaan teratur dan produknya berkualitas. Komunikasi dengan tim
+      teknis juga responsif. Pricenya juga terjangkau.
+    response: >-
+      Terima kasih atas penilaian Anda! Kami berusaha untuk selalu menghadirkan
+      produk optimal untuk setiap konstruksi.
     rating: 5
   - avatar: /images/admin/avatar6.png
     name: Benny
     message: >-
-      Kualitas beton dan service dari readymixkita.com dapat diandalkan. Timnya
-      berpengalaman dan cepat tanggap dalam mengatasi setiap kondisi. Siap
-      merekomendasikan untuk proyek segala ukuran.
+      Kualitas beton dan penanganan dari readymixkita.com dapat diandalkan. Para
+      pekerjanya profesional dan responsif dalam menyelesaikan setiap kondisi.
+      Sangat merekomendasikan untuk pembangunan berbagai skala.
     response: >-
-      Penghargaan atas testimoninya! Kami akan selalu mengoptimalkan standar dan
-      pengerjaan kami untuk kebahagiaan konsumen.
+      Apresiasi tinggi atas rekomendasinya! Kami akan selalu menjaga standar dan
+      pengerjaan kami untuk kepuasan pelanggan.
     rating: 5
