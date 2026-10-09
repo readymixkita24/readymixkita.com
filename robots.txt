@@ -8,5 +8,5 @@ Noindex: /tags/*/page/
 Disallow: /page/
 Noindex: /page/
 
-Sitemap: https://readymixkita.com/sitemap.xml
-Sitemap: https://readymixkita.com/sitemap.xml.gz
+Sitemap: https://readymixkita-com.pages.dev/sitemap.xml
+Sitemap: https://readymixkita-com.pages.dev/sitemap.xml.gz
