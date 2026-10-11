@@ -1,0 +1,1 @@
+# .dedupe-approve.txt — penggabungan manual. Format: /blog/KORBAN/ > /blog/PEMENANG/

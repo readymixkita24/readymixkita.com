@@ -1,0 +1,1 @@
+# .dedupe-protect.txt — artikel yang TIDAK BOLEH dihapus. Satu URL per baris, contoh: /blog/judul-artikel/
