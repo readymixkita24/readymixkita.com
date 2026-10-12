@@ -10,6 +10,9 @@ on:
   push:
     branches: [ master ]
 
+permissions:
+  contents: write
+
 # Serialize with recycle.yml — both can build/deploy to gh-pages, and recycle.yml also
 # commits to master, so running in parallel risks a messy deploy or a push race.
 concurrency:
@@ -73,6 +76,11 @@ jobs:
           npm cache clean --force
           echo "Disk space setelah cleanup node_modules:"
           df -h
+
+      # Cloudflare Pages membaca folder public/ dari master (tanpa build command), jadi hasil build
+      # HARUS di-commit ke master. Jangan beri "[skip ci]" di pesan — Cloudflare akan melewatinya.
+      - name: Commit public/ ke master (dibaca Cloudflare Pages)
+        run: bash tools/commit-public.sh "Build site public ${{ github.run_id }}"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

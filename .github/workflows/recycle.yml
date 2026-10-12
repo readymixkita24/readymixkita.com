@@ -13,6 +13,9 @@ on:
 
 # Serialize with deploy.yml — both can build/deploy to gh-pages, and this workflow also
 # commits to master, so running in parallel risks a messy deploy or a push race.
+permissions:
+  contents: write
+
 concurrency:
   group: dataweb-repo-write
   cancel-in-progress: false
@@ -141,6 +144,9 @@ jobs:
           npm cache clean --force
           echo "Disk space after cleanup node_modules:"
           df -h
+
+      - name: Commit public/ ke master (dibaca Cloudflare Pages)
+        run: bash tools/commit-public.sh "Recycle build public ${{ github.run_id }}"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

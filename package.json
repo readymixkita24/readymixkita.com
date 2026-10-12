@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prebuild": "node tools/process-spintax.js",
-    "build": "hugo --minify && npm run compress-sitemap",
+    "build": "hugo --minify --cleanDestinationDir && npm run compress-sitemap",
     "start": "npm run prebuild && hugo server",
     "compress-sitemap": "node tools/compress-sitemap.js",
     "recycle": "node tools/recycle-posts.js",

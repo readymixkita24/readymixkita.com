@@ -445,7 +445,11 @@ async function main() {
     ? JSON.parse(fs.readFileSync(PROGRESS_FILE, 'utf8'))
     : { revised: [], failed: {} };
 
-  const todo = allUrls.filter(u => !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE);
+  // Skrip ini khusus varian KOTA (judul berpola "... di <lokasi>"). Artikel tanpa lokasi (mis. artikel
+  // blog hasil generate-articles.js) TIDAK direvisi — sebelumnya artikel blog baru ikut ditulis ulang.
+  const hasLocation = u => !!extractLocation((candData.titles[u] || {}).title || '');
+  const todo = allUrls.filter(u => hasLocation(u) && !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE);
+  log(`   Dilewati (bukan varian kota) : ${allUrls.filter(u => !hasLocation(u)).length}`);
   log(`   Already revised before : ${progress.revised.length}`);
   log(`   Awaiting revision      : ${todo.length}`);
   log(`   Will process this run  : ${Math.min(LIMIT, todo.length)}\n`);
@@ -565,7 +569,7 @@ async function main() {
     fs.appendFileSync(LOG_FILE, logLines.join('\n') + '\n');
   }
 
-  const stillTodo = allUrls.filter(u => !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE).length;
+  const stillTodo = allUrls.filter(u => extractLocation((candData.titles[u] || {}).title || '') && !progress.revised.includes(u) && (progress.failed[u] || 0) < CONFIG.MAX_RETRIES_PER_ARTICLE).length;
   log(`\n${'─'.repeat(60)}`);
   log(APPLY ? '✅ DONE (APPLY)' : '🧪 DRY-RUN COMPLETE (no files changed)');
   log(`   Successfully revised this session : ${success}`);

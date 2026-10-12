@@ -516,7 +516,7 @@ function getExistingArticleTexts() {
     fs.readdirSync(dir, { withFileTypes: true }).forEach(e => {
       const full = path.join(dir, e.name);
       if (e.isDirectory()) { scan(full); return; }
-      if (!e.name.endsWith('.md')) return;
+      if (!e.name.endsWith('.md') || e.name === '_index.md') return; // _index.md = halaman daftar section, bukan artikel
       try {
         const raw = fs.readFileSync(full, 'utf8');
         const titleMatch = raw.match(/^title:\s*"((?:[^"\\]|\\.)*)"/m);
@@ -537,6 +537,7 @@ function loadExcludedKeywords() {
   const active = {};
   let released = 0;
   for (const [key, entry] of Object.entries(raw)) {
+    if (entry && entry.matchedFile === '_index.md') { released++; continue; } // salah-cocok dgn halaman section, lepaskan
     if (entry && entry.algoVersion === SIMILARITY_ALGO_VERSION) active[key] = entry;
     else released++;
   }
@@ -629,6 +630,7 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
 
   const ideas = new Set();
   let creditsUsed = 0;
+  let emptySerpStreak = 0;
 
   for (const seed of seedKeywords) {
     if (creditsUsed >= CONFIG.SERPER_DAILY_BUDGET) {
@@ -641,8 +643,14 @@ async function fetchKeywordIdeasFromSerper(seedKeywords) {
       const serp = await serperSearch('search', { q: seed, gl: CONFIG.SERPER_COUNTRY, hl: CONFIG.SERPER_LANG });
       creditsUsed++;
 
+      const beforeSerp = ideas.size;
       (serp.relatedSearches || []).forEach(r => r.query    && ideas.add(r.query.trim()));
       (serp.peopleAlsoAsk   || []).forEach(r => r.question && ideas.add(r.question.trim()));
+      if (ideas.size === beforeSerp) {
+        emptySerpStreak++;
+        console.log(`   ⚠️  "${seed}" tidak menghasilkan ide baru. Field respons: ${Object.keys(serp || {}).join(', ') || '(kosong)'} — ${JSON.stringify(serp).slice(0, 200)}`);
+        if (emptySerpStreak >= 2) { console.log('   🛑 2 seed berturut-turut kosong — berhenti agar kredit Serper tidak terbuang. Periksa SERPER_API_KEY / format respons.'); break; }
+      } else { emptySerpStreak = 0; }
 
       if (CONFIG.SERPER_USE_AUTOCOMPLETE && creditsUsed < CONFIG.SERPER_DAILY_BUDGET) {
         // BEST-EFFORT: Serper.dev lists "Autocomplete" as a supported search type, but its
