@@ -1,0 +1,16 @@
+{
+  "fixed": [
+    "/blog/harga-readymix-bekasi/",
+    "/pompa/jasa-sewa-concrete-pump-di-baktijaya-depok-harian/"
+  ],
+  "failed": {
+    "/blog/harga-readymix-bogor/": 1,
+    "/blog/harga-readymix-depok/": 1,
+    "/blog/harga-readymix-jakarta/": 1,
+    "/blog/harga-readymix-tangerang/": 1,
+    "/blog/jasa-cor-beton-ready-mix/": 1,
+    "/blog/mutu-beton-k225-k250-k300/": 1,
+    "/blog/sewa-pompa-kodok/": 1,
+    "/pompa/jasa-sewa-concrete-pump-di-bali-mester-jakarta-harian/": 1
+  }
+}
