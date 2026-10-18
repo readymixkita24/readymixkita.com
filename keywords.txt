@@ -7,9 +7,6 @@ cara menghitung kebutuhan beton
 biaya borongan dak rumah per meter
 biaya buat dak beton
 biaya buat dak rumah
-biaya cor dak 4x4
-biaya cor dak 4x6
-biaya cor dak 6x10
 biaya cor dak 6x6
 biaya cor dak 6x7
 biaya cor dak beton
