@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pasar Baru Jakarta Harian"
 date: "2023-01-24"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kelapa Gading Jakarta Murah"
 date: "2023-02-19"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

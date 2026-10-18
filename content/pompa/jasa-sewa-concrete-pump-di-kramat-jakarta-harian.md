@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Kramat Jakarta Harian"
 date: "2023-03-20"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pengadegan Jakarta Harian"
 date: "2023-05-27"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

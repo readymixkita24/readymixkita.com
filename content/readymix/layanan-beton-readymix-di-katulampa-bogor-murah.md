@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Katulampa Bogor Murah"
 date: "2023-12-23"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

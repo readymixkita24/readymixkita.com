@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Karangtengah Tangerang Murah"
 date: "2023-01-23"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

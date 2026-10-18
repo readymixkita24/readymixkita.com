@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Kebon Pedes Bogor Harian"
 date: "2023-07-16"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

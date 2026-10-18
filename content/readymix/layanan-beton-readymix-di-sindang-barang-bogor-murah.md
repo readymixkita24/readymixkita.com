@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Sindang Barang Bogor Murah"
 date: "2023-02-18"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

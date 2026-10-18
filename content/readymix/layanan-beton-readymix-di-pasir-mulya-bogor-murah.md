@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pasir Mulya Bogor Murah"
 date: "2023-08-30"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

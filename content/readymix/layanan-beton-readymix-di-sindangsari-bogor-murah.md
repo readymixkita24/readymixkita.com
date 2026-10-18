@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Sindangsari Bogor Murah"
 date: "2023-07-14"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

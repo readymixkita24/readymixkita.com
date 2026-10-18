@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Kebon Kacang Jakarta Murah"
 date: "2023-11-22"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

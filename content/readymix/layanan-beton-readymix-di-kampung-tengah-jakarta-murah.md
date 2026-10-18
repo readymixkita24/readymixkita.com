@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kampung Tengah Jakarta Murah"
 date: "2023-10-28"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

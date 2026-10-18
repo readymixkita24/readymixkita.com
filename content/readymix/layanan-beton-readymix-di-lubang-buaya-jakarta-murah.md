@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Lubang Buaya Jakarta Murah"
 date: "2023-01-31"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Harga Readymix Cor K400 Fresh Beton: Update, Cek Sekarang!"
 date: "2023-06-06"
+lastmod: "2026-10-18"
 categories: 
   - "readymix-cor"
 ---

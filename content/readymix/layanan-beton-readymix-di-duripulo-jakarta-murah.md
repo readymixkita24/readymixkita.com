@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Duripulo Jakarta Murah"
 date: "2023-08-14"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

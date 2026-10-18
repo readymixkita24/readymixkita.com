@@ -1,6 +1,7 @@
 ---
 title: "Harga Readymix Cor K250 Merah Putih: Terbaru, Cek Disini!"
 date: "2023-06-27"
+lastmod: "2026-10-18"
 categories: 
   - "readymix-cor"
 ---

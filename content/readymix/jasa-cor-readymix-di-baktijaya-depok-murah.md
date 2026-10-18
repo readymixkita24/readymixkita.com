@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Baktijaya Depok Murah"
 date: "2023-05-17"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

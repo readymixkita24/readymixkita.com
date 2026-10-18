@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Kwitang Jakarta Harian"
 date: "2023-06-11"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

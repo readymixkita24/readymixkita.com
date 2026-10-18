@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Kedoya Jakarta Harian"
 date: "2023-01-27"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cipinang Muara Jakarta Murah"
 date: "2023-01-14"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

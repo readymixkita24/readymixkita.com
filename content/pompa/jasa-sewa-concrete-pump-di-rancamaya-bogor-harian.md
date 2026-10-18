@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Rancamaya Bogor Harian"
 date: "2023-06-28"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cimanggu Sukabumi Murah"
 date: "2023-05-29"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

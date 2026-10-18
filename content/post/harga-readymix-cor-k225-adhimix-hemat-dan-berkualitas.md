@@ -1,6 +1,7 @@
 ---
 title: "Harga Readymix Cor K225 Adhimix: Hemat dan Berkualitas!"
 date: "2023-06-04"
+lastmod: "2026-10-18"
 categories: 
   - "readymix-cor"
 ---

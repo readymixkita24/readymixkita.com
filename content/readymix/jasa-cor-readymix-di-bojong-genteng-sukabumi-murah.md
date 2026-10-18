@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Bojong Genteng Sukabumi Murah"
 date: "2023-08-13"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

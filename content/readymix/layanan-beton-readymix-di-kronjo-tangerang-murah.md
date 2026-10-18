@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kronjo Tangerang Murah"
 date: "2023-03-06"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Kebon Pedes Bogor Harian"
 date: "2023-07-21"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

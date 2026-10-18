@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Kamal Jakarta Murah"
 date: "2023-07-18"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

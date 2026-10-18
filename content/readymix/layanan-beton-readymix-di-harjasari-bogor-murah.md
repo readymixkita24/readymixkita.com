@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Harjasari Bogor Murah"
 date: "2023-08-31"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

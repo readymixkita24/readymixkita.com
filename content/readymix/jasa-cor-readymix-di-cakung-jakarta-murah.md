@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Cakung Jakarta Murah"
 date: "2023-10-02"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

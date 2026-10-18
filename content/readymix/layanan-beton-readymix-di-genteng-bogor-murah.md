@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Genteng Bogor Murah"
 date: "2023-08-23"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

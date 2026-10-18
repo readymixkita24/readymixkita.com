@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Semper Jakarta Harian"
 date: "2023-08-14"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

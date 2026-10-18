@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Krukut Jakarta Murah"
 date: "2023-05-02"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

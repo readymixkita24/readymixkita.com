@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kebayoran Baru Jakarta Murah"
 date: "2023-11-30"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

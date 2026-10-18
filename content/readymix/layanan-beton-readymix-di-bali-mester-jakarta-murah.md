@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bali Mester Jakarta Murah"
 date: "2023-11-14"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

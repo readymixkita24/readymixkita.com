@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Tanjung Priok Jakarta Harian"
 date: "2023-10-01"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

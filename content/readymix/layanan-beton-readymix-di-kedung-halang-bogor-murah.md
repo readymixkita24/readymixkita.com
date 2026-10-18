@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kedung Halang Bogor Murah"
 date: "2023-05-19"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Kalapanunggal Sukabumi Murah"
 date: "2023-06-23"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

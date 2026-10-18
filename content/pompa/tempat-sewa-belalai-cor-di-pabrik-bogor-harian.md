@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Pabrik Bogor Harian"
 date: "2023-06-29"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

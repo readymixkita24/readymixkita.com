@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Ranggamekar Bogor Murah"
 date: "2023-06-21"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

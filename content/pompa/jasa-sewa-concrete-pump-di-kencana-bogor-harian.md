@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Kencana Bogor Harian"
 date: "2023-07-02"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Paledang Bogor Harian"
 date: "2023-04-10"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

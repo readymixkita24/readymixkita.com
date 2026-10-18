@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pabrik Bogor Harian"
 date: "2023-10-09"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

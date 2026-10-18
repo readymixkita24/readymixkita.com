@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Papanggo Jakarta Murah"
 date: "2023-10-29"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

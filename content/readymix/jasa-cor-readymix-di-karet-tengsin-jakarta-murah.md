@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Karet Tengsin Jakarta Murah"
 date: "2023-11-05"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

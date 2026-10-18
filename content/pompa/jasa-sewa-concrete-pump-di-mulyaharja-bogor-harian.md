@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Mulyaharja Bogor Harian"
 date: "2023-02-18"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

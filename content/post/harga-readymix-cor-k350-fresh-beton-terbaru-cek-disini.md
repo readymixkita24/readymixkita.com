@@ -1,6 +1,7 @@
 ---
 title: "Harga Readymix Cor K350 Fresh Beton: Terbaru, Cek Disini!"
 date: "2023-06-10"
+lastmod: "2026-10-18"
 categories: 
   - "readymix-cor"
 ---

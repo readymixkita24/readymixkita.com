@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pangkalan Jati Depok Murah"
 date: "2023-08-13"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

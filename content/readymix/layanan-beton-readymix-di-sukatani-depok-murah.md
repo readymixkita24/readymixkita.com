@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Sukatani Depok Murah"
 date: "2023-06-06"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

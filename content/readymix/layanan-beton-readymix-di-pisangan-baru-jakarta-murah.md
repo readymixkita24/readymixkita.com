@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pisangan Baru Jakarta Murah"
 date: "2023-08-22"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

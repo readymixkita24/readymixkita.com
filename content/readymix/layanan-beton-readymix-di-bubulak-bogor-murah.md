@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bubulak Bogor Murah"
 date: "2023-02-06"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Malaka Jaya Jakarta Harian"
 date: "2023-11-14"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

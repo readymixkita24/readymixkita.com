@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pulo Gadung Jakarta Murah"
 date: "2023-06-07"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

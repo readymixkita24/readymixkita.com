@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Rawajati Jakarta Harian"
 date: "2023-08-15"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

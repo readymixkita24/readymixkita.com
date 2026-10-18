@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Serengseng Jakarta Harian"
 date: "2023-06-24"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

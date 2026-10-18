@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Sempur Bogor Murah"
 date: "2023-03-04"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

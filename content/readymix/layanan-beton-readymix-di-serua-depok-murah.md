@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Serua Depok Murah"
 date: "2023-10-25"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

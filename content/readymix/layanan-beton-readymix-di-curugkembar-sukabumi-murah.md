@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Curugkembar Sukabumi Murah"
 date: "2023-10-10"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

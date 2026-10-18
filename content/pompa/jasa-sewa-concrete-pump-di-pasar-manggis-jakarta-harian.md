@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pasar Manggis Jakarta Harian"
 date: "2023-07-17"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pekojan Jakarta Harian"
 date: "2023-12-03"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

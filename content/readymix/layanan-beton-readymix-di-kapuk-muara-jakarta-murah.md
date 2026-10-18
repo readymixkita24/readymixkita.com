@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kapuk Muara Jakarta Murah"
 date: "2023-08-04"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

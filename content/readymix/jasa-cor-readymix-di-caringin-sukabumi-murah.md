@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Caringin Sukabumi Murah"
 date: "2023-02-10"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

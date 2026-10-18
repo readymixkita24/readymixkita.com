@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pabuaran Sukabumi Murah"
 date: "2023-12-09"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

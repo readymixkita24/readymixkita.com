@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Jatinegara Kaum Jakarta Murah"
 date: "2023-03-29"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

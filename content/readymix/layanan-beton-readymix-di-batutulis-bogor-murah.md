@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Batutulis Bogor Murah"
 date: "2023-03-07"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

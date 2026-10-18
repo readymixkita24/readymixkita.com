@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Cipaku Bogor Harian"
 date: "2023-05-09"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

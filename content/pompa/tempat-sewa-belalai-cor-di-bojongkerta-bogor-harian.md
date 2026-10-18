@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Bojongkerta Bogor Harian"
 date: "2023-12-03"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

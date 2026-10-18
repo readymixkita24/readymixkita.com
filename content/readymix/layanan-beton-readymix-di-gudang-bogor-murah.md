@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Gudang Bogor Murah"
 date: "2023-10-01"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

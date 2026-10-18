@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Harjamukti Depok Murah"
 date: "2023-03-05"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

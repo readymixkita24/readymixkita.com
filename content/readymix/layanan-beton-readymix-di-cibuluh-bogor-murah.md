@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cibuluh Bogor Murah"
 date: "2023-07-02"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Krukut Jakarta Murah"
 date: "2023-07-03"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

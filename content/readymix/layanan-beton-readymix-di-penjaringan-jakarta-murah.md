@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Penjaringan Jakarta Murah"
 date: "2023-06-27"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

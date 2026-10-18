@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pinang Ranti Jakarta Murah"
 date: "2023-01-10"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

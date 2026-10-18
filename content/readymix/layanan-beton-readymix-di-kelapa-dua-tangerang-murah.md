@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kelapa Dua Tangerang Murah"
 date: "2023-11-27"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

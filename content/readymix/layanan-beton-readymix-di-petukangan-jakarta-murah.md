@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Petukangan Jakarta Murah"
 date: "2023-10-23"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

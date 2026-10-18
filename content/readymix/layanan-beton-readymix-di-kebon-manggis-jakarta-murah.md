@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kebon Manggis Jakarta Murah"
 date: "2023-11-16"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

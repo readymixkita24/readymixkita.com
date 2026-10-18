@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Bale Kambang Jakarta Murah"
 date: "2023-09-10"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bambu Apus Jakarta Murah"
 date: "2023-06-15"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

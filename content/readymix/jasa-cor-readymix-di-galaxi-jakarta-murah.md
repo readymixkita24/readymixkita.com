@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Galaxi Jakarta Murah"
 date: "2023-05-30"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

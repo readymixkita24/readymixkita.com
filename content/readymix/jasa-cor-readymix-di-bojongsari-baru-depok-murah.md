@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Bojongsari Baru Depok Murah"
 date: "2023-06-19"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

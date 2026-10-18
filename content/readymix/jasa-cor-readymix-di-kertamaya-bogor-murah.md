@@ -1,6 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Kertamaya Bogor Murah"
 date: "2023-11-11"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

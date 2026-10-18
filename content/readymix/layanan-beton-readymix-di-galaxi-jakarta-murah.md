@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Galaxi Jakarta Murah"
 date: "2023-02-16"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 

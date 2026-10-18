@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Pinangsia Jakarta Harian"
 date: "2023-05-20"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

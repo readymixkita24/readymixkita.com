@@ -1,6 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Sindang Barang Bogor Harian"
 date: "2023-11-24"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

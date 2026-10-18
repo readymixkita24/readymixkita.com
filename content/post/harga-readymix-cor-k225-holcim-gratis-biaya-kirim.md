@@ -1,6 +1,7 @@
 ---
 title: "Harga Readymix Cor K225 Holcim: Gratis Biaya Kirim!"
 date: "2023-06-18"
+lastmod: "2026-10-18"
 categories: 
   - "readymix-cor"
 ---

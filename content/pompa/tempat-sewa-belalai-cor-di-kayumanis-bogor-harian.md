@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Kayumanis Bogor Harian"
 date: "2023-12-01"
+lastmod: "2026-10-18"
 categories: "[pompa]"
 ---
 

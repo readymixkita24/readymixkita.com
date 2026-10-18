@@ -1,6 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Tugu Depok Murah"
 date: "2023-05-03"
+lastmod: "2026-10-18"
 categories: "[readymix]"
 ---
 
