@@ -12,7 +12,6 @@ biaya cor dak per meter persegi
 biaya cor dak rumah
 biaya cor dak rumah per meter
 biaya cor dak ukuran 3x6
-biaya cor halaman rumah
 biaya cor rumah per m2
 biaya cor rumah per meter
 biaya cor rumah per meter persegi
@@ -21,8 +20,6 @@ biaya dak beton per meter persegi
 biaya dak beton rumah
 biaya dak beton rumah per m2
 biaya dak cor rumah
-biaya dak cor ukuran 6x8
-biaya dak cor ukuran 7x10
 biaya dak per meter persegi
 biaya dak rumah 60m2
 biaya dak rumah 6x10
