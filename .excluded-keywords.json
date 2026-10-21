@@ -572,5 +572,12 @@
     "matchedTitle": "Biaya Cor Bondek Per Meter: Panduan Lengkap & Estimasi 2026",
     "taggedAt": "2026-10-18T10:25:40.985Z",
     "algoVersion": 4
+  },
+  "biaya ngecor halaman rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-halaman-rumah.md",
+    "matchedTitle": "Biaya Cor Halaman Rumah: Estimasi Terbaru dan Tips Penghematan 2026",
+    "taggedAt": "2026-10-21T11:11:55.486Z",
+    "algoVersion": 4
   }
 }
