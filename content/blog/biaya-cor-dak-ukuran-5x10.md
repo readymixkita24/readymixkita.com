@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Dak Ukuran 5x10: Estimasi Lengkap dan Tips Penghematan 2026"
 date: "2026-10-19"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "product"
@@ -65,4 +66,4 @@ Berikut beberapa tips yang dapat diterapkan untuk menghemat biaya cor dak 5x10 m
 *   **Perencanaan Anggaran yang Matang:** Buatlah perencanaan anggaran yang rinci dan realistis dengan memperhitungkan semua faktor biaya yang relevan. [Pelajari lebih lanjut tentang biaya buat dak per meter](/blog/biaya-buat-dak-per-meter/) untuk membantu memperkirakan anggaran secara tepat.
 *   **Pertimbangkan Alternatif Material:** Dalam beberapa kasus, penggunaan material alternatif seperti hollow core atau plat gelombang dapat menjadi solusi yang lebih ekonomis.
 
-Apabila masih terdapat hal yang ingin ditanyakan, jangan ragu menghubungi Kami melalui tombol **WhatsApp** atau **Telepon** pada halaman ini.
+Apabila masih terdapat hal yang ingin ditanyakan, jangan ragu menghubungi Kami melalui tombol **WhatsApp** atau **Telepon** pada halaman ini. [Pelajari perkiraan biaya cor halaman rumah](/blog/biaya-cor-halaman-rumah/) untuk referensi tambahan. [Cek juga estimasi biaya cor dak ukuran lain](/blog/biaya-cor-dak-3x6/) untuk referensi tambahan.

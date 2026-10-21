@@ -1,6 +1,7 @@
 ---
 title: "Biaya Buat Dak Per Meter: Estimasi, Faktor, dan Tips Hemat 2026"
 date: "2026-10-16"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "product"
@@ -17,7 +18,7 @@ draft: false
 
 ## Memahami Faktor-Faktor yang Mempengaruhi Biaya Buat Dak Per Meter
 
-Anda perlu memahami bahwa biaya pembuatan dak per meter persegi tidaklah tunggal. Terdapat beberapa faktor utama yang memengaruhi besaran biaya tersebut. Pertama, jenis material yang digunakan. Pilihan utama adalah beton bertulang konvensional, beton ringan (misalnya *lightweight concrete* atau *foam concrete*), dan *precast concrete*. Setiap material memiliki harga dasar yang berbeda. Beton bertulang konvensional umumnya paling ekonomis, namun beton ringan menawarkan keunggulan dari segi berat dan kemudahan pemasangan.
+Anda perlu memahami bahwa biaya pembuatan dak per meter persegi tidaklah tunggal. Terdapat beberapa faktor utama yang memengaruhi besaran biaya tersebut. Pertama, jenis material yang digunakan. Pilihan utama adalah beton bertulang konvensional, beton ringan (misalnya *lightweight concrete* atau *foam concrete*), dan *precast concrete*, serta opsi lain seperti [cor bondek](/blog/biaya-cor-bondek-per-meter/) yang semakin populer dalam konstruksi modern. Setiap material memiliki harga dasar yang berbeda. Beton bertulang konvensional umumnya paling ekonomis, namun beton ringan menawarkan keunggulan dari segi berat dan kemudahan pemasangan.
 
 Kedua, ketebalan dak. Semakin tebal dak, semakin banyak material yang dibutuhkan, dan otomatis biaya akan meningkat. Ketebalan dak yang umum digunakan berkisar antara 120 mm hingga 150 mm untuk beban normal, namun dapat bervariasi tergantung pada bentang, beban desain, dan standar bangunan yang berlaku. Perhitungan beban desain harus dilakukan oleh tenaga ahli struktur untuk memastikan keamanan bangunan.
 

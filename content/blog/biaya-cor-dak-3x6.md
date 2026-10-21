@@ -1,6 +1,7 @@
 ---
 title: "Biaya Cor Dak 3x6: Estimasi Lengkap dan Tips Penghematan 2026"
 date: "2026-10-17"
+lastmod: "2026-10-21"
 categories:
  - "blog"
 type: "product"
@@ -23,7 +24,7 @@ Ukuran dak 3x6 meter persegi merupakan dimensi yang umum digunakan untuk pembang
 *   **Biaya Tenaga Kerja:** Biaya tenaga kerja untuk pengecoran dak 3x6 meter persegi berkisar antara Rp 1.500.000 hingga Rp 2.500.000, tergantung pada kompleksitas pekerjaan dan tarif tenaga kerja di wilayah Anda.
 *   **Biaya Sewa Concrete Pump:** Jika lokasi pengecoran sulit dijangkau oleh truk molen, Kami sarankan untuk menyewa concrete pump. Biaya sewa concrete pump berkisar antara Rp 800.000 hingga Rp 1.500.000 per hari, tergantung pada kapasitas pompa dan jarak tempuh.
 
-Dengan menjumlahkan semua biaya tersebut, estimasi total biaya cor dak 3x6 meter persegi adalah sekitar Rp 18.620.000 hingga Rp 25.820.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra Readymix Kita.
+Dengan menjumlahkan semua biaya tersebut, estimasi total biaya cor dak 3x6 meter persegi adalah sekitar Rp 18.620.000 hingga Rp 25.820.000, dan untuk referensi biaya pengecoran dak dengan ukuran lain, Anda bisa melihat [estimasi biaya cor dak 6x7](/blog/biaya-cor-dak-6x7/). Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra Readymix Kita.
 
 ## Faktor-Faktor yang Mempengaruhi Biaya Cor Dak
 

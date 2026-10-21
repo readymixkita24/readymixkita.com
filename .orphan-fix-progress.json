@@ -1,7 +1,14 @@
 {
   "fixed": [
     "/blog/harga-readymix-bekasi/",
-    "/pompa/jasa-sewa-concrete-pump-di-baktijaya-depok-harian/"
+    "/pompa/jasa-sewa-concrete-pump-di-baktijaya-depok-harian/",
+    "/blog/biaya-cor-bondek-per-meter/",
+    "/blog/biaya-cor-dak-3x6/",
+    "/blog/biaya-cor-dak-4x4/",
+    "/blog/biaya-cor-dak-6x6/",
+    "/blog/biaya-cor-dak-6x7/",
+    "/blog/biaya-cor-halaman-rumah/",
+    "/blog/biaya-dak-cor-ukuran-6x8/"
   ],
   "failed": {
     "/blog/harga-readymix-bogor/": 1,
@@ -11,6 +18,9 @@
     "/blog/jasa-cor-beton-ready-mix/": 1,
     "/blog/mutu-beton-k225-k250-k300/": 1,
     "/blog/sewa-pompa-kodok/": 1,
-    "/pompa/jasa-sewa-concrete-pump-di-bali-mester-jakarta-harian/": 1
+    "/pompa/jasa-sewa-concrete-pump-di-bali-mester-jakarta-harian/": 1,
+    "/blog/biaya-cor-dak-4x6/": 1,
+    "/blog/biaya-cor-dak-6x10/": 1,
+    "/blog/biaya-dak-cor-ukuran-7x10/": 1
   }
 }
