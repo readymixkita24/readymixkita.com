@@ -27,7 +27,6 @@ biaya dak rumah per m2
 biaya dak rumah per meter
 biaya dak rumah per meter persegi
 biaya dak rumah ukuran 6x10
-biaya dak rumah ukuran 6x8
 biaya membuat dak beton
 biaya membuat dak beton per m2
 biaya membuat dak beton per meter
@@ -36,9 +35,7 @@ biaya membuat tangga rumah cor
 biaya ngecor dak rumah
 biaya ngecor halaman rumah
 biaya ngecor rumah per meter
-biaya ngecor ukuran 6x6
 biaya ngedak bondek per meter
-biaya ngedak per m2
 biaya ngedak per meter
 biaya ngedak rumah dengan bondek
 biaya ngedak rumah per m2
