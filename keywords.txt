@@ -41,8 +41,6 @@ biaya ngedak rumah dengan bondek
 biaya ngedak rumah per m2
 biaya ngedak rumah per meter
 biaya ngedak rumah per meter persegi
-biaya ngedak ukuran 3x3
-biaya ngedak ukuran 3x6
 biaya pembuatan dak beton
 biaya pembuatan dak beton per m2
 biaya pengecoran dak rumah
@@ -53,7 +51,6 @@ campuran cor dak rumah
 cara cor dak murah
 cara dak rumah murah
 cara membuat cor dak beton
-cara membuat cor halaman rumah
 cara membuat dak hebel
 cara membuat dak rumah
 cara membuat rumah cor
