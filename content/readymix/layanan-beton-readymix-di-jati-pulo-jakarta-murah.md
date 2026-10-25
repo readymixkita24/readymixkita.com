@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Jati Pulo Jakarta Murah"
 date: "2023-02-10"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

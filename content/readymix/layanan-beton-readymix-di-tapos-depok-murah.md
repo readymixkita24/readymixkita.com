@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Tapos Depok Murah"
 date: "2023-02-11"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

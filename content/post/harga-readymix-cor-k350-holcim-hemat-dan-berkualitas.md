@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K350 Holcim: Hemat dan Berkualitas!"
 date: "2023-06-13"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix-cor"
 ---

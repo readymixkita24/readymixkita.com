@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kalapanunggal Sukabumi Murah"
 date: "2023-06-20"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

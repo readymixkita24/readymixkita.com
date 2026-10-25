@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K250 Semen Indonesia: Murah dan Mutu Terjamin"
 date: "2023-06-20"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix-cor"
 ---

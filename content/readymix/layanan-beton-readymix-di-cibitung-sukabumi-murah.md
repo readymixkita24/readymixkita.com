@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cibitung Sukabumi Murah"
 date: "2023-03-26"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

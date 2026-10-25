@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Semanan Jakarta Murah"
 date: "2023-08-23"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

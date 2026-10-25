@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Tegal Parang Jakarta Murah"
 date: "2023-06-03"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

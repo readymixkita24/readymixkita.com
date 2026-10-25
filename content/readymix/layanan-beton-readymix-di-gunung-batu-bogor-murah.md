@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Gunung Batu Bogor Murah"
 date: "2023-05-26"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

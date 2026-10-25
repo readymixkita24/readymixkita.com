@@ -1,7 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Tegallega Bogor Harian"
 date: "2023-02-17"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[pompa]"
 ---
 

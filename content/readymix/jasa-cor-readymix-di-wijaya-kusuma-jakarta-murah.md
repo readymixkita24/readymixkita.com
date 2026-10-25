@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Wijaya Kusuma Jakarta Murah"
 date: "2023-01-04"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

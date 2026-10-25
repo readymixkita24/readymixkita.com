@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kartini Jakarta Murah"
 date: "2023-08-29"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

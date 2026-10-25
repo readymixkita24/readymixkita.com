@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K300 Adhimix: Hemat dan Berkualitas!"
 date: "2023-06-15"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix-cor"
 ---

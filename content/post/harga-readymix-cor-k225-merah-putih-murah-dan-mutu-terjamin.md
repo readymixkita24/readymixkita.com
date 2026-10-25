@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K225 Merah Putih: Murah dan Mutu Terjamin"
 date: "2023-06-27"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix-cor"
 ---

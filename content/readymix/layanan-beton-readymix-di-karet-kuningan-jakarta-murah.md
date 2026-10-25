@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Karet Kuningan Jakarta Murah"
 date: "2023-03-18"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

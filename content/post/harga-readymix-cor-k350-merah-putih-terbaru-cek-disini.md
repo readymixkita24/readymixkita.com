@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K350 Merah Putih: Terbaru, Cek Disini!"
 date: "2023-07-02"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: 
   - "readymix-cor"
 ---

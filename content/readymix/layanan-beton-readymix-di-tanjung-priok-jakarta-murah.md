@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Tanjung Priok Jakarta Murah"
 date: "2023-01-13"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

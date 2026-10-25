@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Curug Tangerang Murah"
 date: "2023-01-04"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 

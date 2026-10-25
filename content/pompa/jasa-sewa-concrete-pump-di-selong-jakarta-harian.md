@@ -1,7 +1,7 @@
 ---
 title: "Jasa Sewa Concrete Pump di Selong Jakarta Harian"
 date: "2023-12-23"
-lastmod: "2026-10-24"
+lastmod: "2026-10-25"
 categories: "[pompa]"
 ---
 **Jasa Sewa Concrete Pump di Selong Jakarta Harian** - Hai Mitra Readymix Kita! Punya proyek konstruksi di Selong Jakarta yang butuh solusi pengecoran efisien dan handal? Pengecoran beton seringkali jadi tantangan tersendiri, apalagi kalau lokasi sulit dijangkau atau butuh kecepatan tinggi. Nah, kami dari ReadymixKita hadir untuk memberikan solusi terbaik: jasa sewa concrete pump harian yang bisa diandalkan. 

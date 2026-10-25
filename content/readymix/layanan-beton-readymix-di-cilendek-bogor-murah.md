@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cilendek Bogor Murah"
 date: "2023-03-29"
-lastmod: "2026-10-18"
+lastmod: "2026-10-25"
 categories: "[readymix]"
 ---
 
