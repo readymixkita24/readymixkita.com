@@ -684,5 +684,19 @@
     "matchedTitle": "Biaya Ngedak Per M2: Panduan Lengkap untuk Proyek Konstruksi Anda",
     "taggedAt": "2026-10-23T11:02:11.101Z",
     "algoVersion": 4
+  },
+  "dak rumah dengan hebel": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-membuat-dak-hebel.md",
+    "matchedTitle": "Cara Membuat Dak Hebel Kuat dan Tahan Lama: Panduan Lengkap 2026",
+    "taggedAt": "2026-10-26T12:17:01.284Z",
+    "algoVersion": 4
+  },
+  "meningkat rumah tanpa cor": {
+    "reason": "similar to existing article",
+    "matchedFile": "cara-meningkat-rumah-tanpa-cor.md",
+    "matchedTitle": "Cara Meningkatkan Rumah Tanpa Cor: Alternatif Hemat dan Praktis",
+    "taggedAt": "2026-10-26T12:17:01.286Z",
+    "algoVersion": 4
   }
 }
