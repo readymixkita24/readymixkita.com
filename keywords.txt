@@ -72,15 +72,12 @@ dak rumah dengan bondek
 dak rumah dengan hebel
 dak rumah hemat biaya
 dak rumah pakai bondek
-harga baja ringan untuk cor dak
-harga beton precast ruspin
 harga cor bangunan per meter
 harga cor beton untuk rumah
 harga cor coran per meter
 harga cor dak per meter persegi
 harga cor dak rumah
 harga cor rumah per meter
-harga dak beton jadi
 harga dak beton per meter
 harga dak cor bondek
 harga dak keraton per m2
