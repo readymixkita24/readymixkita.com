@@ -1,6 +1,7 @@
 ---
 title: "Biaya Dak Rumah Ukuran 6x12: Estimasi Terbaru dan Tips Penghematan 2026"
 date: "2026-10-21"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "product"
@@ -64,4 +65,4 @@ Dalam proses pengecoran dak, Mitra Readymix Kita memiliki dua opsi utama: pengec
 
 Perlu dipertimbangkan bahwa penggunaan *concrete pump* akan sangat menghemat waktu dan tenaga kerja, terutama untuk proyek dengan akses terbatas. Meskipun ada biaya sewa tambahan, efisiensi yang didapatkan seringkali lebih besar daripada biaya tersebut. [Pelajari lebih lanjut tentang jasa sewa concrete pump di Readymix Kita](/blog/jasa-pengecoran-dak-rumah/).
 
-Membutuhkan bantuan langsung untuk kebutuhan proyek Mitra Readymix Kita? Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk berkonsultasi dengan tim Kami.
+Membutuhkan bantuan langsung untuk kebutuhan proyek Mitra Readymix Kita? [Cek estimasi biaya dak rumah ukuran 6x8](/blog/biaya-dak-rumah-ukuran-6x8/) untuk perbandingan. Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk berkonsultasi dengan tim Kami.

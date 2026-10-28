@@ -1,6 +1,7 @@
 ---
 title: "Biaya Ngedak Rumah Ukuran 6x6: Estimasi 2026 & Tips Hemat"
 date: "2026-10-23"
+lastmod: "2026-10-28"
 categories:
  - "blog"
 type: "product"
@@ -23,7 +24,7 @@ Selain itu, terdapat biaya tambahan lain yang seringkali terlupakan, seperti bia
 
 ## Estimasi Biaya Ngedak Rumah 6x6 Tahun 2026
 
-Untuk memberikan gambaran yang lebih jelas, mari kita lakukan estimasi biaya ngedak rumah ukuran 6x6 meter pada tahun 2026. Asumsi yang kita gunakan adalah ketebalan dak 12 cm dan penggunaan mutu beton K-300.
+Untuk memberikan gambaran yang lebih jelas, mari kita lakukan estimasi biaya ngedak rumah ukuran 6x6 meter pada tahun 2026, dan Anda juga bisa melihat [estimasi biaya untuk ukuran 4x6](/blog/biaya-ngedak-rumah-ukuran-4x6/) untuk perbandingan. Asumsi yang kita gunakan adalah ketebalan dak 12 cm dan penggunaan mutu beton K-300.
 
 Berikut adalah rincian estimasi biayanya:
 
