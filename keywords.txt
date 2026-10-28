@@ -80,11 +80,9 @@ harga cor dak rumah
 harga cor rumah per meter
 harga dak beton per meter
 harga dak cor bondek
-harga dak keraton per m2
 harga dak per m2
 harga dak rumah per meter
 harga dak rumah per meter persegi
-harga kawat cor bangunan
 harga ngecor dak rumah
 harga ngecor rumah per meter
 harga ngedak per m2
@@ -92,7 +90,6 @@ harga ngedak per meter
 harga per meter dak beton
 ketebalan cor dak bondek
 ketebalan cor dak rumah
-membuat dak rumah dengan bondek
 menghitung biaya cor dak rumah
 menghitung biaya ngedak rumah
 meningkat rumah tanpa cor
