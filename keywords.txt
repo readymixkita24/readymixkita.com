@@ -98,11 +98,8 @@ ngedak rumah dengan hebel
 perhitungan biaya cor dak rumah
 perhitungan biaya dak rumah
 perhitungan biaya ngecor rumah
-perkiraan biaya cor dak per m2
 perkiraan biaya dak per meter
-perkiraan biaya dak rumah
 perkiraan biaya ngedak rumah
-rincian biaya cor dak
 rincian biaya dak rumah
 tangga cor rumah minimalis
 ukuran batu split untuk cor rumah
