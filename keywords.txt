@@ -102,6 +102,3 @@ perkiraan biaya dak per meter
 perkiraan biaya ngedak rumah
 rincian biaya dak rumah
 tangga cor rumah minimalis
-ukuran batu split untuk cor rumah
-ukuran bondek untuk dak rumah
-ukuran cor dak beton
