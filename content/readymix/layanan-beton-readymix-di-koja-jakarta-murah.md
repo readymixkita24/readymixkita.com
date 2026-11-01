@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Koja Jakarta Murah"
 date: "2023-08-12"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[readymix]"
 ---
 

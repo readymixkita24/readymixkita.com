@@ -1,7 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Kedung Badak Bogor Harian"
 date: "2023-01-01"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[pompa]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Tempat Sewa Belalai Cor di Cinangka Depok Harian"
 date: "2023-06-23"
-lastmod: "2026-10-28"
+lastmod: "2026-11-01"
 categories: "[pompa]"
 ---
 **Tempat Sewa Belalai Cor di Cinangka Depok Harian** - Hai Mitra Readymix Kita! Pengecoran beton adalah bagian penting dari setiap proyek konstruksi. Tapi, bagaimana jika akses lokasi sulit atau waktu pengerjaan mepet? Nah, di sinilah peran penting pompa beton atau *belalai cor*. Kami dari ReadymixKita hadir untuk memberikan solusi pengecoran cepat dan praktis di Cinangka Depok dan sekitarnya.

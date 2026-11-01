@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Galur Jakarta Murah"
 date: "2023-05-05"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[readymix]"
 ---
 

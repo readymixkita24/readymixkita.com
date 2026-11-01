@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K250 Fresh Beton: Terbaru, Cek Disini!"
 date: "2023-06-03"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: 
   - "readymix-cor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Warakas Jakarta Murah"
 date: "2023-01-18"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[readymix]"
 ---
 

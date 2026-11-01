@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Sungai Bambu Jakarta Murah"
 date: "2023-07-26"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[readymix]"
 ---
 

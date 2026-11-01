@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Cimanggis Depok Murah"
 date: "2023-09-27"
-lastmod: "2026-10-25"
+lastmod: "2026-11-01"
 categories: "[readymix]"
 ---
 
