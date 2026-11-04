@@ -1,6 +1,7 @@
 ---
 title: "Biaya Ngedak Rumah Ukuran 6x10: Rincian, Estimasi, dan Tips Hemat 2026"
 date: "2026-10-23"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "product"
@@ -41,6 +42,6 @@ Untuk besi tulangan, asumsikan penggunaan besi diameter 10 mm dengan jarak 20 cm
 ## Tips Menghemat Biaya Ngedak Rumah
 Terdapat beberapa strategi yang dapat Anda terapkan untuk menghemat biaya ngedak rumah 6x10 meter. Salah satunya adalah memilih penyedia beton readymix yang terpercaya dan menawarkan harga yang kompetitif. Kami di Readymix Kita senantiasa berupaya memberikan harga terbaik tanpa mengorbankan kualitas produk.
 
-Pertimbangkan untuk menggunakan concrete pump guna menghemat waktu dan biaya tenaga kerja. Concrete pump memungkinkan pengecoran beton dilakukan dengan lebih cepat dan efisien, terutama untuk area yang sulit dijangkau oleh truk molen. Selain itu, perencanaan yang matang dan peminimalan pemborosan material juga dapat membantu Anda menghemat anggaran. Anda juga dapat membaca artikel terkait tentang [Biaya Cor Dak 6x10: Estimasi Lengkap & Tips Menghemat 2026] untuk mendapatkan informasi yang lebih mendalam.
+Pertimbangkan untuk menggunakan concrete pump guna menghemat waktu dan biaya tenaga kerja. Concrete pump memungkinkan pengecoran beton dilakukan dengan lebih cepat dan efisien, terutama untuk area yang sulit dijangkau oleh truk molen. Selain itu, perencanaan yang matang dan peminimalan pemborosan material juga dapat membantu Anda menghemat anggaran. Anda juga dapat membaca artikel terkait tentang [Biaya Cor Dak 6x10: Estimasi Lengkap & Tips Menghemat 2026](/blog/biaya-ngedak-ukuran-3x6/) untuk mendapatkan informasi yang lebih mendalam.
 
 Apabila masih terdapat hal yang ingin ditanyakan, jangan ragu menghubungi Kami melalui tombol **WhatsApp** atau **Telepon** pada halaman ini.

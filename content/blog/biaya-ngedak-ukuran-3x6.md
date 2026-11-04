@@ -1,6 +1,7 @@
 ---
 title: "Biaya Ngedak Ukuran 3x6: Estimasi, Faktor, dan Tips Hemat 2026"
 date: "2026-10-24"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "product"
@@ -39,7 +40,7 @@ Ada beberapa faktor yang secara signifikan memengaruhi biaya ngedak ukuran 3x6 m
 
 ## Menghemat Biaya Ngedak Ukuran 3x6 Meter
 
-Berikut beberapa tips untuk menghemat biaya ngedak ukuran 3x6 meter:
+Berikut beberapa tips untuk menghemat biaya ngedak ukuran 3x6 meter: [memperkirakan biaya ngedak](/blog/biaya-ngedak-rumah-ukuran-6x6/) juga penting untuk proyek dengan ukuran berbeda.
 
 *   **Pilih Mutu Beton yang Tepat:** Konsultasikan dengan ahli struktur untuk menentukan mutu beton yang paling sesuai dengan kebutuhan bangunan Anda. Hindari penggunaan mutu beton yang terlalu tinggi jika tidak diperlukan, karena akan meningkatkan biaya tanpa memberikan manfaat signifikan.
 *   **Optimalkan Desain Dak:** Desain dak yang efisien dapat membantu mengurangi penggunaan material dan biaya konstruksi.

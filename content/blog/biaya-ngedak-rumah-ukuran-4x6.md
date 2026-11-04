@@ -1,6 +1,7 @@
 ---
 title: "Biaya Ngedak Rumah Ukuran 4x6: Estimasi Lengkap dan Tips Hemat 2026"
 date: "2026-10-23"
+lastmod: "2026-11-04"
 categories:
  - "blog"
 type: "product"
@@ -21,7 +22,7 @@ Perhitungan biaya dak rumah tidaklah sesederhana mengalikan luas dengan harga pe
 
 Ukuran rumah 4x6 meter merupakan dimensi yang umum digunakan untuk rumah tipe kecil atau rumah subsidi. Secara umum, ketebalan dak yang sering digunakan berkisar antara 10 hingga 12 cm. Asumsikan ketebalan dak 12 cm (0,12 meter), maka volume beton yang dibutuhkan adalah 4 meter x 6 meter x 0,12 meter = 2,88 meter kubik.
 
-Untuk memperkirakan biaya, kita perlu mengetahui harga beton readymix per meter kubik. Harga ini bervariasi tergantung wilayah, mutu beton (K-250, K-300, dst.), dan penyedia. Di wilayah Jabodetabek dan sekitarnya, pada tahun 2026, perkiraan harga beton readymix K-300 berkisar antara Rp 800.000 hingga Rp 1.200.000 per meter kubik. 
+Untuk memperkirakan biaya, kita perlu mengetahui harga beton readymix per meter kubik, dan Anda juga bisa melihat [estimasi biaya ngecor ukuran 3x3](/blog/biaya-ngedak-ukuran-3x3/) untuk perbandingan. Harga ini bervariasi tergantung wilayah, mutu beton (K-250, K-300, dst.), dan penyedia. Di wilayah Jabodetabek dan sekitarnya, pada tahun 2026, perkiraan harga beton readymix K-300 berkisar antara Rp 800.000 hingga Rp 1.200.000 per meter kubik. 
 
 Dengan asumsi harga Rp 1.000.000 per meter kubik, biaya beton untuk dak rumah 4x6 meter adalah 2,88 m³ x Rp 1.000.000/m³ = Rp 2.880.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra Readymix Kita.
 
