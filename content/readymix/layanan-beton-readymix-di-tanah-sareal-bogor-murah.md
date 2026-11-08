@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Tanah Sareal Bogor Murah"
 date: "2023-07-14"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

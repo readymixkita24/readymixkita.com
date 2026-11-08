@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K400 Merah Putih: Murah dan Mutu Terjamin"
 date: "2023-06-30"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix-cor"
 ---

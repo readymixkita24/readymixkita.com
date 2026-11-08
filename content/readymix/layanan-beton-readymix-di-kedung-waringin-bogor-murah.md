@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kedung Waringin Bogor Murah"
 date: "2023-10-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

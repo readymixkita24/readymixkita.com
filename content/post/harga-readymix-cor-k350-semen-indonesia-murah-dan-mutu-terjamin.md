@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K350 Semen Indonesia: Murah dan Mutu Terjamin"
 date: "2023-06-04"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix-cor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Mekarwangi Bogor Murah"
 date: "2023-04-13"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

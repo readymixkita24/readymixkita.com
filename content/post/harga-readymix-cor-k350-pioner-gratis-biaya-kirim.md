@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K350 Pioner: Gratis Biaya Kirim!"
 date: "2023-06-02"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: 
   - "readymix-cor"
 ---

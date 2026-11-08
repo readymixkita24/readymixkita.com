@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Situ Gede Bogor Murah"
 date: "2023-01-09"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

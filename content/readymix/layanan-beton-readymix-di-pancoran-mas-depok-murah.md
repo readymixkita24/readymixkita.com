@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pancoran Mas Depok Murah"
 date: "2023-03-11"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

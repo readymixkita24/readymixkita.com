@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Curug Bogor Murah"
 date: "2023-05-12"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

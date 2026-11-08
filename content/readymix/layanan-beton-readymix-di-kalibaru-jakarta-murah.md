@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kalibaru Jakarta Murah"
 date: "2023-12-02"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

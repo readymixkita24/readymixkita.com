@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Curug Depok Murah"
 date: "2023-09-09"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

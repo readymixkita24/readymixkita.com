@@ -1,7 +1,7 @@
 ---
 title: "Jasa Cor Readymix di Kampung Tengah Jakarta Murah"
 date: "2023-01-10"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kalimulya Depok Murah"
 date: "2023-11-24"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

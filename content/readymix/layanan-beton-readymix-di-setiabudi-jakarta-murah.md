@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Setiabudi Jakarta Murah"
 date: "2023-02-17"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 

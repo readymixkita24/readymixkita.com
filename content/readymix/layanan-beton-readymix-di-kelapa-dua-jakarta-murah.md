@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kelapa Dua Jakarta Murah"
 date: "2023-08-20"
-lastmod: "2026-11-01"
+lastmod: "2026-11-08"
 categories: "[readymix]"
 ---
 
