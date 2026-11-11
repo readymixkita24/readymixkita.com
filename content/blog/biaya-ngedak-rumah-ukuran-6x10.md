@@ -1,7 +1,7 @@
 ---
 title: "Biaya Ngedak Rumah Ukuran 6x10: Rincian, Estimasi, dan Tips Hemat 2026"
 date: "2026-10-23"
-lastmod: "2026-11-04"
+lastmod: "2026-11-11"
 categories:
  - "blog"
 type: "product"
@@ -40,7 +40,7 @@ Asumsikan kita menggunakan beton K-300 dengan ketebalan dak 12 cm. Luas area dak
 Untuk besi tulangan, asumsikan penggunaan besi diameter 10 mm dengan jarak 20 cm x 20 cm. Perhitungan detail besi tulangan memerlukan keahlian struktur bangunan, namun sebagai gambaran kasar, biaya besi tulangan dapat berkisar antara Rp 2.000.000 hingga Rp 3.000.000. Biaya bekisting (kayu atau baja) dan tenaga kerja dapat diperkirakan sekitar Rp 3.000.000 hingga Rp 5.000.000. Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Mitra Readymix Kita.
 
 ## Tips Menghemat Biaya Ngedak Rumah
-Terdapat beberapa strategi yang dapat Anda terapkan untuk menghemat biaya ngedak rumah 6x10 meter. Salah satunya adalah memilih penyedia beton readymix yang terpercaya dan menawarkan harga yang kompetitif. Kami di Readymix Kita senantiasa berupaya memberikan harga terbaik tanpa mengorbankan kualitas produk.
+Terdapat beberapa strategi yang dapat Anda terapkan untuk menghemat biaya ngedak rumah 6x10 meter. Salah satunya adalah memilih penyedia beton readymix yang terpercaya dan menawarkan harga yang kompetitif. Kami di Readymix Kita senantiasa berupaya memberikan harga terbaik tanpa mengorbankan kualitas produk, dan Mitra juga bisa menemukan [tips praktis untuk ngedak rumah yang lebih murah](/blog/cara-ngedak-rumah-yang-murah/).
 
 Pertimbangkan untuk menggunakan concrete pump guna menghemat waktu dan biaya tenaga kerja. Concrete pump memungkinkan pengecoran beton dilakukan dengan lebih cepat dan efisien, terutama untuk area yang sulit dijangkau oleh truk molen. Selain itu, perencanaan yang matang dan peminimalan pemborosan material juga dapat membantu Anda menghemat anggaran. Anda juga dapat membaca artikel terkait tentang [Biaya Cor Dak 6x10: Estimasi Lengkap & Tips Menghemat 2026](/blog/biaya-ngedak-ukuran-3x6/) untuk mendapatkan informasi yang lebih mendalam.
 
