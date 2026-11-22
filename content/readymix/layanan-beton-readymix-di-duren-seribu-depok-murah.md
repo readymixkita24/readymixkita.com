@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Duren Seribu Depok Murah"
 date: "2023-02-21"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

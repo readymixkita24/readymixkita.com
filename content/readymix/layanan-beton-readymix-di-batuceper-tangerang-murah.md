@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Batuceper Tangerang Murah"
 date: "2023-11-02"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

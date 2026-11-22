@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K225 Fresh Beton: Update, Cek Sekarang!"
 date: "2023-07-03"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix-cor"
 ---

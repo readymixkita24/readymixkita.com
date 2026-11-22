@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Kebon Kosong Jakarta Murah"
 date: "2023-09-21"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

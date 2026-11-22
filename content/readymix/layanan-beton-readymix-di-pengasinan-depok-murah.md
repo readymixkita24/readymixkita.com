@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pengasinan Depok Murah"
 date: "2023-03-23"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

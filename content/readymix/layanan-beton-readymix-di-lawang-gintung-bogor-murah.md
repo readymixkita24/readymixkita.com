@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Lawang Gintung Bogor Murah"
 date: "2023-11-17"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Harga Readymix Cor K400 Pioner: Hemat dan Berkualitas!"
 date: "2023-06-16"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: 
   - "readymix-cor"
 ---

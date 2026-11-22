@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Pegangsaan Jakarta Murah"
 date: "2023-01-03"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

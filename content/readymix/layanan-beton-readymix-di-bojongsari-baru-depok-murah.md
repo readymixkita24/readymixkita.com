@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bojongsari Baru Depok Murah"
 date: "2023-03-01"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bantarjati Bogor Murah"
 date: "2023-07-10"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

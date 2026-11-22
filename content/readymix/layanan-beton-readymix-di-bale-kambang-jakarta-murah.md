@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Bale Kambang Jakarta Murah"
 date: "2023-02-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 

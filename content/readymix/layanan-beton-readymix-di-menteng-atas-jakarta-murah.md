@@ -1,7 +1,7 @@
 ---
 title: "Layanan Beton Readymix di Menteng Atas Jakarta Murah"
 date: "2023-12-11"
-lastmod: "2026-11-15"
+lastmod: "2026-11-22"
 categories: "[readymix]"
 ---
 
