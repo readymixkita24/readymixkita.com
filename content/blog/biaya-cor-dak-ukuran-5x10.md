@@ -1,7 +1,7 @@
 ---
 title: "Biaya Cor Dak Ukuran 5x10: Estimasi Lengkap dan Tips Penghematan 2026"
 date: "2026-10-19"
-lastmod: "2026-10-21"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "product"
@@ -29,7 +29,7 @@ Dengan demikian, estimasi biaya beton readymix untuk area 5x10 meter adalah: 6 m
 
 Selain harga beton readymix, beberapa faktor lain juga berpengaruh pada total biaya cor dak 5x10 meter. Faktor-faktor tersebut meliputi:
 
-*   **Mutu Beton:** Semakin tinggi mutu beton (misalnya K-300 lebih mahal dari K-250), semakin tinggi pula biayanya. Pemilihan mutu beton harus disesuaikan dengan kebutuhan struktural bangunan.
+*   **Mutu Beton:** Semakin tinggi mutu beton (misalnya K-300 lebih mahal dari K-250), semakin tinggi pula biayanya. Pemilihan mutu beton harus disesuaikan dengan kebutuhan struktural bangunan, dan pemilihan [ukuran batu split untuk cor rumah](/blog/ukuran-batu-split-untuk-cor-rumah/) juga sangat berpengaruh pada kualitas akhir beton.
 *   **Jarak Tempuh:** Biaya transportasi beton readymix dari batching plant ke lokasi proyek akan meningkat seiring dengan jarak tempuh.
 *   **Aksesibilitas Lokasi:** Lokasi proyek yang sulit dijangkau oleh truk mixer beton dapat dikenakan biaya tambahan.
 *   **Penyewaan Concrete Pump (Pompa Beton):** Untuk pengecoran dak yang lebih efisien dan hemat tenaga kerja, Kami sangat merekomendasikan penggunaan concrete pump. Biaya sewa concrete pump bervariasi tergantung kapasitas pompa dan durasi penyewaan.

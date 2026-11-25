@@ -1,7 +1,7 @@
 ---
 title: "Biaya Dak Rumah Ukuran 6x12: Estimasi Terbaru dan Tips Penghematan 2026"
 date: "2026-10-21"
-lastmod: "2026-10-28"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "product"
@@ -27,7 +27,7 @@ Perlu diingat, harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — h
 Untuk memberikan gambaran yang lebih rinci, mari kita pecah perkiraan biaya berdasarkan komponen-komponen utama:
 
 *   **Biaya Material:** Material utama dalam pengecoran dak adalah beton readymix. Harga beton readymix per meter kubik bervariasi tergantung mutu beton (K-250, K-300, dst.) dan lokasi pengiriman. Harga rata-rata beton K-300 di wilayah Jabodetabek saat ini berkisar antara Rp 800.000 hingga Rp 1.000.000 per meter kubik.
-*   **Biaya Pembesian:** Pembesian merupakan rangka besi yang berfungsi sebagai penahan tarik pada beton. Harga besi beton per kilogram berkisar antara Rp 15.000 hingga Rp 20.000. Jumlah besi yang dibutuhkan tergantung pada desain struktur dan beban yang akan ditanggung.
+*   **Biaya Pembesian:** Pembesian merupakan rangka besi yang berfungsi sebagai penahan tarik pada beton, dan memilih [ukuran besi sloof rumah 2 lantai](/blog/ukuran-besi-sloof-rumah-2-lantai/) yang tepat sangat krusial untuk kekuatan struktur. Harga besi beton per kilogram berkisar antara Rp 15.000 hingga Rp 20.000. Jumlah besi yang dibutuhkan tergantung pada desain struktur dan beban yang akan ditanggung.
 *   **Biaya Bekisting:** Bekisting adalah cetakan sementara yang digunakan untuk membentuk dak beton. Biaya bekisting tergantung pada jenis bahan yang digunakan (kayu, baja, atau aluminium) dan luas permukaan yang dicetak.
 *   **Biaya Tenaga Kerja:** Biaya tenaga kerja bervariasi tergantung pada tingkat kesulitan pekerjaan dan upah tenaga kerja di wilayah tersebut.
 
@@ -65,4 +65,4 @@ Dalam proses pengecoran dak, Mitra Readymix Kita memiliki dua opsi utama: pengec
 
 Perlu dipertimbangkan bahwa penggunaan *concrete pump* akan sangat menghemat waktu dan tenaga kerja, terutama untuk proyek dengan akses terbatas. Meskipun ada biaya sewa tambahan, efisiensi yang didapatkan seringkali lebih besar daripada biaya tersebut. [Pelajari lebih lanjut tentang jasa sewa concrete pump di Readymix Kita](/blog/jasa-pengecoran-dak-rumah/).
 
-Membutuhkan bantuan langsung untuk kebutuhan proyek Mitra Readymix Kita? [Cek estimasi biaya dak rumah ukuran 6x8](/blog/biaya-dak-rumah-ukuran-6x8/) untuk perbandingan. Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk berkonsultasi dengan tim Kami.
+Membutuhkan bantuan langsung untuk kebutuhan proyek Mitra Readymix Kita? [Cek perkiraan biaya dak rumah secara lengkap](/blog/perkiraan-biaya-dak-rumah/) untuk panduan yang lebih detail. [Cek estimasi biaya dak rumah ukuran 6x8](/blog/biaya-dak-rumah-ukuran-6x8/) untuk perbandingan. Silakan klik tombol **WhatsApp** atau **Telepon** di bawah untuk berkonsultasi dengan tim Kami.

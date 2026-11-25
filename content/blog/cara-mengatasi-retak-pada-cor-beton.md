@@ -1,6 +1,7 @@
 ---
 title: "Cara Mengatasi Retak pada Cor Beton: Panduan Lengkap dan Solusi Efektif"
 date: "2026-10-25"
+lastmod: "2026-11-25"
 categories:
  - "blog"
 type: "product"
@@ -19,7 +20,7 @@ draft: false
 
 Anda mungkin bertanya-tanya, mengapa beton bisa retak? Ada beberapa penyebab utama yang perlu Anda ketahui. Pertama, **susutnya beton** akibat proses hidrasi semen. Proses ini melepaskan panas dan menyebabkan beton menyusut seiring mengeras, yang bisa menimbulkan retak halus, terutama pada area yang luas. Kedua, **beban berlebihan** atau **desain struktural yang kurang tepat** dapat memicu retak yang lebih signifikan. Beban yang melebihi kapasitas beton akan menyebabkan tegangan internal yang akhirnya memicu retakan. Ketiga, **perubahan suhu ekstrem** juga berperan penting. Pemuaian dan penyusutan akibat perubahan suhu dapat menciptakan tekanan internal pada beton, terutama pada bangunan di iklim tropis seperti Indonesia.
 
-Selain itu, kualitas material yang kurang baik, seperti penggunaan agregat yang tidak sesuai standar atau semen yang sudah kedaluwarsa, dapat berkontribusi pada pembentukan retak. Konsultasikan dengan penyedia beton readymix terpercaya seperti Kami untuk memastikan kualitas material yang Anda gunakan. [Jasa Cor Beton Ready Mix: Solusi Praktis dan Efisien untuk Proyek Konstruksi Anda](/blog/jasa-cor-beton-ready-mix/) akan membantu Anda dalam memilih material yang tepat.
+Selain itu, kualitas material yang kurang baik, seperti penggunaan agregat yang tidak sesuai standar atau semen yang sudah kedaluwarsa, dapat berkontribusi pada pembentukan retak, yang seringkali menjadi [penyebab cor dak retak](/blog/penyebab-cor-dak-retak/). Konsultasikan dengan penyedia beton readymix terpercaya seperti Kami untuk memastikan kualitas material yang Anda gunakan. [Jasa Cor Beton Ready Mix: Solusi Praktis dan Efisien untuk Proyek Konstruksi Anda](/blog/jasa-cor-beton-ready-mix/) akan membantu Anda dalam memilih material yang tepat.
 
 ## Identifikasi Jenis Retak dan Tingkat Keparahannya
 
